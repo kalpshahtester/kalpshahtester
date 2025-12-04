@@ -1,70 +1,61 @@
 <h1 align="center">Hi, I'm Kalp Shah 👋</h1>
-<h3 align="center">Manual QA Tester | Web & Mobile Testing | Functional, UI & Regression Testing | Jira | Test Cases & Documentation</h3>
+<h3 align="center">Manual QA Tester | Functional • UI • Regression • Test Documentation • Jira</h3>
 
 ---
 
-## 💼 About Me  
-I am a Manual QA Tester with strong experience in Functional, UI, Regression, Sanity, and Exploratory testing for web applications.  
-I specialise in writing detailed Test Scenarios, Test Cases, Bug Reports, RTM, Test Summary Reports, HLR, and Test Plan documentation aligned with real QA standards.
-
-With 4+ years of technical background in IT support and system validation, I bring strong analytical thinking, precise documentation, and a problem-solving mindset into QA workflows.
+## 💼 Professional Summary  
+Manual QA Tester with hands-on experience in functional, UI, regression, and exploratory testing on web applications.  
+Skilled in preparing structured QA documentation including **HLR, Test Plans, Test Scenarios, Test Cases, Bug Reports, RTM, and Summary Reports**.  
+Strong understanding of **SDLC/STLC**, defect life cycle, and test execution workflows.  
+Detail-oriented, analytical, and committed to delivering high-quality software.  :contentReference[oaicite:4]{index=4}
 
 ---
 
-## 🛠️ Skills & Tools  
-
-### **Testing Skills**
-- Functional Testing  
+## 🛠 Skills  
+### **Testing**
+- Functional, Regression, Sanity, Smoke  
 - UI/UX Testing  
-- Regression Testing  
-- Smoke & Sanity Testing  
-- Negative & Exploratory Testing  
+- Exploratory & Negative Testing  
 - Cross-Browser Testing  
 
-### **Documentation Skills**
-- Test Case Writing  
-- Test Scenario Design  
-- Bug Reporting (Jira)  
-- HLR, Test Plan, RTM, Summary Report  
-- Requirement Analysis  
+### **Documentation**
+- Test Scenarios  
+- Test Cases  
+- Bug Reports  
+- RTM, HLR, Test Plans  
+- Test Summary Reports  
 
-### **Tools & Technologies**
+### **Tools**
 - Jira  
+- MS Excel  
 - GitHub  
-- Excel  
-- SQL (Basic)  
-- HTML & CSS (Basic)  
+
+### **Soft Skills**
+- Analytical  
+- Detail-Oriented  
+- Problem Solving  
+- Collaborative  
 
 ---
 
 ## 📂 Featured Project  
-### **SauceDemo – Complete Manual Testing Project**  
-🔗 **Repo:** https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website
+### **SauceDemo – Manual Testing Project**  
+Includes HLR, Test Plan, 47 Test Scenarios, 62+ Test Cases, Bug Report, RTM & Summary Report.  
+Executed functional, UI, negative, and regression testing.  :contentReference[oaicite:5]{index=5}
 
-**Includes:**  
-✔ HLR  
-✔ Test Plan  
-✔ Test Scenarios  
-✔ Test Cases  
-✔ Bug Report  
-✔ RTM  
-✔ Summary Report  
-✔ Screenshots  
-✔ Functional, UI & Regression Testing  
+🔗 https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website
 
 ---
 
-## 👤 Contributors  
-This profile and QA projects are created and maintained by:
-
-**Kalp Shah**  
-Manual QA Tester  
-🔗 GitHub: https://github.com/kalpshahtester  
-🔗 LinkedIn: https://www.linkedin.com/in/kalp-shah-software-tester/  
+## 🧰 Experience  
+### **Computer Engineer – J. B. And Brothers Pvt. Ltd.**  
+Performed system validation, troubleshooting, configuration testing, and documentation for 100+ employees.  
+Experience includes OS installation checks, functional validation, issue reproduction documentation, access control,  
+and environment setup — all closely aligned with QA workflows.  :contentReference[oaicite:6]{index=6}
 
 ---
 
-## 🌟 GitHub Trophies  
+## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kalpshahtester&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
@@ -73,37 +64,20 @@ Manual QA Tester
 
 ## 🔥 GitHub Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kalpshahtester&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=kalpshahtester&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpshahtester&layout=compact&theme=tokyonight&cache_seconds=1800" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpshahtester&layout=compact&theme=tokyonight" height="160">
 </p>
 
 ---
 
-## ⚡ Recent Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpshahtester&theme=tokyonight" />
-</p>
-
----
-
-## 👁️ Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalpshahtester&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-## 📬 Connect with Me  
-- **LinkedIn:** https://www.linkedin.com/in/kalp-shah-software-tester/  
-- **Email:** manualtesterkalpshah@gmail.com  
-
----
-
-⭐ *Thank you for visiting my profile! Feel free to explore my QA projects or connect with me for opportunities.*
+## 📬 Contact  
+Email: manualtesterkalpshah@gmail.com  
+LinkedIn: https://www.linkedin.com/in/kalp-shah-software-tester/  
+GitHub: https://github.com/kalpshahtester 
