@@ -14,7 +14,7 @@
 ## ⭐ Professional Summary
 Manual QA Tester with hands-on experience in **functional, UI, regression, smoke, sanity, and exploratory testing** of web applications.
 
-Experienced in creating structured QA documentation:
+Experienced in producing structured QA documentation, including:
 
 - HLR  
 - Test Plan  
@@ -24,16 +24,15 @@ Experienced in creating structured QA documentation:
 - RTM  
 - Summary Reports  
 
-Strong understanding of **SDLC/STLC**, Defect Life Cycle, and test execution workflows.  
-Committed to delivering **high-quality, defect-free software** with an analytical and detail-oriented approach.
+Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test execution workflows.  
+Committed to delivering **high-quality, defect-free software** with precision and clarity.
 
 ---
 
 ## 🌐 Portfolio Website
+https://kalpshahtester.github.io/
 
-### https://kalpshahtester.github.io/
-
-Explore all QA projects, documentation, certifications, and skills.
+Explore my QA portfolio, detailed documentation, certifications, and skill set.
 
 ---
 
@@ -51,7 +50,7 @@ Explore all QA projects, documentation, certifications, and skills.
 - Test Cases  
 - Bug Reports  
 - Test Plans  
-- HLR, RTM & Summary Reports  
+- RTM, HLR & Summary Reports  
 
 ### **Tools**
 - Jira  
@@ -62,14 +61,14 @@ Explore all QA projects, documentation, certifications, and skills.
 - Analytical Thinking  
 - Detail-Oriented  
 - Problem Solving  
-- Collaboration & Communication  
+- Communication & Collaboration  
 
 ---
 
 ## 🌟 Featured Project
 
 ### **SauceDemo – Manual Testing Project**
-Includes:
+Complete manual testing deliverables:
 
 - HLR  
 - Test Plan  
@@ -79,31 +78,29 @@ Includes:
 - RTM  
 - Summary Report  
 
-Testing types covered: **Functional, UI, Negative & Regression**.
+Testing covered **Functional, UI, Negative & Regression** flows.
 
-🔗 Repository:  
+Repository:  
 https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website
 
 ---
 
 ## 🧑‍💼 Professional Experience
 
-### **Computer Engineer — J. B. And Brothers Pvt. Ltd.**
-
-Worked on:
+### Computer Engineer — *J. B. And Brothers Pvt. Ltd.*
+Performed validation, diagnostics, and documentation tasks closely aligned with QA responsibilities:
 
 - System validation & configuration testing  
 - OS verification & functional checks  
 - Issue reproduction & troubleshooting  
 - Documentation & user support  
-- Monitoring & access control  
+- Access control & monitoring  
 
-Experience closely aligned with QA workflows.
+This experience strengthened my analytical, documentation, and problem-solving capabilities.
 
 ---
 
-## 📄 Download My Resume
-
+## 📄 Download My Resume  
 [**Download Resume (PDF)**](https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf)
 
 ---
@@ -127,43 +124,9 @@ https://kalpshahtester.github.io/
 
 ---
 
-## 📊 GitHub Analytics (Auto Dark/Light Mode)
-
-<p align="center">
-
-  <!-- Auto adapt GitHub Stats -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true" height="160" />
-  </picture>
-
-  <!-- Auto adapt Streak Stats -->
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kalpshahtester&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kalpshahtester&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpshahtester" height="160" />
-  </picture>
-
-</p>
-
----
-
 ## ⭐ Open to Work
 Actively seeking **Manual QA / Software Tester** roles.  
-**Immediate joining available.**
+Immediate joining available.
 
 ---
 
