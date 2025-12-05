@@ -11,8 +11,9 @@
 
 # 🔗 Quick Access Buttons  
 
+<!-- Direct Download Resume -->
 <p>
-  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf" target="_blank" download>
     <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge" />
   </a>
 </p>
