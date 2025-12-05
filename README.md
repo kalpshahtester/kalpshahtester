@@ -65,8 +65,7 @@ Explore my projects, certifications, and QA documentation portfolio.
 
 ---
 
-## 🏅 Certifications Timeline  
-*(As per your official resume)*
+## 🏅 Certifications Timeline
 
 ### **2025 – Automation Testing Training (In Progress)**  
 **Institute:** TOPS Technologies Pvt. Ltd.
@@ -146,8 +145,9 @@ Experience closely aligned with QA workflows.
 
 # 📬 Contact Me  
 
+<!-- Fully working Gmail Compose button -->
 <p>
-  <a href="mailto:manualtesterkalpshah@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=manualtesterkalpshah@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
