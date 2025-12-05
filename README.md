@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Kalp Shah</h1>
-<h3 align="center">Manual QA Tester | Functional • UI • Regression • Documentation | Jira</h3>
-
-<p align="center">
-  Surat, Gujarat • Open to Manual QA Roles (Fresher / Junior) • Immediate Joiner
-</p>
+# 👋 Hi, I'm Kalp Shah  
+**Manual QA Tester | Functional · UI · Regression · Test Documentation · Jira**  
+🚀 Actively Looking for Manual QA Roles (Fresher / Junior)  
+📍 Surat, Gujarat | Immediate Joiner  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalpshahtester&label=Profile%20Views&color=blue&style=flat" />
@@ -11,32 +9,81 @@
 
 ---
 
-## ⭐ Professional Summary
+# 🔗 Quick Access Buttons  
+
+<p>
+  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p>
+  <a href="https://kalpshahtester.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kalpshahtester" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p>
+  <a href="https://wa.me/918160426134" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
+
+---
+
+## 🎯 Career Objective  
+To obtain a Manual QA Tester position where I can apply my skills in functional, UI, regression, and exploratory testing while contributing to high-quality software delivery. I aim to grow in a professional environment where I can strengthen my testing expertise, learn automation, and deliver reliable, well-documented QA outcomes that support business and product goals.
+
+---
+
+## ⭐ Professional Summary  
 Manual QA Tester with hands-on experience in **functional, UI, regression, smoke, sanity, and exploratory testing** of web applications.
 
-Experienced in producing structured QA documentation, including:
-
-- HLR  
-- Test Plan  
-- Test Scenarios  
-- Test Cases  
-- Bug Reports  
-- RTM  
-- Summary Reports  
+Skilled in preparing structured QA documentation including:  
+**HLR, Test Plans, Test Scenarios, Test Cases, Bug Reports, RTM, Summary Reports.**
 
 Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test execution workflows.  
-Committed to delivering **high-quality, defect-free software** with precision and clarity.
+Detail-oriented, analytical, and committed to delivering **high-quality software**.
 
 ---
 
-## 🌐 Portfolio Website
-https://kalpshahtester.github.io/
-
-Explore my QA portfolio, detailed documentation, certifications, and skill set.
+## 🌐 Portfolio Website  
+https://kalpshahtester.github.io/  
+Explore my projects, certifications, and QA documentation portfolio.
 
 ---
 
-## 🧰 Skills & Tools
+## 🏅 Certifications Timeline  
+*(As per your official resume)*
+
+### **2025 – Automation Testing Training (In Progress)**  
+**Institute:** TOPS Technologies Pvt. Ltd.
+
+---
+
+### **2024 – Manual Testing Course (Completed)**  
+**Institute:** TOPS Technologies Pvt. Ltd.
+
+---
+
+### **2024 – Generative AI Mastermind – Certificate of Completion**  
+**Organization:** Outskill
+
+---
+
+## 🧰 Tech Stack & Skills  
 
 ### **Testing Skills**
 - Functional Testing  
@@ -54,22 +101,20 @@ Explore my QA portfolio, detailed documentation, certifications, and skill set.
 
 ### **Tools**
 - Jira  
-- GitHub  
 - MS Excel  
+- GitHub  
 
 ### **Soft Skills**
 - Analytical Thinking  
 - Detail-Oriented  
 - Problem Solving  
-- Communication & Collaboration  
+- Collaboration & Communication  
 
 ---
 
-## 🌟 Featured Project
-
+## 🌟 Featured Project  
 ### **SauceDemo – Manual Testing Project**
-Complete manual testing deliverables:
-
+Includes:  
 - HLR  
 - Test Plan  
 - **47 Test Scenarios**  
@@ -78,54 +123,63 @@ Complete manual testing deliverables:
 - RTM  
 - Summary Report  
 
-Testing covered **Functional, UI, Negative & Regression** flows.
+Testing performed: **Functional, UI, Negative, Regression**
 
-Repository:  
-https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website
-
----
-
-## 🧑‍💼 Professional Experience
-
-### Computer Engineer — *J. B. And Brothers Pvt. Ltd.*
-Performed validation, diagnostics, and documentation tasks closely aligned with QA responsibilities:
-
-- System validation & configuration testing  
-- OS verification & functional checks  
-- Issue reproduction & troubleshooting  
-- Documentation & user support  
-- Access control & monitoring  
-
-This experience strengthened my analytical, documentation, and problem-solving capabilities.
+🔗 Repository:  
+https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website  
 
 ---
 
-## 📄 Download My Resume  
-[**Download Resume (PDF)**](https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf)
+## 🧑‍💼 Professional Experience  
+
+### **Computer Engineer – J. B. And Brothers Pvt. Ltd.**
+Responsibilities included:  
+- System validation and configuration testing  
+- OS verification and functional checks  
+- Issue reproduction and troubleshooting  
+- Documentation and user support  
+- Access control and system monitoring  
+
+Experience closely aligned with QA workflows.
 
 ---
 
-## 📬 Contact
+# 📬 Contact Me  
 
-**Email:**  
-manualtesterkalpshah@gmail.com  
+<p>
+  <a href="mailto:manualtesterkalpshah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-**WhatsApp:**  
-https://wa.me/918160426134  
+<p>
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Message-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-**LinkedIn:**  
-https://www.linkedin.com/in/kalp-shah-software-tester/  
+<p>
+  <a href="https://wa.me/918160426134" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
 
-**GitHub:**  
-https://github.com/kalpshahtester  
+<p>
+  <a href="https://github.com/kalpshahtester" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Open-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-**Portfolio:**  
-https://kalpshahtester.github.io/
+<p>
+  <a href="https://kalpshahtester.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## ⭐ Open to Work
-Actively seeking **Manual QA / Software Tester** roles.  
+## ⭐ Open to Work  
+Actively seeking **Manual QA / Software Tester** opportunities.  
 Immediate joining available.
 
 ---
