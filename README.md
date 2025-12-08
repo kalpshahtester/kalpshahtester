@@ -73,12 +73,12 @@ Explore my projects, certifications, and QA documentation portfolio.
 
 ---
 
-### **2024 – Manual Testing Course (Completed)**  
+### **2025 – Manual Testing Course (Completed)**  
 **Institute:** TOPS Technologies Pvt. Ltd.
 
 ---
 
-### **2024 – Generative AI Mastermind – Certificate of Completion**  
+### **2025 – Generative AI Mastermind – Certificate of Completion**  
 **Organization:** Outskill
 
 ---
