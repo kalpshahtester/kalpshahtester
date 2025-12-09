@@ -1,213 +1,440 @@
-# 👋 Hi, I'm Kalp Shah  
-**Manual QA Tester | Functional · UI · Regression · Test Documentation · Jira**  
-🚀 Actively Looking for Manual QA Roles (Fresher / Junior)  
-📍 Surat, Gujarat | Immediate Joiner  
+<div align="center">
+
+# 🎯 Hi, I'm Kalp Shah
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Manual+QA+Tester+%7C+Quality+Assurance+Engineer;Functional+Testing+%7C+UI+Testing+%7C+Regression+Testing;Test+Documentation+Expert+%7C+Jira+Specialist" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kalpshahtester&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Manual%20Testing-00ADD8?style=flat" />
+  <img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=flat" />
+</p>
+
+### 🚀 Actively Looking for Manual QA Roles | Fresher / Junior Level
+### 📍 Based in Surat, Gujarat | Immediate Joiner Available
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 Quick Access
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📄 Professional
+
+<a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📥_Download_Resume-2563EB?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://kalpshahtester.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio_Website-10B981?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🧪 Testing Projects
+
+<a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website" target="_blank">
+  <img src="https://img.shields.io/badge/🎯_SauceDemo_Project-F97316?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://github.com/kalpshahtester?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/📁_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 💬 Connect With Me
+
+<a href="https://wa.me/918160426134" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manualtesterkalpshah@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/kalpshahtester" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Career Objective
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalpshahtester&label=Profile%20Views&color=blue&style=flat" />
+<i>To obtain a Manual QA Tester position where I can apply my skills in functional, UI, regression, and exploratory testing while contributing to high-quality software delivery. I aim to grow in a professional environment where I can strengthen my testing expertise, learn automation, and deliver reliable, well-documented QA outcomes that support business and product goals.</i>
 </p>
 
 ---
 
-# 🔗 Quick Access  
+<div align="center">
 
-### 📄 **Professional Links**
-<p>
-  <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf" target="_blank" download>
-    <img src="https://img.shields.io/badge/📥_Download_Resume-PDF-blue?style=for-the-badge" />
-  </a>
-  <a href="https://kalpshahtester.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Now-green?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+## ⭐ Professional Summary
 
-### 🧪 **Testing Projects**
-<p>
-  <a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website" target="_blank">
-    <img src="https://img.shields.io/badge/🎯_SauceDemo_Testing_Project-View-orange?style=for-the-badge" />
-  </a>
-</p>
+</div>
 
-### 💬 **Get in Touch**
-<p>
-  <a href="https://wa.me/918160426134" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=manualtesterkalpshah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/kalpshahtester" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
----
-
-## 🎯 Career Objective  
-To obtain a Manual QA Tester position where I can apply my skills in functional, UI, regression, and exploratory testing while contributing to high-quality software delivery. I aim to grow in a professional environment where I can strengthen my testing expertise, learn automation, and deliver reliable, well-documented QA outcomes that support business and product goals.
-
----
-
-## ⭐ Professional Summary  
+### 🔍 Testing Expertise
 Manual QA Tester with hands-on experience in **functional, UI, regression, smoke, sanity, and exploratory testing** of web applications.
 
-Skilled in preparing structured QA documentation including:  
-**HLR, Test Plans, Test Scenarios, Test Cases, Bug Reports, RTM, Summary Reports.**
+</td>
+<td align="center" width="50%">
 
-Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test execution workflows.  
-Detail-oriented, analytical, and committed to delivering **high-quality software**.
+### 📋 Documentation Skills
+Expert in preparing structured QA documentation: **HLR, Test Plans, Test Scenarios, Test Cases, Bug Reports, RTM, Summary Reports.**
 
----
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-## 🌐 Portfolio Website  
-🔗 **https://kalpshahtester.github.io/**  
-Explore my projects, certifications, and QA documentation portfolio.
+### 🎓 Process Knowledge
+Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test execution workflows. Detail-oriented, analytical, and committed to delivering **high-quality software**.
 
----
-
-## 🏅 Certifications Timeline
-
-### **2025 – Automation Testing Training (In Progress)** 🔄
-**Institute:** TOPS Technologies Pvt. Ltd.
-
----
-
-### **2025 – Manual Testing Course (Completed)** ✅
-**Institute:** TOPS Technologies Pvt. Ltd.
+</td>
+</tr>
+</table>
 
 ---
 
-### **2025 – Generative AI Mastermind – Certificate of Completion** ✅
-**Organization:** Outskill
+<div align="center">
+
+## 🏅 Certifications & Training
+
+<img src="https://img.shields.io/badge/2025-Automation_Testing_(In_Progress)-00ADD8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2025-Manual_Testing_Completed-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2025-Generative_AI_Mastermind-8B5CF6?style=for-the-badge" />
+
+**Institute:** TOPS Technologies Pvt. Ltd. | **AI Course:** Outskill
+
+</div>
 
 ---
 
-## 🧰 Tech Stack & Skills  
+<div align="center">
+
+## 🧰 Tech Stack & Skills
+
+### Testing Competencies
+
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manual_Testing-Expert-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Functional_Testing-Advanced-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI_Testing-Advanced-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Regression_Testing-Advanced-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jira-Proficient-blue?style=for-the-badge&logo=jira" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Functional_Testing-Expert-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI/UX_Testing-Advanced-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression_Testing-Advanced-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smoke_Testing-Proficient-EAB308?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sanity_Testing-Proficient-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploratory_Testing-Advanced-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Negative_Testing-Advanced-EF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cross_Browser_Testing-Proficient-06B6D4?style=for-the-badge" />
 </p>
 
-### **Testing Skills**
-- ✅ Functional Testing  
-- 🎨 UI/UX Testing  
-- 🔄 Regression, Sanity & Smoke Testing  
-- ⚠️ Negative & Exploratory Testing  
-- 🌐 Cross-Browser Testing  
+<div align="center">
 
-### **Documentation**
-- 📝 Test Scenarios  
-- 📋 Test Cases  
-- 🐛 Bug Reports  
-- 📑 Test Plans  
-- 🔗 RTM, HLR & Summary Reports  
+### Tools & Technologies
 
-### **Tools**
-- 🔧 Jira  
-- 📊 MS Excel  
-- 💻 GitHub  
+</div>
 
-### **Soft Skills**
-- 🧠 Analytical Thinking  
-- 🔍 Detail-Oriented  
-- 💡 Problem Solving  
-- 🤝 Collaboration & Communication  
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+</p>
+
+<div align="center">
+
+### Core Competencies
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+#### 🧪 Testing Skills
+✅ Functional Testing  
+🎨 UI/UX Testing  
+🔄 Regression Testing  
+⚠️ Negative Testing  
+🌐 Cross-Browser Testing  
+
+</td>
+<td align="center" width="25%">
+
+#### 📝 Documentation
+📋 Test Scenarios  
+✅ Test Cases  
+🐛 Bug Reports  
+📑 Test Plans  
+🔗 RTM & HLR  
+
+</td>
+<td align="center" width="25%">
+
+#### 🔧 Methodologies
+📊 SDLC/STLC  
+🔄 Agile Testing  
+🐛 Defect Life Cycle  
+📈 Test Metrics  
+✅ Quality Assurance  
+
+</td>
+<td align="center" width="25%">
+
+#### 💡 Soft Skills
+🧠 Analytical Thinking  
+🔍 Attention to Detail  
+💬 Communication  
+🤝 Team Collaboration  
+⏰ Time Management  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Featured Project  
+<div align="center">
 
-### **🎯 SauceDemo – Complete Manual Testing Project**
+## 🌟 Featured Project
 
-<p>
-  <a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+### 🎯 SauceDemo - Complete Manual Testing Project
 
-**Project Highlights:**
-- 📄 High Level Requirements (HLR)  
-- 📋 Comprehensive Test Plan  
-- 🎯 **47 Test Scenarios**  
-- ✅ **62+ Test Cases**  
-- 🐛 Detailed Bug Report  
-- 🔗 Requirements Traceability Matrix (RTM)  
-- 📊 Executive Summary Report  
+<a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_View_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Testing Coverage:**
-- Functional Testing
-- UI/UX Testing
-- Negative Testing
-- Regression Testing
+</div>
 
-**Tech Used:** Manual Testing | Jira | MS Excel | Test Documentation
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
----
+### 📊 Project Statistics
 
-## 🧑‍💼 Professional Experience  
+🎯 **47** Test Scenarios  
+✅ **62+** Test Cases  
+🐛 **15+** Bugs Identified  
+📑 **7** Documentation Types  
+🔄 **4** Testing Types Covered  
 
-### **Computer Engineer – J. B. And Brothers Pvt. Ltd.**
-**Key Responsibilities:**
-- ✅ System validation and configuration testing  
-- 🔍 OS verification and functional checks  
-- 🐛 Issue reproduction and troubleshooting  
-- 📝 Documentation and user support  
-- 🔐 Access control and system monitoring  
+</td>
+<td align="center" width="50%">
 
-*Experience closely aligned with QA workflows and quality assurance practices.*
+### 📁 Deliverables
 
----
+📄 High Level Requirements (HLR)  
+📋 Comprehensive Test Plan  
+🎯 Detailed Test Scenarios  
+✅ Complete Test Cases  
+🐛 Bug Reports with Evidence  
+🔗 Requirements Traceability Matrix  
+📊 Executive Summary Report  
 
-# 📬 Contact Me  
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=manualtesterkalpshah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-manualtesterkalpshah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kalp_Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### 🧪 Testing Coverage
 
-<p align="center">
-  <a href="https://wa.me/918160426134" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-+91_8160426134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Functional_Testing-100%25-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI_Testing-100%25-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Negative_Testing-100%25-EF4444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Regression_Testing-100%25-F97316?style=for-the-badge" />
 
-<p align="center">
-  <a href="https://kalpshahtester.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kalpshahtester.github.io-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+**Technologies Used:** Manual Testing · Jira · MS Excel · Test Documentation · Bug Tracking
+
+</div>
 
 ---
 
-## 💼 Open to Work  
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Manual_QA_Tester-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Availability-Immediate_Joiner-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Surat,_Gujarat-orange?style=for-the-badge" />
-</p>
+## 🧑‍💼 Professional Experience
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+### **Computer Engineer** - J. B. And Brothers Pvt. Ltd.
+
+**Key Responsibilities aligned with QA workflows:**
+
+✅ **System Validation** - Performed configuration testing and system validation  
+🔍 **Verification** - Conducted OS verification and comprehensive functional checks  
+🐛 **Troubleshooting** - Issue reproduction, analysis, and resolution  
+📝 **Documentation** - Maintained detailed documentation and provided user support  
+🔐 **Security** - Managed access control and system monitoring  
+📊 **Quality Focus** - Ensured system reliability and performance standards  
+
+*This role provided hands-on experience with testing methodologies, defect tracking, and quality assurance practices essential for software testing.*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Thank You for Visiting My GitHub Profile!
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+## 📬 Contact Information
+
+### Let's Connect and Build Quality Software Together!
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50"/>
+
+**Email**
+
+[manualtesterkalpshah@gmail.com](mailto:manualtesterkalpshah@gmail.com)
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manualtesterkalpshah@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50"/>
+
+**LinkedIn**
+
+Professional Profile
+
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/000000/whatsapp.png" width="50"/>
+
+**WhatsApp**
+
++91 8160426134
+
+<a href="https://wa.me/918160426134" target="_blank">
+  <img src="https://img.shields.io/badge/Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50"/>
+
+**Portfolio**
+
+Visit My Website
+
+<a href="https://kalpshahtester.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-10B981?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Open to Work
+
+<table>
+<tr>
+<td align="center">
+
+### 🎯 Looking For
+
+<img src="https://img.shields.io/badge/Position-Manual_QA_Tester-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Level-Fresher_/_Junior-10B981?style=for-the-badge" />
+
+</td>
+<td align="center">
+
+### 📍 Preferences
+
+<img src="https://img.shields.io/badge/Location-Surat,_Gujarat-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Remote_/_Onsite-8B5CF6?style=for-the-badge" />
+
+</td>
+<td align="center">
+
+### ⚡ Availability
+
+<img src="https://img.shields.io/badge/Status-Immediate_Joiner-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Notice-Available_Now-06B6D4?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌟 What I Bring to Your Team
+
+```
+✅ Strong Foundation in Manual Testing Methodologies
+✅ Comprehensive Test Documentation Skills
+✅ Detail-Oriented with High Accuracy in Bug Detection
+✅ Quick Learner & Adaptable to New Technologies
+✅ Team Player with Excellent Communication Skills
+✅ Commitment to Quality & Continuous Improvement
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🙏 Thank You for Visiting My Profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Feel+free+to+reach+out+anytime!;Let's+build+quality+software+together!;Always+open+to+new+opportunities!" alt="Typing SVG" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+
+**Made with ❤️ by Kalp Shah | Manual QA Tester**
+
+</div>
