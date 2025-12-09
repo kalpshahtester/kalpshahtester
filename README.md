@@ -2,7 +2,7 @@
 
 # 🎯 Hi, I'm Kalp Shah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=100%25&lines=Manual+QA+Tester;Quality+Assurance+Engineer;Functional+%7C+UI+%7C+Regression+Testing;Test+Documentation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=26&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=800&lines=Manual+QA+Tester;Quality+Assurance+Engineer;Functional+%7C+UI+%7C+Regression+Testing;Test+Documentation+Expert" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kalpshahtester&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -342,7 +342,7 @@ Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test ex
 
 ## 🙏 Thank You for Visiting My Profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=100%25&lines=Feel+free+to+reach+out+anytime!;Let's+build+quality+software+together!;Always+open+to+new+opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Feel+free+to+reach+out+anytime!;Let's+build+quality+software+together!;Always+open+to+new+opportunities!" alt="Typing SVG" />
 
 ---
 
