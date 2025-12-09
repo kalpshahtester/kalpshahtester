@@ -2,7 +2,7 @@
 
 # 🎯 Hi, I'm Kalp Shah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Manual+QA+Tester+%7C+Quality+Assurance+Engineer;Functional+Testing+%7C+UI+Testing+%7C+Regression+Testing;Test+Documentation+Expert+%7C+Jira+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=100%25&lines=Manual+QA+Tester;Quality+Assurance+Engineer;Functional+%7C+UI+%7C+Regression+Testing;Test+Documentation+Expert" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kalpshahtester&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,7 +12,7 @@
 </p>
 
 ### 🚀 Actively Looking for Manual QA Roles | Fresher / Junior Level
-### 📍 Based in Surat, Gujarat | Immediate Joiner Available
+### 📍 Surat, Gujarat | Immediate Joiner
 
 </div>
 
@@ -22,57 +22,53 @@
 
 ## 🔗 Quick Access
 
-<table>
-<tr>
-<td align="center" width="33%">
+</div>
 
-### 📄 Professional
+<!-- Professional Links -->
+<div align="center">
+
+### 📄 Professional Links
 
 <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📥_Download_Resume-2563EB?style=for-the-badge&logoColor=white" />
 </a>
-
 <a href="https://kalpshahtester.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio_Website-10B981?style=for-the-badge&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</td>
-<td align="center" width="33%">
+</div>
+
+<!-- Testing Projects -->
+<div align="center">
 
 ### 🧪 Testing Projects
 
 <a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website" target="_blank">
   <img src="https://img.shields.io/badge/🎯_SauceDemo_Project-F97316?style=for-the-badge&logoColor=white" />
 </a>
-
 <a href="https://github.com/kalpshahtester?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/📁_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-<td align="center" width="33%">
+</div>
+
+<!-- Contact Links -->
+<div align="center">
 
 ### 💬 Connect With Me
 
 <a href="https://wa.me/918160426134" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=manualtesterkalpshah@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/kalpshahtester" target="_blank">
   <img src="https://img.shields.io/badge/Follow_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -96,30 +92,14 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🔍 Testing Expertise
+**🔍 Testing Expertise**  
 Manual QA Tester with hands-on experience in **functional, UI, regression, smoke, sanity, and exploratory testing** of web applications.
 
-</td>
-<td align="center" width="50%">
-
-### 📋 Documentation Skills
+**📋 Documentation Skills**  
 Expert in preparing structured QA documentation: **HLR, Test Plans, Test Scenarios, Test Cases, Bug Reports, RTM, Summary Reports.**
 
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-### 🎓 Process Knowledge
+**🎓 Process Knowledge**  
 Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test execution workflows. Detail-oriented, analytical, and committed to delivering **high-quality software**.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -235,34 +215,16 @@ Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test ex
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+**📊 Project Statistics**
 
-### 📊 Project Statistics
+🎯 **47** Test Scenarios | ✅ **62+** Test Cases | 🐛 **15+** Bugs Identified  
+📑 **7** Documentation Types | 🔄 **4** Testing Types Covered
 
-🎯 **47** Test Scenarios  
-✅ **62+** Test Cases  
-🐛 **15+** Bugs Identified  
-📑 **7** Documentation Types  
-🔄 **4** Testing Types Covered  
+**📁 Deliverables**
 
-</td>
-<td align="center" width="50%">
-
-### 📁 Deliverables
-
-📄 High Level Requirements (HLR)  
-📋 Comprehensive Test Plan  
-🎯 Detailed Test Scenarios  
-✅ Complete Test Cases  
-🐛 Bug Reports with Evidence  
-🔗 Requirements Traceability Matrix  
-📊 Executive Summary Report  
-
-</td>
-</tr>
-</table>
+📄 High Level Requirements (HLR) | 📋 Comprehensive Test Plan | 🎯 Detailed Test Scenarios  
+✅ Complete Test Cases | 🐛 Bug Reports with Evidence  
+🔗 Requirements Traceability Matrix | 📊 Executive Summary Report
 
 <div align="center">
 
@@ -285,11 +247,7 @@ Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test ex
 
 </div>
 
-<table align="center">
-<tr>
-<td>
-
-### **Computer Engineer** - J. B. And Brothers Pvt. Ltd.
+**Computer Engineer - J. B. And Brothers Pvt. Ltd.**
 
 **Key Responsibilities aligned with QA workflows:**
 
@@ -298,13 +256,9 @@ Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test ex
 🐛 **Troubleshooting** - Issue reproduction, analysis, and resolution  
 📝 **Documentation** - Maintained detailed documentation and provided user support  
 🔐 **Security** - Managed access control and system monitoring  
-📊 **Quality Focus** - Ensured system reliability and performance standards  
+📊 **Quality Focus** - Ensured system reliability and performance standards
 
 *This role provided hands-on experience with testing methodologies, defect tracking, and quality assurance practices essential for software testing.*
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -314,64 +268,33 @@ Strong understanding of **SDLC/STLC**, Defect Life Cycle, and systematic test ex
 
 ### Let's Connect and Build Quality Software Together!
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50"/>
-
-**Email**
-
-[manualtesterkalpshah@gmail.com](mailto:manualtesterkalpshah@gmail.com)
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manualtesterkalpshah@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50"/>
-
-**LinkedIn**
-
-Professional Profile
-
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/000000/whatsapp.png" width="50"/>
-
-**WhatsApp**
-
-+91 8160426134
-
-<a href="https://wa.me/918160426134" target="_blank">
-  <img src="https://img.shields.io/badge/Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50"/>
-
-**Portfolio**
-
-Visit My Website
-
-<a href="https://kalpshahtester.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-10B981?style=for-the-badge&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
 </div>
+
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manualtesterkalpshah@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/📧_Email-manualtesterkalpshah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Kalp_Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://wa.me/918160426134" target="_blank">
+  <img src="https://img.shields.io/badge/📱_WhatsApp-+91_8160426134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://kalpshahtester.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-kalpshahtester.github.io-10B981?style=for-the-badge&logoColor=white" />
+</a>
+</p>
+
+<div align="center">
 
 ---
 
@@ -379,34 +302,24 @@ Visit My Website
 
 ## 💼 Open to Work
 
-<table>
-<tr>
-<td align="center">
+</div>
 
-### 🎯 Looking For
-
+<p align="center">
 <img src="https://img.shields.io/badge/Position-Manual_QA_Tester-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Level-Fresher_/_Junior-10B981?style=for-the-badge" />
+</p>
 
-</td>
-<td align="center">
-
-### 📍 Preferences
-
+<p align="center">
 <img src="https://img.shields.io/badge/Location-Surat,_Gujarat-F97316?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Remote_/_Onsite-8B5CF6?style=for-the-badge" />
+</p>
 
-</td>
-<td align="center">
-
-### ⚡ Availability
-
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Immediate_Joiner-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Notice-Available_Now-06B6D4?style=for-the-badge" />
+</p>
 
-</td>
-</tr>
-</table>
+<div align="center">
 
 ---
 
@@ -429,7 +342,7 @@ Visit My Website
 
 ## 🙏 Thank You for Visiting My Profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Feel+free+to+reach+out+anytime!;Let's+build+quality+software+together!;Always+open+to+new+opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=100%25&lines=Feel+free+to+reach+out+anytime!;Let's+build+quality+software+together!;Always+open+to+new+opportunities!" alt="Typing SVG" />
 
 ---
 
