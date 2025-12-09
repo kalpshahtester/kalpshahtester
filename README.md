@@ -62,18 +62,6 @@ Detail-oriented, analytical, and committed to delivering **high-quality software
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpshahtester&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Portfolio Website  
 🔗 **https://kalpshahtester.github.io/**  
 Explore my projects, certifications, and QA documentation portfolio.
@@ -176,14 +164,6 @@ Explore my projects, certifications, and QA documentation portfolio.
 - 🔐 Access control and system monitoring  
 
 *Experience closely aligned with QA workflows and quality assurance practices.*
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpshahtester&theme=react-dark" alt="Activity Graph" />
-</p>
 
 ---
 
