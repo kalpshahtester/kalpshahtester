@@ -2,22 +2,33 @@
 
 # Kalp Shah — Manual QA Tester
 
-### Functional Testing · UI Testing · Regression Testing · Test Documentation
+### I turn requirements into test coverage teams can trust.
+
+**Functional Testing · UI Testing · Regression Testing · Defect Reporting · QA Documentation**
 
 <p>
-  <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a> ·
-  <a href="https://github.com/kalpshahtester">GitHub</a> ·
-  <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">Resume</a>
+  <a href="https://kalpshahtester.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-Download-16A34A?style=for-the-badge" alt="Resume" />
+  </a>
+  <a href="mailto:manualtesterkalpshah@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Contact-Email-D14836?style=for-the-badge" alt="Email" />
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/QA-Focused-2563EB?style=flat-square" alt="QA Focused" />
-  <img src="https://img.shields.io/badge/Manual_Testing-Hands--On-10B981?style=flat-square" alt="Manual Testing" />
+  <img src="https://img.shields.io/badge/Manual_QA-Hands--On-10B981?style=flat-square" alt="Manual QA" />
   <img src="https://img.shields.io/badge/Automation-Learning-8B5CF6?style=flat-square" alt="Automation Learning" />
   <img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat-F97316?style=flat-square" alt="Surat Gujarat" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-16A34A?style=flat-square" alt="Open to Work" />
 </p>
+
+<p><strong>QA focus:</strong> web application testing, structured test design, actionable defect reporting, and evidence-based documentation.</p>
 
 </div>
 
