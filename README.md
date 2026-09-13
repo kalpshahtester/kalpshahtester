@@ -6,26 +6,33 @@
 
 **I turn requirements into structured test coverage, actionable defect reports, and reliable release validation.**
 
-<p>
-  <a href="https://kalpshahtester.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">
-    <img src="https://img.shields.io/badge/📄_Resume-Download-16A34A?style=for-the-badge" alt="Resume" />
-  </a>
-  <a href="mailto:manualtesterkalpshah@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Manual_QA-Hands--On-10B981?style=flat-square" alt="Manual QA" />
-  <img src="https://img.shields.io/badge/Functional_Testing-Core-6366F1?style=flat-square" alt="Functional Testing" />
-  <img src="https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Testing" />
-</p>
+<a href="https://kalpshahtester.github.io/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/kalpshahtester">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">
+  <img src="https://img.shields.io/badge/📄_Resume-View-2EA44F?style=for-the-badge" alt="Resume" />
+</a>
+<a href="mailto:manualtesterkalpshah@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=900&center=true&vCenter=true&width=760&lines=Manual+QA+Testing;Functional+%7C+UI+%7C+Regression+%7C+Exploratory;API+Testing+with+Postman;Defect+Reporting+%26+Retesting;Web+%26+SEO+Quality+Assurance" alt="QA specialization animation" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Manual_QA-Hands--On-10B981?style=flat-square" alt="Manual QA" />
+<img src="https://img.shields.io/badge/Functional_Testing-Core-6366F1?style=flat-square" alt="Functional Testing" />
+<img src="https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Testing" />
 
 </div>
 
@@ -35,66 +42,59 @@
 
 **Manual QA Tester focused on functional quality, UI validation, regression coverage, negative testing, exploratory testing, API validation, and clear defect documentation.**
 
-| What I Bring | Evidence |
-|---|---:|
-| 🧪 Test Design | **47 scenarios · 62+ test cases** |
-| ▶️ Test Execution | **282 execution results** |
-| 🐞 Defect Analysis | **7 documented critical defects** |
-| 🔍 Testing Strengths | **Functional · UI · Regression · Negative · Exploratory** |
-| 🔌 API Validation | **Postman · REST request/response validation** |
-| 📋 QA Documentation | **Test Plans · Test Cases · Bug Reports · RTM · Summary Reports** |
+<div align="center">
+
+| 🧪 Test Scenarios | 📝 Test Cases | ▶️ Executions | 🐞 Critical Defects |
+|:---:|:---:|:---:|:---:|
+| **47** | **62+** | **282** | **7** |
+
+</div>
 
 ### 💡 How I Add Value
 
-- Translate requirements into **test scenarios and detailed test cases**.
-- Execute structured **functional, UI, regression, smoke, sanity, negative, and exploratory testing**.
+- Translate requirements into structured **test scenarios and detailed test cases**.
+- Execute **functional, UI, regression, smoke, sanity, negative, and exploratory testing**.
 - Identify, reproduce, prioritize, and clearly document defects with **expected vs. actual results**.
-- Perform **API validation with Postman**, including requests, responses, status codes, and authentication.
-- Support web QA through **responsive UI, forms, navigation, links, content, and SEO-focused validation**.
+- Validate APIs with **Postman**, including requests, responses, status codes, and authentication.
+- Perform web QA across **responsive UI, forms, navigation, links, content, and SEO-focused checks**.
 
 ### 🎯 Target Roles
 
 **Manual QA Tester · Junior QA Tester · QA Tester**
 
-**Core Positioning:** Manual QA + API Testing + Strong Test Documentation
+**Core Positioning:** Manual QA + API Testing + Defect Reporting + QA Documentation + SEO/Web QA
 
 ---
 
-## 🧭 My QA Journey
+## 🧭 QA Journey
 
 ```text
 Computer Engineering
-       │
-       ▼
+        ↓
 IT Support & Troubleshooting
-       │
-       ▼
+        ↓
 Manual QA Testing
-       │
-       ▼
+        ↓
 API Testing
-       │
-       ▼
+        ↓
 Structured QA Documentation
-       │
-       ▼
+        ↓
 Defect Analysis & Retesting
+        ↓
+Web & SEO QA
 ```
-
-My approach combines **technical troubleshooting experience** with structured manual software testing practices.
 
 ---
 
-## 🧩 Manual QA Skill Matrix
+## 🧩 Compact Manual QA Skill Matrix
 
-| Skill Area | Recruiter-Ready Skills |
+| Area | Recruiter-Ready Skills |
 |---|---|
 | 🧪 **Manual Testing** | Functional, UI, Regression, Smoke, Sanity, Negative, Exploratory, Retesting |
-| 🐞 **Defect Reporting** | Bug identification, reproduction steps, Expected vs Actual, Severity, Priority, Defect Life Cycle |
-| 📋 **Test Documentation** | HLR, Test Plans, Test Scenarios, Test Cases, RTM, Bug Reports, Test Summary Reports |
-| 🔌 **API Testing** | Postman, REST APIs, Request/Response validation, Status Codes, Authentication |
-| 🌐 **SEO & Web QA** | Meta Title, Meta Description, URL/Slug, Heading hierarchy, Alt Text, Links, Content, Images, WebP, Responsive UI |
-| 🧭 **Test Execution** | Requirement validation, Test execution, Evidence capture, Retesting, Regression verification |
+| 🐞 **Defect Reporting** | Reproduction, Expected vs Actual, Severity, Priority, Defect Life Cycle |
+| 📋 **Test Documentation** | HLR, Test Plans, Scenarios, Test Cases, RTM, Bug Reports, Summary Reports |
+| 🔌 **API Testing** | Postman, REST APIs, Request/Response Validation, Status Codes, Authentication |
+| 🌐 **SEO & Web QA** | Metadata, URL/Slug, Headings, Alt Text, Links, Content, Images, WebP, Responsive UI |
 | 🛠️ **QA Tools** | Jira, ClickUp, GitHub, Chrome DevTools, Excel/Google Sheets |
 | 🗄️ **Database Basics** | SQL queries and basic data validation |
 
@@ -112,7 +112,6 @@ My approach combines **technical troubleshooting experience** with structured ma
 <a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=API-Testing-Postman-Project&theme=transparent&hide_border=true" width="48%" alt="API Testing Postman repository card" />
 </a>
-
 <a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=MakeMyTrip-Testing-Assessment&theme=transparent&hide_border=true" width="48%" alt="MakeMyTrip Testing Assessment repository card" />
 </a>
@@ -123,71 +122,127 @@ My approach combines **technical troubleshooting experience** with structured ma
 
 **47 scenarios · 62+ test cases · 282 execution results · 7 documented critical defects**
 
-End-to-end e-commerce manual testing covering functional, UI, regression, negative, exploratory testing, defect reporting, retesting, RTM and QA documentation.
+End-to-end e-commerce manual testing covering functional, UI, regression, negative, exploratory testing, defect reporting, retesting, RTM, and QA documentation.
 
 👉 **[Open SauceDemo Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
 
 ### 🥈 API Testing — Postman
 
-REST API testing focused on registration, login, authentication, category operations, request/response validation and execution.
+REST API testing focused on requests, responses, authentication, status codes, validation, execution, and defect identification.
 
 👉 **[Open API Testing Project](https://github.com/kalpshahtester/API-Testing-Postman-Project)**
 
 ### 🥉 MakeMyTrip — Testing Assessment
 
-Travel-platform assessment covering login, registration, flight booking, hotel booking, UI validation, functional testing and negative testing.
+Travel-platform assessment covering login, registration, flight booking, hotel booking, UI validation, functional testing, and negative testing.
 
 👉 **[Open MakeMyTrip Assessment](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
 
 ---
 
-# 🔍 QA Capabilities
+# 🔄 QA Workflow
 
-### Core Testing
-
-`Functional` `UI` `Regression` `Retesting` `Negative` `Smoke` `Sanity` `Exploratory` `Validation`
-
-### Test Documentation
-
-`HLR` `Test Plan` `Test Scenarios` `Test Cases` `Bug Reports` `RTM` `Test Summary Report`
-
-### Defect & Quality Analysis
-
-`Expected vs Actual` `Reproduction Steps` `Severity / Priority` `Defect Life Cycle` `Traceability` `Retesting`
-
-### API Testing
-
-`Postman` `REST API` `Request Validation` `Response Validation` `Status Codes` `Authentication`
-
----
-
-# 🔄 Manual QA Workflow
+<div align="center">
 
 ```text
 Requirements
-    ↓
+      ↓
 Test Planning
-    ↓
+      ↓
 Scenario Design
-    ↓
+      ↓
 Test Cases
-    ↓
+      ↓
 Test Execution
-    ↓
+      ↓
 Defect Reporting
-    ↓
+      ↓
 Retesting
-    ↓
+      ↓
 Regression Testing
-    ↓
-QA Summary
+      ↓
+Release Validation
 ```
+
+**Requirements → Coverage → Evidence → Defect → Retest → Confidence**
+
+</div>
+
+---
+
+# 🔌 API Testing — Postman
+
+My API testing focus includes:
+
+`REST APIs` · `GET` · `POST` · `PUT` · `DELETE` · `Headers` · `Parameters` · `Request Body`
+
+`Response Validation` · `HTTP Status Codes` · `Authentication` · `Positive Cases` · `Negative Cases`
+
+**QA objective:** verify that APIs behave correctly, consistently, and predictably under valid and invalid conditions.
+
+---
+
+# 🔍 SEO & Web QA Highlights
+
+| SEO / Web Check | QA Validation |
+|---|---|
+| 🏷️ Meta Title | Presence, relevance, duplication |
+| 📄 Meta Description | Presence and content validation |
+| 🔗 URL / Slug | Structure and readability |
+| 📰 Headings | H1–H6 hierarchy |
+| 🖼️ Images | Format, size, loading, presentation |
+| ♿ Alt Text | Presence and relevance |
+| 🔗 Links | Internal/external link validation |
+| 📝 Content | Visibility, accuracy, formatting |
+| 🔎 Keywords | Presence and placement |
+| 📱 Responsive UI | Desktop, tablet, mobile |
+| 🌐 Navigation | Menus, buttons, redirects |
+
+---
+
+# 🐞 Defect Reporting Approach
+
+A strong defect report should make the issue **reproducible, understandable, and actionable**.
+
+```text
+Bug ID
+  ↓
+Module / Page
+  ↓
+Bug Summary
+  ↓
+Steps to Reproduce
+  ↓
+Expected Result
+  ↓
+Actual Result
+  ↓
+Severity / Priority
+  ↓
+Environment
+  ↓
+Evidence
+  ↓
+Retest Result
+```
+
+**Defect quality principles:** `Clear` · `Reproducible` · `Evidence-Based` · `Prioritized` · `Traceable`
+
+---
+
+# 📚 QA Documentation
+
+`HLR` · `Test Plan` · `Test Scenarios` · `Test Cases` · `RTM` · `Bug Reports` · `Execution Reports` · `Test Summary Reports`
+
+### Documentation Philosophy
+
+**Requirement → Test Coverage → Execution Evidence → Defect Traceability → Release Confidence**
 
 ---
 
 # 🌐 Web & SEO QA
 
-I also work with web-focused manual QA validation, including:
+I work with web-focused manual QA validation across:
 
 - Meta title and meta description checks
 - URL / slug validation
@@ -197,29 +252,23 @@ I also work with web-focused manual QA validation, including:
 - External-link validation
 - Hidden-content checks
 - Keyword checks
-- Image size validation
-- WebP format validation
+- Image size and WebP validation
 - Responsive UI checks
-- Form and navigation validation
+- Forms, navigation, and content validation
 
 ---
 
-# 📈 QA Evidence Philosophy
+# 🧠 QA Capabilities
 
-I don't want my portfolio to simply say **"I know software testing."**
-
-I want every project to answer:
-
-| Recruiter Question | Evidence |
+| Capability | What I Bring |
 |---|---|
-| Can you design tests? | Test scenarios & test cases |
-| Can you execute tests? | Execution results |
-| Can you find defects? | Documented bug reports |
-| Can you communicate defects? | Reproduction steps + expected / actual |
-| Can you test APIs? | Postman project |
-| Can you perform regression testing? | Regression test coverage |
-| Can you work with developers? | Structured defect documentation |
-| Can you use modern QA tools? | GitHub, Jira, ClickUp, DevTools |
+| 🔍 **Requirement Analysis** | Translate requirements into testable coverage |
+| 🧪 **Test Design** | Scenarios, cases, positive/negative paths |
+| ▶️ **Execution** | Structured evidence and result tracking |
+| 🐞 **Defect Analysis** | Reproduction, severity, priority, expected vs actual |
+| 🔌 **API Validation** | Postman-based request/response testing |
+| 🔄 **Retesting** | Verify fixes and protect against regressions |
+| 🌐 **Web/SEO QA** | UI, content, links, metadata, images, responsive checks |
 
 ---
 
@@ -229,22 +278,22 @@ I want every project to answer:
 
 ### 🧪 Manual QA
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-10B981?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-10B981?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test_Cases-10B981?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-10B981?style=for-the-badge)
+<img src="https://img.shields.io/badge/Manual_Testing-10B981?style=for-the-badge" alt="Manual Testing" />
+<img src="https://img.shields.io/badge/Bug_Reporting-10B981?style=for-the-badge" alt="Bug Reporting" />
+<img src="https://img.shields.io/badge/Test_Cases-10B981?style=for-the-badge" alt="Test Cases" />
+<img src="https://img.shields.io/badge/Regression_Testing-10B981?style=for-the-badge" alt="Regression Testing" />
 
 ### 🔌 API / Data
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
 
 ### 🛠️ QA Tools
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
 
 </div>
 
@@ -273,26 +322,33 @@ This background strengthened my ability to **diagnose problems, isolate causes, 
 
 ---
 
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpshahtester&layout=compact&hide_border=true&langs_count=6" height="170" alt="Top languages" />
+
+</div>
+
+---
+
 # 📬 Recruiter CTA
 
 <div align="center">
 
-## Looking for a QA Tester?
-
-If you're looking for someone focused on:
+## 🚀 Looking for a QA Tester?
 
 **Test Coverage · Defect Quality · Reproducibility · Risk · Evidence**
 
 <br>
 
 <a href="https://kalpshahtester.github.io/">
-  <img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO-6366F1?style=for-the-badge" alt="View Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-0A66C2?style=for-the-badge" alt="View Portfolio" />
 </a>
-
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
   <img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-
 <a href="mailto:manualtesterkalpshah@gmail.com">
   <img src="https://img.shields.io/badge/✉️_CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
 </a>
@@ -309,6 +365,6 @@ If you're looking for someone focused on:
 
 ### 🧪 Test smarter. Find defects earlier. Ship with confidence.
 
-![Profile Views](https://komarev.com/ghpvc/?username=kalpshahtester&style=flat-square&color=6366F1)
+<img src="https://komarev.com/ghpvc/?username=kalpshahtester&label=Profile%20Views&style=flat-square&color=6366F1" alt="Profile views" />
 
 </div>
