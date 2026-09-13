@@ -8,21 +8,11 @@
 
 <br>
 
-<a href="https://kalpshahtester.github.io/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/kalpshahtester">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">
-  <img src="https://img.shields.io/badge/📄_Resume-View-2EA44F?style=for-the-badge" alt="Resume" />
-</a>
-<a href="mailto:manualtesterkalpshah@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://kalpshahtester.github.io/"><img src="./assets/badges/portfolio.svg" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://github.com/kalpshahtester"><img src="./assets/badges/github.svg" alt="GitHub" /></a>
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="./assets/badges/portfolio.svg" alt="Resume" /></a>
+<a href="mailto:manualtesterkalpshah@gmail.com"><img src="./assets/badges/email.svg" alt="Email" /></a>
 
 <br><br>
 
@@ -30,9 +20,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Manual_QA-Hands--On-10B981?style=flat-square" alt="Manual QA" />
-<img src="https://img.shields.io/badge/Functional_Testing-Core-6366F1?style=flat-square" alt="Functional Testing" />
-<img src="https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Testing" />
+<img src="./assets/badges/manual-qa.svg" alt="Manual QA Hands-On" />
+<img src="./assets/badges/functional-testing.svg" alt="Functional Testing Core" />
+<img src="./assets/badges/api-testing.svg" alt="API Testing Postman" />
 
 </div>
 
@@ -274,22 +264,22 @@ I work with web-focused manual QA validation across:
 
 ### 🧪 Manual QA
 
-<img src="https://img.shields.io/badge/Manual_Testing-10B981?style=for-the-badge" alt="Manual Testing" />
-<img src="https://img.shields.io/badge/Bug_Reporting-10B981?style=for-the-badge" alt="Bug Reporting" />
-<img src="https://img.shields.io/badge/Test_Cases-10B981?style=for-the-badge" alt="Test Cases" />
-<img src="https://img.shields.io/badge/Regression_Testing-10B981?style=for-the-badge" alt="Regression Testing" />
+<img src="./assets/badges/manual-testing.svg" alt="Manual Testing" />
+<img src="./assets/badges/bug-reporting.svg" alt="Bug Reporting" />
+<img src="./assets/badges/test-cases.svg" alt="Test Cases" />
+<img src="./assets/badges/regression-testing.svg" alt="Regression Testing" />
 
 ### 🔌 API / Data
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+<img src="./assets/badges/postman.svg" alt="Postman" />
+<img src="./assets/badges/sql.svg" alt="SQL" />
 
 ### 🛠️ QA Tools
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+<img src="./assets/badges/jira.svg" alt="Jira" />
+<img src="./assets/badges/clickup.svg" alt="ClickUp" />
+<img src="./assets/badges/github.svg" alt="GitHub" />
+<img src="./assets/badges/chrome-devtools.svg" alt="Chrome DevTools" />
 
 </div>
 
@@ -320,7 +310,7 @@ This background strengthened my ability to **diagnose problems, isolate causes, 
 
 # 📊 GitHub Activity
 
-Instead of third-party GitHub Stats images that can break because of API/rate-limit issues, this profile now uses GitHub's own profile activity below the README.
+Instead of third-party GitHub Stats images that can break because of API/rate-limit issues, this profile uses GitHub's own profile activity below the README.
 
 👉 **[View my GitHub repositories and activity →](https://github.com/kalpshahtester?tab=repositories)**
 
@@ -336,15 +326,9 @@ Instead of third-party GitHub Stats images that can break because of API/rate-li
 
 <br>
 
-<a href="https://kalpshahtester.github.io/">
-  <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-0A66C2?style=for-the-badge" alt="View Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
-  <img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:manualtesterkalpshah@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
-</a>
+<a href="https://kalpshahtester.github.io/"><img src="./assets/badges/portfolio.svg" alt="View Portfolio" /></a>
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="./assets/badges/linkedin.svg" alt="Connect on LinkedIn" /></a>
+<a href="mailto:manualtesterkalpshah@gmail.com"><img src="./assets/badges/email.svg" alt="Contact Me" /></a>
 
 <br><br>
 
