@@ -30,7 +30,11 @@
 
 </div>
 
-> **Recruiter summary:** Manual QA Tester focused on web application quality, with hands-on strength in **functional, UI, regression, negative, exploratory, and validation testing**. I build structured **HLR, test plans, scenarios, test cases, bug reports, RTM, and summary reports**, backed by practical evidence including **47 test scenarios, 62+ test cases, 282 execution results, and 7 documented critical defects** in my SauceDemo project. **Based in Surat and open to Manual QA / Junior QA opportunities across onsite or remote teams, with immediate availability to join.**
+> **Recruiter summary**  
+> **Strengths:** Hands-on manual QA across functional, UI, regression, negative, exploratory, and validation testing, with a structured approach to test design and defect analysis.  
+> **Evidence:** SauceDemo project covering **47 test scenarios, 62+ test cases, 282 execution results, and 7 documented critical defects**.  
+> **Documentation:** HLR, test plans, test scenarios, test cases, bug reports, RTM, and test summary reports with clear expected-vs-actual evidence.  
+> **Availability:** Based in **Surat**, open to **onsite or remote** Manual QA / Junior QA opportunities, with **immediate availability to join**.
 
 ---
 
