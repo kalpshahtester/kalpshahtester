@@ -6,27 +6,19 @@
 
 **Functional Testing · UI Testing · Regression Testing · Defect Reporting · QA Documentation**
 
-### Recruiter Quick Actions
-
 <p>
   <a href="https://kalpshahtester.github.io/">
-    <img src="https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-Visit_Website-2563EB?style=for-the-badge" alt="View Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">
-    <img src="https://img.shields.io/badge/📄_RESUME-Download-16A34A?style=for-the-badge" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/📄_Resume-Download-16A34A?style=for-the-badge" alt="Resume" />
   </a>
   <a href="mailto:manualtesterkalpshah@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_CONTACT-Email_Me-D14836?style=for-the-badge" alt="Email Me" />
+    <img src="https://img.shields.io/badge/✉️_Contact-Email-D14836?style=for-the-badge" alt="Email" />
   </a>
-</p>
-
-<p>
-  <a href="https://github.com/kalpshahtester?tab=repositories"><strong>📁 View QA Projects</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://wa.me/918160426134"><strong>💬 WhatsApp</strong></a>
 </p>
 
 <p>
@@ -36,9 +28,9 @@
   <img src="https://img.shields.io/badge/Status-Open_to_Work-16A34A?style=flat-square" alt="Open to Work" />
 </p>
 
-<p><strong>QA focus:</strong> web application testing, structured test design, actionable defect reporting, and evidence-based documentation.</p>
-
 </div>
+
+> **Recruiter summary:** Manual QA Tester focused on web application quality, with hands-on strength in **functional, UI, regression, negative, exploratory, and validation testing**. I build structured **HLR, test plans, scenarios, test cases, bug reports, RTM, and summary reports**, backed by practical evidence including **47 test scenarios, 62+ test cases, 282 execution results, and 7 documented critical defects** in my SauceDemo project. **Open to Manual QA / Junior QA opportunities in Surat, onsite or remote, and available to join immediately.**
 
 ---
 
@@ -183,14 +175,11 @@ I’m focused on growing from **strong manual QA fundamentals into practical QA 
 
 ## 📬 Connect
 
-### Recruiter Contact
-
-- 🌐 **Portfolio:** [View Portfolio](https://kalpshahtester.github.io/)
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/kalp-shah-software-tester/)
-- 📄 **Resume:** [Download Resume](https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf)
-- ✉️ **Email:** [Email Me](mailto:manualtesterkalpshah@gmail.com)
-- 💬 **WhatsApp:** [Message Me](https://wa.me/918160426134)
-- 📁 **Projects:** [Browse QA Projects](https://github.com/kalpshahtester?tab=repositories)
+- 🌐 **Portfolio:** https://kalpshahtester.github.io/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kalp-shah-software-tester/
+- 📧 **Email:** manualtesterkalpshah@gmail.com
+- 💬 **WhatsApp:** https://wa.me/918160426134
+- 📄 **Resume:** https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf
 
 ---
 
