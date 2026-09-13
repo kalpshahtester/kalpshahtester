@@ -4,60 +4,39 @@
 
 ### I turn requirements into test coverage teams can trust.
 
-**Functional Testing · UI Testing · Regression Testing · Defect Reporting · QA Documentation**
+**Functional Testing · UI Testing · Regression Testing · Defect Analysis · QA Documentation**
 
 <p>
   <a href="https://kalpshahtester.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-2563EB?style=for-the-badge" alt="View Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">
-    <img src="https://img.shields.io/badge/📄_Resume-Download-16A34A?style=for-the-badge" alt="Resume" />
+    <img src="https://img.shields.io/badge/📄_Download_Resume-16A34A?style=for-the-badge" alt="Download Resume" />
   </a>
   <a href="mailto:manualtesterkalpshah@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Contact-Email-D14836?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge" alt="Email Me" />
   </a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Manual_QA-Hands--On-10B981?style=flat-square" alt="Manual QA" />
-  <img src="https://img.shields.io/badge/Automation-Learning-8B5CF6?style=flat-square" alt="Automation Learning" />
+  <img src="https://img.shields.io/badge/Automation-Expanding-8B5CF6?style=flat-square" alt="Automation Expanding" />
   <img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat-F97316?style=flat-square" alt="Surat Gujarat" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-16A34A?style=flat-square" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Availability-Immediate-16A34A?style=flat-square" alt="Immediate Availability" />
 </p>
 
 </div>
 
-> **Recruiter summary**  
-> **Strengths:** Hands-on manual QA across functional, UI, regression, negative, exploratory, and validation testing, with a structured approach to test design and defect analysis.  
-> **Evidence:** SauceDemo project covering **47 test scenarios, 62+ test cases, 282 execution results, and 7 documented critical defects**.  
-> **Documentation:** HLR, test plans, test scenarios, test cases, bug reports, RTM, and test summary reports with clear expected-vs-actual evidence.  
-> **Availability:** Based in **Surat**, open to **onsite or remote** Manual QA / Junior QA opportunities, with **immediate availability to join**.
+## 🎯 Recruiter Snapshot
 
----
+| Strengths | Evidence | Documentation | Availability |
+|---|---|---|---|
+| Functional, UI, regression, negative, exploratory, and validation testing | **47 scenarios · 62+ test cases · 282 execution results · 7 documented critical defects** | HLR, test plans, scenarios, test cases, bug reports, RTM, summary reports | **Surat · Onsite or Remote · Immediate availability** |
 
-## 👋 About Me
-
-I’m a **Manual QA Tester** focused on web application quality, structured test design, defect reporting, and clear QA documentation.
-
-My approach is simple: **understand the requirement, design meaningful coverage, execute systematically, report actionable defects, and verify fixes.**
-
-I’m currently strengthening my automation skills while building deeper experience across **functional, UI, regression, negative, smoke, sanity, exploratory, and API testing**.
-
----
-
-## 🔎 What I Do
-
-| Area | What I bring |
-|---|---|
-| **Functional & UI Testing** | Validate workflows, business rules, navigation, forms, content, and usability. |
-| **Regression & Retesting** | Re-check fixes and verify that changes have not introduced new issues. |
-| **Negative & Exploratory Testing** | Challenge edge cases, invalid inputs, alternate paths, and unexpected behavior. |
-| **Test Documentation** | HLR, Test Plans, Test Scenarios, Test Cases, Bug Reports, RTM, and Summary Reports. |
-| **Defect Analysis** | Reproduce issues, document expected vs actual behavior, and provide clear evidence. |
-| **API / Automation Learning** | Building practical skills with Postman, Selenium, Playwright, and related QA tooling. |
+> **QA approach:** Understand requirements → design meaningful coverage → execute systematically → report actionable defects → verify fixes.
 
 ---
 
@@ -65,43 +44,82 @@ I’m currently strengthening my automation skills while building deeper experie
 
 ### SauceDemo — Manual Testing Project
 
-A complete manual-testing exercise covering planning, requirement analysis, test design, execution, defect reporting, traceability, and summary reporting.
+A structured end-to-end manual testing project covering requirement analysis, test planning, scenario design, test-case creation, execution, defect reporting, traceability, and final reporting.
 
-| Evidence | Result |
-|---|---:|
-| Test scenarios | **47** |
-| Test cases | **62+** |
-| Execution results | **282** |
-| Defects documented | **7 critical defects** |
-| Demo user profiles tested | **6** |
+| Metric | What it demonstrates |
+|---|---|
+| **47 test scenarios** | Broad coverage across documented application workflows |
+| **62+ test cases** | Detailed, executable test design rather than high-level checklists |
+| **282 execution results** | Repeatable and traceable validation across the test set |
+| **7 critical defects** | Ability to identify, reproduce, document, and communicate high-impact issues |
+| **6 demo user profiles** | Validation across different application behaviors and user conditions |
 
-### What this demonstrates
-
-- **47 scenarios** → broad coverage across application workflows.
-- **62+ test cases** → detailed, executable test design rather than high-level checklists.
-- **282 execution results** → repeatable and traceable validation across the test set.
-- **7 critical defects documented** → ability to identify, reproduce, and communicate high-impact issues.
-
-**Evidence:**
-
-- [View SauceDemo Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)
-- [Browse All Projects](https://github.com/kalpshahtester?tab=repositories)
+**Evidence:** [View the full SauceDemo project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)
 
 ---
 
-## 🧪 Testing Skills
+## 🧪 Selected Projects
 
-**Testing types**
+### 1. SauceDemo — Manual Testing
+**Focus:** Functional, UI, regression, negative, exploratory, and validation testing.
 
+**Evidence:** Requirements, test plan, 47 scenarios, 62+ test cases, execution results, bug reports, RTM, and summary reporting.
+
+→ [Open repository](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)
+
+### 2. API Testing — Postman
+**Focus:** Registration, login, token authentication, category management, request/response validation, and API test documentation.
+
+**Evidence:** Postman collection, API execution screenshots, and documented test cases.
+
+→ [Open repository](https://github.com/kalpshahtester/API-Testing-Postman-Project)
+
+### 3. MakeMyTrip — Manual Testing Assessment
+**Focus:** Login, registration, hotel booking, flight booking, functional, negative, UI, and basic security testing.
+
+**Evidence:** Manual test coverage and assessment documentation.
+
+→ [Open repository](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
+
+### 4. Selenium / Automation Practice
+**Focus:** WebDriver-based automation learning and practical QA automation exercises.
+
+→ [Browse automation repositories](https://github.com/kalpshahtester?tab=repositories)
+
+---
+
+## 🔎 QA Capabilities
+
+### Core Testing
 `Functional` `UI` `Regression` `Retesting` `Negative` `Smoke` `Sanity` `Exploratory` `Validation`
 
-**QA documentation**
-
+### QA Documentation
 `HLR` `Test Plan` `Test Scenarios` `Test Cases` `Bug Reports` `RTM` `Test Summary Report`
 
-**Process knowledge**
+### Defect & Quality Analysis
+`Expected vs Actual` `Reproduction Steps` `Severity / Priority` `Defect Life Cycle` `Traceability` `Retesting`
 
-`SDLC` `STLC` `Defect Life Cycle` `Traceability` `Test Execution`
+---
+
+## 🔄 QA Workflow
+
+```text
+Requirements
+    ↓
+Test Planning
+    ↓
+Scenario Design
+    ↓
+Test Cases
+    ↓
+Execution
+    ↓
+Defect Reporting
+    ↓
+Retesting / Regression
+    ↓
+QA Summary
+```
 
 ---
 
@@ -109,37 +127,13 @@ A complete manual-testing exercise covering planning, requirement analysis, test
 
 | Category | Tools |
 |---|---|
+| **Manual QA & Documentation** | Microsoft Excel, Microsoft Word, Google Sheets, Chrome DevTools |
 | **Test Management / Tracking** | Jira, ClickUp |
-| **Manual QA** | Microsoft Excel, Microsoft Word, Google Sheets, Chrome DevTools |
 | **API Testing** | Postman |
 | **Automation** | Selenium WebDriver, Playwright, TestNG |
-| **Development / Web** | HTML, CSS, PHP, WordPress, SQL basics |
+| **Web / Technical** | HTML, CSS, PHP, WordPress, SQL basics |
 | **Code / Collaboration** | GitHub |
 | **Mobile / Additional** | Appium, Android Studio |
-
----
-
-## 📁 Selected Projects
-
-### 1. SauceDemo — Manual Testing
-Structured end-to-end manual testing with requirements, scenarios, cases, execution, defects, RTM, and summary reporting.
-
-→ https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website
-
-### 2. API Testing — Postman
-API-focused practice covering request validation, response checks, and documented test results.
-
-→ https://github.com/kalpshahtester/API-Testing-Postman-Project
-
-### 3. MakeMyTrip — Testing Assessment
-Manual testing exercise covering real-world travel booking workflows, test cases, execution, and defects.
-
-→ https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment
-
-### 4. Selenium / Automation Practice
-Automation-learning repositories covering WebDriver-based testing and supporting exercises.
-
-→ https://github.com/kalpshahtester?tab=repositories
 
 ---
 
@@ -147,15 +141,15 @@ Automation-learning repositories covering WebDriver-based testing and supporting
 
 ### Computer Engineer — J. B. And Brothers Pvt. Ltd.
 
-My previous IT-support and systems role developed skills that transfer directly into QA work:
+My previous IT and systems experience strengthened skills that transfer directly into QA:
 
 - System validation and configuration checks
 - Troubleshooting and issue reproduction
-- User support and technical problem analysis
+- Technical problem analysis and user support
 - Documentation and process discipline
 - Reliability-focused thinking
 
-This experience strengthened my foundation in **diagnosing problems, isolating causes, and communicating actionable findings**.
+This experience strengthened my ability to **diagnose problems, isolate causes, and communicate actionable findings**.
 
 ---
 
@@ -167,23 +161,29 @@ This experience strengthened my foundation in **diagnosing problems, isolating c
 
 ---
 
-## 🎯 Current Direction
+## 🚀 Current Direction
 
-I’m focused on growing from **strong manual QA fundamentals into practical QA automation** while continuing to improve test design, defect analysis, API testing, and quality documentation.
+I’m building from strong manual QA fundamentals toward practical automation while deepening my skills in **test design, defect analysis, API testing, and quality engineering workflows**.
 
 **Target roles:** Manual QA Tester · Junior QA Tester · QA Tester
 
-**Preferred work model:** Surat · On-site · Remote
+**Work preference:** Surat · Onsite or Remote
+
+**Availability:** Immediate
 
 ---
 
-## 📬 Connect
+## 📬 Recruiter Contact
 
-- 🌐 **Portfolio:** https://kalpshahtester.github.io/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/kalp-shah-software-tester/
-- 📧 **Email:** manualtesterkalpshah@gmail.com
-- 💬 **WhatsApp:** https://wa.me/918160426134
-- 📄 **Resume:** https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf
+<p>
+  <a href="https://kalpshahtester.github.io/">🌐 View Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">💼 Connect on LinkedIn</a> ·
+  <a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">📄 Download Resume</a> ·
+  <a href="mailto:manualtesterkalpshah@gmail.com">✉️ Email Me</a>
+</p>
+
+**Email:** manualtesterkalpshah@gmail.com  
+**WhatsApp:** [Start a conversation](https://wa.me/918160426134)
 
 ---
 
