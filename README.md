@@ -11,7 +11,7 @@
 <a href="https://kalpshahtester.github.io/"><img src="./assets/badges/portfolio.svg" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" /></a>
 <a href="https://github.com/kalpshahtester"><img src="./assets/badges/github.svg" alt="GitHub" /></a>
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="./assets/badges/portfolio.svg" alt="Resume" /></a>
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="./assets/badges/resume.svg" alt="Resume" /></a>
 <a href="mailto:manualtesterkalpshah@gmail.com"><img src="./assets/badges/email.svg" alt="Email" /></a>
 
 <br><br>
