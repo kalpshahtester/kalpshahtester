@@ -96,87 +96,49 @@ My approach combines **technical troubleshooting experience** with structured so
 
 # ⭐ Featured QA Projects
 
-## 🥇 SauceDemo — Manual Testing
+> **Live repository cards** below pull repository metadata dynamically, giving recruiters a quick visual entry point into the actual projects.
 
-**End-to-end e-commerce manual testing project.**
+<div align="center">
 
-```text
-47 Test Scenarios
-      ↓
-62+ Test Cases
-      ↓
-282 Execution Results
-      ↓
-7 Critical Defects Documented
-```
+<a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=Manual-Testing-Project-saucedemo-website&theme=transparent&hide_border=true" width="48%" alt="SauceDemo Manual Testing repository card" />
+</a>
+<a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=API-Testing-Postman-Project&theme=transparent&hide_border=true" width="48%" alt="API Testing Postman repository card" />
+</a>
 
-### Coverage
+<a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=MakeMyTrip-Testing-Assessment&theme=transparent&hide_border=true" width="48%" alt="MakeMyTrip Testing Assessment repository card" />
+</a>
+<a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=Module-7-Selenium-Webdriver-&theme=transparent&hide_border=true" width="48%" alt="Selenium WebDriver repository card" />
+</a>
 
-- Functional Testing
-- UI Testing
-- Regression Testing
-- Negative Testing
-- Exploratory Testing
-- Test Case Design
-- Bug Reporting
-- Retesting
-- RTM / QA Documentation
+</div>
 
-👉 **[View SauceDemo Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
+### 🥇 SauceDemo — Manual Testing
 
----
+**47 scenarios · 62+ test cases · 282 execution results · 7 documented critical defects**
 
-## 🥈 API Testing — Postman
+End-to-end e-commerce manual testing covering functional, UI, regression, negative, exploratory, defect reporting, retesting, RTM and QA documentation.
 
-**REST API testing project focused on request/response validation and authentication flows.**
+👉 **[Open SauceDemo Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
 
-### Coverage
+### 🥈 API Testing — Postman
 
-- Registration API
-- Login API
-- Token / authentication validation
-- Category operations
-- Request validation
-- Response validation
-- API test execution
+REST API testing focused on registration, login, authentication, category operations, request/response validation and API execution.
 
-👉 **[View API Testing Project](https://github.com/kalpshahtester/API-Testing-Postman-Project)**
+👉 **[Open API Testing Project](https://github.com/kalpshahtester/API-Testing-Postman-Project)**
 
----
+### 🥉 MakeMyTrip — Testing Assessment
 
-## 🥉 MakeMyTrip — Testing Assessment
+Travel-platform assessment covering login, registration, flight booking, hotel booking, UI validation, functional and negative testing.
 
-**Travel-platform testing assessment with scenario-based functional and negative testing.**
+👉 **[Open MakeMyTrip Assessment](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
 
-### Coverage
+### 🤖 Selenium WebDriver
 
-- Login / Registration
-- Flight booking
-- Hotel booking
-- UI validation
-- Functional testing
-- Negative testing
-- Scenario-based validation
-
-👉 **[View MakeMyTrip Assessment](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
-
----
-
-## 🤖 Selenium WebDriver
-
-**WebDriver-based automation practice using Java and TestNG.**
-
-```text
-Selenium WebDriver
-       +
-      Java
-       +
-     TestNG
-       +
-Browser Automation
-       =
-QA Automation Practice
-```
+WebDriver-based automation practice using Java and TestNG, supporting my transition from manual QA toward automation.
 
 👉 **[Explore Selenium Work](https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-)**
 
