@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Kalp Shah**
 
-### 🧪 Manual QA Tester → Automation QA
+### 🧪 Manual QA Tester
 
 **I turn requirements into test coverage teams can trust.**
 
@@ -23,9 +23,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Manual_QA-Hands--On-10B981?style=flat-square" alt="Manual QA" />
-  <img src="https://img.shields.io/badge/Automation-Expanding-8B5CF6?style=flat-square" alt="Automation Expanding" />
+  <img src="https://img.shields.io/badge/Functional_Testing-Core-6366F1?style=flat-square" alt="Functional Testing" />
   <img src="https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Testing" />
-  <img src="https://img.shields.io/badge/📍_Surat-Gujarat-6366F1?style=flat-square" alt="Surat Gujarat" />
 </p>
 
 </div>
@@ -34,7 +33,7 @@
 
 ## 🎯 Recruiter Snapshot
 
-> **QA Tester focused on functional quality, defect analysis, test documentation, API validation and practical automation.**
+> **Manual QA Tester focused on functional quality, defect analysis, test documentation, UI validation and API testing.**
 
 | QA Evidence | Result |
 |---|---:|
@@ -43,9 +42,9 @@
 | ▶️ Execution Results | **282** |
 | 🚨 Critical Defects Documented | **7** |
 | 🔍 Core Testing | **Functional · UI · Regression · Negative · Exploratory** |
-| 🤖 Automation Direction | **Selenium · Playwright** |
+| 🔌 API Testing | **Postman · REST API validation** |
 
-These metrics are based on documented QA project work in my profile and featured testing repository.
+These metrics are based on documented QA project work and featured testing repositories.
 
 ---
 
@@ -64,39 +63,33 @@ Manual QA Testing
 API Testing
        │
        ▼
-Selenium / Java
+Structured QA Documentation
        │
        ▼
-Playwright / Automation
-       │
-       ▼
-   QA Automation
+Defect Analysis & Retesting
 ```
 
-My approach combines **technical troubleshooting experience** with structured software testing practices.
+My approach combines **technical troubleshooting experience** with structured manual software testing practices.
 
 ---
 
-## 🧩 Skill Matrix
+## 🧩 Manual QA Skill Matrix
 
-| Category | Skills / Technologies | Current Focus |
+| Category | Skills | Current Focus |
 |---|---|:---:|
-| 🧪 Manual QA | Functional, UI, Regression, Smoke, Sanity, Negative, Exploratory | ⭐⭐⭐⭐⭐ |
-| 📋 QA Documentation | Test Plans, Scenarios, Cases, RTM, Bug Reports, Summary Reports | ⭐⭐⭐⭐⭐ |
+| 🧪 Manual Testing | Functional, UI, Regression, Smoke, Sanity, Negative, Exploratory | ⭐⭐⭐⭐⭐ |
+| 📋 QA Documentation | Test Plans, Scenarios, Test Cases, RTM, Bug Reports, Summary Reports | ⭐⭐⭐⭐⭐ |
 | 🐞 Defect Analysis | Severity, Priority, Reproduction, Retesting, Defect Lifecycle | ⭐⭐⭐⭐⭐ |
-| 🔌 API Testing | Postman, REST API validation | ⭐⭐⭐⭐ |
-| 🌐 Web Automation | Selenium WebDriver, Playwright | ⭐⭐⭐ |
-| ☕ Programming | Core Java, JavaScript | ⭐⭐⭐ |
+| 🔌 API Testing | Postman, REST API validation, Request/Response validation | ⭐⭐⭐⭐ |
+| 🌐 Web QA | Browser validation, responsive UI, links, forms, content | ⭐⭐⭐⭐ |
 | 🗄️ Database | SQL Basics | ⭐⭐⭐ |
-| 🛠️ QA Tools | Jira, ClickUp, GitHub, Chrome DevTools | ⭐⭐⭐⭐ |
+| 🛠️ QA Tools | Jira, ClickUp, GitHub, Chrome DevTools, Excel/Sheets | ⭐⭐⭐⭐ |
 
 > ⭐ represents current practical focus, not a formal certification or standardized proficiency score.
 
 ---
 
 # ⭐ Featured QA Projects
-
-> **Live repository cards** below pull repository metadata dynamically, giving recruiters a quick visual entry point into the actual projects.
 
 <div align="center">
 
@@ -110,9 +103,6 @@ My approach combines **technical troubleshooting experience** with structured so
 <a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=MakeMyTrip-Testing-Assessment&theme=transparent&hide_border=true" width="48%" alt="MakeMyTrip Testing Assessment repository card" />
 </a>
-<a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=Module-7-Selenium-Webdriver-&theme=transparent&hide_border=true" width="48%" alt="Selenium WebDriver repository card" />
-</a>
 
 </div>
 
@@ -120,27 +110,21 @@ My approach combines **technical troubleshooting experience** with structured so
 
 **47 scenarios · 62+ test cases · 282 execution results · 7 documented critical defects**
 
-End-to-end e-commerce manual testing covering functional, UI, regression, negative, exploratory, defect reporting, retesting, RTM and QA documentation.
+End-to-end e-commerce manual testing covering functional, UI, regression, negative, exploratory testing, defect reporting, retesting, RTM and QA documentation.
 
 👉 **[Open SauceDemo Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
 
 ### 🥈 API Testing — Postman
 
-REST API testing focused on registration, login, authentication, category operations, request/response validation and API execution.
+REST API testing focused on registration, login, authentication, category operations, request/response validation and execution.
 
 👉 **[Open API Testing Project](https://github.com/kalpshahtester/API-Testing-Postman-Project)**
 
 ### 🥉 MakeMyTrip — Testing Assessment
 
-Travel-platform assessment covering login, registration, flight booking, hotel booking, UI validation, functional and negative testing.
+Travel-platform assessment covering login, registration, flight booking, hotel booking, UI validation, functional testing and negative testing.
 
 👉 **[Open MakeMyTrip Assessment](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
-
-### 🤖 Selenium WebDriver
-
-WebDriver-based automation practice using Java and TestNG, supporting my transition from manual QA toward automation.
-
-👉 **[Explore Selenium Work](https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-)**
 
 ---
 
@@ -158,9 +142,13 @@ WebDriver-based automation practice using Java and TestNG, supporting my transit
 
 `Expected vs Actual` `Reproduction Steps` `Severity / Priority` `Defect Life Cycle` `Traceability` `Retesting`
 
+### API Testing
+
+`Postman` `REST API` `Request Validation` `Response Validation` `Status Codes` `Authentication`
+
 ---
 
-# 🔄 QA Workflow
+# 🔄 Manual QA Workflow
 
 ```text
 Requirements
@@ -171,11 +159,13 @@ Scenario Design
     ↓
 Test Cases
     ↓
-Execution
+Test Execution
     ↓
 Defect Reporting
     ↓
-Retesting / Regression
+Retesting
+    ↓
+Regression Testing
     ↓
 QA Summary
 ```
@@ -184,104 +174,20 @@ QA Summary
 
 # 🌐 Web & SEO QA
 
-I also work with web-focused QA validation, including:
+I also work with web-focused manual QA validation, including:
 
 - Meta title and meta description checks
 - URL / slug validation
 - Heading hierarchy
-- Featured image and image validation
+- Featured image validation
 - Alt-text validation
 - External-link validation
 - Hidden-content checks
 - Keyword checks
 - Image size validation
 - WebP format validation
-
-### Automation Direction
-
-```text
-Website
-   ↓
-Playwright
-   ↓
-SEO Validation
-   ↓
-Content Validation
-   ↓
-Image Validation
-   ↓
-Automated QA Results
-```
-
----
-
-# ⚙️ Automation Roadmap
-
-```text
-             CURRENT
-                │
-       ┌────────┴────────┐
-       ▼                 ▼
-   Manual QA          API Testing
-       │                 │
-       └────────┬────────┘
-                ▼
-          Selenium / Java
-                │
-                ▼
-            Playwright
-                │
-                ▼
-          GitHub Actions
-                │
-                ▼
-       Automated QA Pipeline
-```
-
-### Currently Building
-
-- Playwright automation
-- Selenium automation
-- API testing depth
-- Automated QA reporting
-- CI/CD testing workflows
-- Reusable automation frameworks
-
-> GitHub Actions status badges will be added only after the corresponding workflows are implemented and producing real results.
-
----
-
-# 🛠️ Tools & Technologies
-
-<div align="center">
-
-### 🧪 QA
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-10B981?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-10B981?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test_Cases-10B981?style=for-the-badge)
-
-### 🤖 Automation
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
-
-### 🔌 API / Development
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-### 🛠️ Tools
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-</div>
+- Responsive UI checks
+- Form and navigation validation
 
 ---
 
@@ -298,9 +204,36 @@ I want every project to answer:
 | Can you find defects? | Documented bug reports |
 | Can you communicate defects? | Reproduction steps + expected / actual |
 | Can you test APIs? | Postman project |
-| Can you automate? | Selenium + Playwright work |
+| Can you perform regression testing? | Regression test coverage |
 | Can you work with developers? | Structured defect documentation |
 | Can you use modern QA tools? | GitHub, Jira, ClickUp, DevTools |
+
+---
+
+# 🛠️ Tools & Technologies
+
+<div align="center">
+
+### 🧪 Manual QA
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-10B981?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-10B981?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test_Cases-10B981?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-10B981?style=for-the-badge)
+
+### 🔌 API / Data
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### 🛠️ QA Tools
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</div>
 
 ---
 
@@ -308,7 +241,7 @@ I want every project to answer:
 
 ### Computer Engineer — J. B. And Brothers Pvt. Ltd.
 
-My previous IT and systems experience strengthened skills that transfer directly into QA:
+My previous IT and systems experience strengthened skills that transfer directly into manual QA:
 
 - Technical troubleshooting and issue reproduction
 - System validation and configuration checks
@@ -323,7 +256,6 @@ This background strengthened my ability to **diagnose problems, isolate causes, 
 # 🎓 Training
 
 - **Manual Testing — TOPS Technologies** — Completed
-- **Automation Testing — TOPS Technologies** — Training in progress
 - **Generative AI Mastermind — Outskill**
 
 ---
@@ -334,13 +266,13 @@ This background strengthened my ability to **diagnose problems, isolate causes, 
 
 ### Target Roles
 
-**Manual QA Tester · Junior QA Tester · QA Tester · Entry-Level QA Automation**
+**Manual QA Tester · Junior QA Tester · QA Tester**
 
 <br>
 
 ### Core Positioning
 
-**Manual QA + API Testing + Growing Automation Skills**
+**Manual QA + API Testing + Strong Test Documentation**
 
 </div>
 
