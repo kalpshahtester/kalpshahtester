@@ -17,7 +17,7 @@
 <a href="https://github.com/kalpshahtester">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester.github.io/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">
   <img src="https://img.shields.io/badge/📄_Resume-View-2EA44F?style=for-the-badge" alt="Resume" />
 </a>
 <a href="mailto:manualtesterkalpshah@gmail.com">
@@ -106,15 +106,11 @@ Web & SEO QA
 
 <div align="center">
 
-<a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=Manual-Testing-Project-saucedemo-website&theme=transparent&hide_border=true" width="48%" alt="SauceDemo Manual Testing repository card" />
-</a>
-<a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=API-Testing-Postman-Project&theme=transparent&hide_border=true" width="48%" alt="API Testing Postman repository card" />
-</a>
-<a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpshahtester&repo=MakeMyTrip-Testing-Assessment&theme=transparent&hide_border=true" width="48%" alt="MakeMyTrip Testing Assessment repository card" />
-</a>
+| Project | Focus | Repository |
+|:---|:---|:---:|
+| 🧪 **SauceDemo Manual Testing** | 47 scenarios · 62+ test cases · 282 executions · 7 critical defects | [**View Project →**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website) |
+| 🔌 **API Testing — Postman** | REST APIs · requests/responses · authentication · validation | [**View Project →**](https://github.com/kalpshahtester/API-Testing-Postman-Project) |
+| ✈️ **MakeMyTrip Testing Assessment** | Functional · UI · negative testing · defect reporting | [**View Project →**](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment) |
 
 </div>
 
@@ -324,12 +320,9 @@ This background strengthened my ability to **diagnose problems, isolate causes, 
 
 # 📊 GitHub Activity
 
-<div align="center">
+Instead of third-party GitHub Stats images that can break because of API/rate-limit issues, this profile now uses GitHub's own profile activity below the README.
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpshahtester&layout=compact&hide_border=true&langs_count=6" height="170" alt="Top languages" />
-
-</div>
+👉 **[View my GitHub repositories and activity →](https://github.com/kalpshahtester?tab=repositories)**
 
 ---
 
@@ -364,7 +357,5 @@ This background strengthened my ability to **diagnose problems, isolate causes, 
 <div align="center">
 
 ### 🧪 Test smarter. Find defects earlier. Ship with confidence.
-
-<img src="https://komarev.com/ghpvc/?username=kalpshahtester&label=Profile%20Views&style=flat-square&color=6366F1" alt="Profile views" />
 
 </div>
