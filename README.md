@@ -87,17 +87,18 @@ My approach combines **technical troubleshooting experience** with structured ma
 
 ## 🧩 Manual QA Skill Matrix
 
-| Category | Skills | Current Focus |
-|---|---|:---:|
-| 🧪 Manual Testing | Functional, UI, Regression, Smoke, Sanity, Negative, Exploratory | ⭐⭐⭐⭐⭐ |
-| 📋 QA Documentation | Test Plans, Scenarios, Test Cases, RTM, Bug Reports, Summary Reports | ⭐⭐⭐⭐⭐ |
-| 🐞 Defect Analysis | Severity, Priority, Reproduction, Retesting, Defect Lifecycle | ⭐⭐⭐⭐⭐ |
-| 🔌 API Testing | Postman, REST API validation, Request/Response validation | ⭐⭐⭐⭐ |
-| 🌐 Web QA | Browser validation, responsive UI, links, forms, content | ⭐⭐⭐⭐ |
-| 🗄️ Database | SQL Basics | ⭐⭐⭐ |
-| 🛠️ QA Tools | Jira, ClickUp, GitHub, Chrome DevTools, Excel/Sheets | ⭐⭐⭐⭐ |
+| Skill Area | Recruiter-Ready Skills |
+|---|---|
+| 🧪 **Manual Testing** | Functional, UI, Regression, Smoke, Sanity, Negative, Exploratory, Retesting |
+| 🐞 **Defect Reporting** | Bug identification, reproduction steps, Expected vs Actual, Severity, Priority, Defect Life Cycle |
+| 📋 **Test Documentation** | HLR, Test Plans, Test Scenarios, Test Cases, RTM, Bug Reports, Test Summary Reports |
+| 🔌 **API Testing** | Postman, REST APIs, Request/Response validation, Status Codes, Authentication |
+| 🌐 **SEO & Web QA** | Meta Title, Meta Description, URL/Slug, Heading hierarchy, Alt Text, Links, Content, Images, WebP, Responsive UI |
+| 🧭 **Test Execution** | Requirement validation, Test execution, Evidence capture, Retesting, Regression verification |
+| 🛠️ **QA Tools** | Jira, ClickUp, GitHub, Chrome DevTools, Excel/Google Sheets |
+| 🗄️ **Database Basics** | SQL queries and basic data validation |
 
-> ⭐ represents current practical focus, not a formal certification or standardized proficiency score.
+> **Core strength:** structured manual testing + high-quality defect reporting + traceable QA documentation.
 
 ---
 
