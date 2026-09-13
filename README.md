@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm **Kalp Shah**
 
-### 🧪 Manual QA Tester
+### 🧪 Manual QA Tester | Junior QA Tester
 
-**I turn requirements into test coverage teams can trust.**
+**I turn requirements into structured test coverage, actionable defect reports, and reliable release validation.**
 
 <p>
   <a href="https://kalpshahtester.github.io/">
@@ -33,18 +33,30 @@
 
 ## 🎯 Recruiter Snapshot
 
-> **Manual QA Tester focused on functional quality, defect analysis, test documentation, UI validation and API testing.**
+**Manual QA Tester focused on functional quality, UI validation, regression coverage, negative testing, exploratory testing, API validation, and clear defect documentation.**
 
-| QA Evidence | Result |
+| What I Bring | Evidence |
 |---|---:|
-| 🧪 Test Scenarios | **47** |
-| 📋 Test Cases | **62+** |
-| ▶️ Execution Results | **282** |
-| 🚨 Critical Defects Documented | **7** |
-| 🔍 Core Testing | **Functional · UI · Regression · Negative · Exploratory** |
-| 🔌 API Testing | **Postman · REST API validation** |
+| 🧪 Test Design | **47 scenarios · 62+ test cases** |
+| ▶️ Test Execution | **282 execution results** |
+| 🐞 Defect Analysis | **7 documented critical defects** |
+| 🔍 Testing Strengths | **Functional · UI · Regression · Negative · Exploratory** |
+| 🔌 API Validation | **Postman · REST request/response validation** |
+| 📋 QA Documentation | **Test Plans · Test Cases · Bug Reports · RTM · Summary Reports** |
 
-These metrics are based on documented QA project work and featured testing repositories.
+### 💡 How I Add Value
+
+- Translate requirements into **test scenarios and detailed test cases**.
+- Execute structured **functional, UI, regression, smoke, sanity, negative, and exploratory testing**.
+- Identify, reproduce, prioritize, and clearly document defects with **expected vs. actual results**.
+- Perform **API validation with Postman**, including requests, responses, status codes, and authentication.
+- Support web QA through **responsive UI, forms, navigation, links, content, and SEO-focused validation**.
+
+### 🎯 Target Roles
+
+**Manual QA Tester · Junior QA Tester · QA Tester**
+
+**Core Positioning:** Manual QA + API Testing + Strong Test Documentation
 
 ---
 
@@ -257,24 +269,6 @@ This background strengthened my ability to **diagnose problems, isolate causes, 
 
 - **Manual Testing — TOPS Technologies** — Completed
 - **Generative AI Mastermind — Outskill**
-
----
-
-# 🎯 Career Focus
-
-<div align="center">
-
-### Target Roles
-
-**Manual QA Tester · Junior QA Tester · QA Tester**
-
-<br>
-
-### Core Positioning
-
-**Manual QA + API Testing + Strong Test Documentation**
-
-</div>
 
 ---
 
