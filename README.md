@@ -5,6 +5,7 @@
 ### 🧪 Junior Manual QA Tester
 
 <p><strong>Manual QA Testing</strong> · Functional & UI Testing · Regression Testing</p>
+<sub>Functional Testing · UI Testing · Regression Testing · Bug Reporting</sub>
 <p><strong>Test Cases</strong> · Bug Reporting · Retesting · Web & SEO QA</p>
 
 <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
