@@ -25,6 +25,28 @@ I approach testing systematically — from understanding requirements and design
 
 > 🧪 **Quality mindset:** Find defects early, document them clearly, verify fixes, and protect the user experience.
 
+## 🧪 QA Testing Command Center
+
+<div align="center">
+
+**🟢 FUNCTIONAL**　**🟢 UI TESTING**　**🟢 REGRESSION**　**🟢 BUG REPORTING**　**🟢 WEB QA**
+
+<br><br>
+
+`REQUIREMENTS` → `TEST` → `FIND BUG` → `REPORT` → `RETEST` → `VERIFY` → `RELEASE` 🚀
+
+</div>
+
+---
+
+## 🐞 Defect Lifecycle
+
+<div align="center">
+
+🐞 **Detected** → 📝 **Reported** → 👨‍💻 **Assigned** → 🔧 **Fixed** → 🧪 **Retested** → ✅ **Verified** → 🚀 **Closed**
+
+</div>
+
 ---
 
 ## 🔎 Core QA Skills
