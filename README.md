@@ -6,7 +6,9 @@
 
 <p><strong>Manual QA Testing</strong> · Functional & UI Testing · Regression Testing</p>
 <sub>Functional Testing · UI Testing · Regression Testing · Bug Reporting</sub>
+
 <p><em>Detail-oriented Manual QA Tester focused on quality, accuracy, and reliable user experiences.</em></p>
+
 <p><strong>Test Cases</strong> · Bug Reporting · Retesting · Web & SEO QA</p>
 
 <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
@@ -24,9 +26,9 @@
 
 I approach testing systematically — from understanding requirements and designing test coverage to execution, defect reporting, retesting, regression, and release validation.
 
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-21262D?style=for-the-badge" alt="Download Resume"/></a>
-
 > 🧪 **Quality mindset:** Find defects early, document them clearly, verify fixes, and protect the user experience.
+
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-21262D?style=for-the-badge" alt="Download Resume"/></a>
 
 ---
 
@@ -34,20 +36,13 @@ I approach testing systematically — from understanding requirements and design
 
 <div align="center">
 
-🟢 **Functional Testing**  
-🟢 **UI Testing**  
-🟢 **Regression Testing**  
-🟢 **Bug Reporting**  
-🟢 **Web QA**
+🟢 **Functional Testing** · 🟢 **UI Testing** · 🟢 **Regression Testing**
 
-<br>
+🟢 **Bug Reporting** · 🟢 **Web QA**
 
-**Requirements** → **Test** → **Report**  
-**Retest** → **Verify** → **Release** 🚀
+**Requirements** → **Test** → **Report** → **Retest** → **Verify** → **Release** 🚀
 
 </div>
-
-<br>
 
 ---
 
@@ -55,31 +50,15 @@ I approach testing systematically — from understanding requirements and design
 
 <div align="center">
 
-📝 **Requirements**
+📝 **Requirements** → 🧪 **Test Cases** → 🐞 **Bug Report**
 
-↓
+↓  
 
-🧪 **Test Cases**
-
-↓
-
-🐞 **Bug Report**
-
-↓
-
-🔄 **Retest**
-
-↓
-
-✅ **Verified**
-
-<br>
+🔄 **Retest** → ✅ **Verified** → 🚀 **Closed**
 
 <sub>Understand → Design → Report → Validate → Confirm</sub>
 
 </div>
-
-<br>
 
 ---
 
@@ -109,8 +88,10 @@ Meta Title · Meta Description · Slugs · Headings · Alt Text · Images · Lin
 
 <div align="center">
 
-🐞 **Detected** → 📝 **Reported** → 👨‍💻 **Assigned** → 🔧 **Fixed**  
-↓  
+🐞 **Detected** → 📝 **Reported** → 👨‍💻 **Assigned** → 🔧 **Fixed**
+
+↓
+
 🧪 **Retested** → ✅ **Verified** → 🚀 **Closed**
 
 </div>
@@ -214,9 +195,7 @@ Hands-on training in:
 <img src="https://img.shields.io/badge/View_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions"/>
 </a>
 
-<br><br>
-
-**Explore my latest repositories, commits, projects, and contribution activity directly on GitHub.**
+<p>Explore my latest repositories, commits, projects, and contribution activity directly on GitHub.</p>
 
 </div>
 
@@ -231,8 +210,6 @@ Hands-on training in:
 <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br><br>
 
 ### 🧪 Test smarter. Find defects earlier. Ship with confidence.
 
