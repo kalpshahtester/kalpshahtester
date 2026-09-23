@@ -29,14 +29,66 @@ I approach testing systematically — from understanding requirements and design
 
 <div align="center">
 
-🟢 **Functional Testing** · 🟢 **UI Testing**  
-🟢 **Regression** · 🟢 **Bug Reporting** · 🟢 **Web QA**
+🟢 **Functional Testing**  
+🟢 **UI Testing**  
+🟢 **Regression Testing**  
+🟢 **Bug Reporting**  
+🟢 **Web QA**
 
 <br>
 
-`Requirements` → `Test` → `Report` → `Retest` → `Verify` → `Release` 🚀
+**Requirements** → **Test** → **Report**  
+**Retest** → **Verify** → **Release** 🚀
 
 </div>
+
+---
+
+## 🔄 QA Testing Workflow
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=460&lines=Requirements+%E2%86%92+Test+Cases+%E2%86%92+Bug+Report+%E2%86%92+Retest+%E2%86%92+Verified" alt="QA workflow animation"/>
+
+<br>
+
+📝 **Requirements**  
+↓  
+🧪 **Test Cases**  
+↓  
+🐞 **Bug Report**  
+↓  
+🔄 **Retest**  
+↓  
+✅ **Verified**
+
+<br>
+
+<sub>Understand → Design → Report → Validate → Confirm</sub>
+
+</div>
+
+---
+
+## 🔎 Core QA Skills
+
+**🧪 Functional Testing**  
+Functional · UI · Smoke · Sanity · Regression
+
+**🔍 Test Techniques**  
+Negative · Exploratory · Boundary · Validation
+
+**📝 Test Documentation**  
+HLR · Test Scenarios · Test Cases · RTM · Test Summary Reports
+
+**🐞 Defect Management**  
+Bug Reporting · Severity · Priority · Defect Life Cycle · Retesting
+
+**🌐 Web QA**  
+Forms · Navigation · Links · Responsive UI · Cross-Browser Checks
+
+**🔎 SEO QA**  
+Meta Title · Meta Description · Slugs · Headings · Alt Text · Images · Links
 
 ---
 
