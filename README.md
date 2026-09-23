@@ -70,7 +70,7 @@ I approach testing systematically — from understanding requirements and design
 
 <br><br>
 
-📝 **Requirements** &nbsp;→&nbsp; 🧪 **Test Cases** &nbsp;→&nbsp; 🐞 **Bug Report** &nbsp;→&nbsp; 🔄 **Retest** &nbsp;→&nbsp; ✅ **Verified**
+<a href="#qa-testing-workflow">📝 **Requirements**</a> &nbsp;→&nbsp; <a href="#qa-testing-workflow">🧪 **Test Cases**</a> &nbsp;→&nbsp; <a href="#qa-testing-workflow">🐞 **Bug Report**</a> &nbsp;→&nbsp; <a href="#qa-testing-workflow">🔄 **Retest**</a> &nbsp;→&nbsp; <a href="#qa-testing-workflow">✅ **Verified**</a>
 
 <br>
 
