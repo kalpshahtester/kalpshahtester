@@ -42,6 +42,8 @@ I approach testing systematically — from understanding requirements and design
 
 </div>
 
+<br>
+
 ---
 
 ## 🔄 QA Testing Workflow
@@ -104,6 +106,8 @@ Meta Title · Meta Description · Slugs · Headings · Alt Text · Images · Lin
 🐞 **Detected** → 📝 **Reported** → 👨‍💻 **Assigned** → 🔧 **Fixed** → 🧪 **Retested** → ✅ **Verified** → 🚀 **Closed**
 
 </div>
+
+<br>
 
 ---
 
