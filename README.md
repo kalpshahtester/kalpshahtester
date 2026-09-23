@@ -66,9 +66,11 @@ I approach testing systematically — from understanding requirements and design
 
 <div align="center">
 
-**Requirements** → **Test Scenarios** → **Test Cases** → **Execution**  
-↓  
-**Defect Reporting** → **Developer Fix** → **Retesting** → **Regression** → **Release Validation** 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=Requirements+%E2%86%92+Test+Cases+%E2%86%92+Bug+Report+%E2%86%92+Retest+%E2%86%92+Verified" alt="QA workflow animation"/>
+
+<br>
+
+**Requirements** → **Test Cases** → **Bug Report** → **Retest** → **Verified** ✅
 
 </div>
 
