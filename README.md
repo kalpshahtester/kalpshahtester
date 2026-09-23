@@ -143,7 +143,13 @@ Hands-on training in:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpshahtester&theme=github-compact&hide_border=true" alt="GitHub activity graph"/>
+<a href="https://github.com/kalpshahtester">
+<img src="https://img.shields.io/badge/View_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions"/>
+</a>
+
+<br><br>
+
+**Explore my latest repositories, commits, projects, and contribution activity directly on GitHub.**
 
 </div>
 
