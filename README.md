@@ -68,9 +68,13 @@ I approach testing systematically — from understanding requirements and design
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=Requirements+%E2%86%92+Test+Cases+%E2%86%92+Bug+Report+%E2%86%92+Retest+%E2%86%92+Verified" alt="QA workflow animation"/>
 
+<br><br>
+
+📝 **Requirements** &nbsp;→&nbsp; 🧪 **Test Cases** &nbsp;→&nbsp; 🐞 **Bug Report** &nbsp;→&nbsp; 🔄 **Retest** &nbsp;→&nbsp; ✅ **Verified**
+
 <br>
 
-**Requirements** → **Test Cases** → **Bug Report** → **Retest** → **Verified** ✅
+<sub>Understand → Design → Report → Validate → Confirm</sub>
 
 </div>
 
