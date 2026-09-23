@@ -21,6 +21,8 @@
 
 I approach testing systematically — from understanding requirements and designing test coverage to execution, defect reporting, retesting, regression, and release validation.
 
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-21262D?style=for-the-badge" alt="Download Resume"/></a>
+
 > 🧪 **Quality mindset:** Find defects early, document them clearly, verify fixes, and protect the user experience.
 
 ---
