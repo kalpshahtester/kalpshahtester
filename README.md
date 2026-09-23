@@ -5,16 +5,18 @@
 ### 🧪 Junior Manual QA Tester
 
 <p><strong>Manual QA Testing</strong> · Functional & UI Testing · Regression Testing</p>
-<sub>Functional Testing · UI Testing · Regression Testing · Bug Reporting</sub>
-
+<p><sub>Functional Testing · UI Testing · Regression Testing · Bug Reporting</sub></p>
 <p><em>Detail-oriented Manual QA Tester focused on quality, accuracy, and reliable user experiences.</em></p>
-
 <p><strong>Test Cases</strong> · Bug Reporting · Retesting · Web & SEO QA</p>
 
+<p>
 <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+<p>
 <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-21262D?style=for-the-badge" alt="Download Resume"/></a>
 <a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -22,9 +24,9 @@
 
 ## 🎯 QA Profile
 
-**Junior Manual QA Tester** focused on **functional testing, UI validation, regression testing, defect reporting, and structured QA documentation**.
+**Junior Manual QA Tester** focused on **functional testing, UI validation, regression testing, defect reporting, and QA documentation**.
 
-I approach testing systematically — from understanding requirements and designing test coverage to execution, defect reporting, retesting, regression, and release validation.
+I follow a structured approach: **requirements → test design → execution → defect reporting → retesting → regression → validation**.
 
 > 🧪 **Quality mindset:** Find defects early, document them clearly, verify fixes, and protect the user experience.
 
@@ -102,7 +104,7 @@ Meta Title · Meta Description · Slugs · Headings · Alt Text · Images · Lin
 
 ### 🧪 SauceDemo — Manual Testing
 
-End-to-end manual testing project covering structured test planning, scenarios, test cases, execution, defect reporting, RTM, and final test summary.
+End-to-end manual testing covering test planning, scenarios, test cases, execution, defects, RTM, and test summary.
 
 **Coverage:** Functional Testing · UI Testing · Negative Testing · Regression · Defect Reporting
 
@@ -110,7 +112,7 @@ End-to-end manual testing project covering structured test planning, scenarios, 
 
 ### ✈️ MakeMyTrip — Testing Assessment
 
-Manual testing assessment covering authentication, registration, flight and hotel booking flows, functional validation, negative scenarios, and UI checks.
+Manual testing covering authentication, registration, flight and hotel booking flows, negative scenarios, and UI validation.
 
 **Coverage:** Functional Testing · Negative Testing · UI Validation · Booking Flow Testing
 
@@ -122,12 +124,16 @@ Manual testing assessment covering authentication, registration, flight and hote
 
 <div align="center">
 
+<p>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+<p>
 <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+</p>
 
 </div>
 
@@ -171,7 +177,7 @@ Manual testing assessment covering authentication, registration, flight and hote
 
 ### Computer Engineer → Manual QA Tester
 
-My previous IT experience strengthened my ability to troubleshoot technical issues, investigate problems systematically, communicate findings clearly, and maintain structured documentation.
+My previous IT experience strengthened my troubleshooting, investigation, communication, and documentation skills.
 
 I now apply those skills to **software quality assurance and web application testing**.
 
@@ -195,7 +201,7 @@ Hands-on training in:
 <img src="https://img.shields.io/badge/View_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions"/>
 </a>
 
-<p>Explore my latest repositories, commits, projects, and contribution activity directly on GitHub.</p>
+<p><sub>Explore my repositories, projects, commits, and contribution activity.</sub></p>
 
 </div>
 
