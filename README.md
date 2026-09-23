@@ -4,7 +4,7 @@
 
 ### 🧪 Junior Manual QA Tester
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Manual+QA+Testing;Functional+%7C+UI+%7C+Regression+Testing;Defect+Reporting+%26+Retesting;Web+%26+SEO+Quality+Assurance" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Manual+QA+Testing;Functional+%7C+UI+%7C+Regression+Testing;Test+Cases+%7C+Bug+Reports+%7C+RTM;Defect+Reporting+%26+Retesting;Web+%26+SEO+Quality+Assurance" alt="Typing animation" />
 
 <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -19,73 +19,103 @@
 
 **Junior Manual QA Tester** focused on **functional testing, UI validation, regression testing, defect reporting, and structured QA documentation**.
 
-I work systematically from **requirements → test coverage → execution → defect reporting → retesting → release validation**.
+I approach testing systematically — from understanding requirements and designing test coverage to execution, defect reporting, retesting, regression, and release validation.
 
-### 🔎 Core Strengths
+> 🧪 **Quality mindset:** Find defects early, document them clearly, verify fixes, and protect the user experience.
 
-**Functional Testing** · **UI Testing** · **Regression Testing** · **Smoke & Sanity Testing**  
-**Negative Testing** · **Exploratory Testing** · **Retesting** · **Defect Reporting**  
-**Test Scenarios** · **Test Cases** · **RTM** · **Test Summary Reports** · **Web & SEO QA**
+---
+
+## 🔎 Core QA Skills
+
+| Area | Skills |
+|---|---|
+| 🧪 Functional Testing | Functional, UI, Smoke, Sanity, Regression |
+| 🔍 Test Techniques | Negative, Exploratory, Boundary & Validation Testing |
+| 📝 Test Documentation | HLR, Test Scenarios, Test Cases, RTM, Test Summary Reports |
+| 🐞 Defect Management | Bug Reporting, Severity, Priority, Defect Life Cycle, Retesting |
+| 🌐 Web QA | Forms, Navigation, Links, Responsive UI, Content & Cross-Browser Checks |
+| 🔎 SEO QA | Meta Title, Meta Description, Slugs, Headings, Alt Text, Images & Links |
+
+---
+
+## 🔄 QA Testing Workflow
+
+<div align="center">
+
+**Requirements** → **Test Scenarios** → **Test Cases** → **Execution**  
+↓  
+**Defect Reporting** → **Developer Fix** → **Retesting** → **Regression** → **Release Validation** 🚀
+
+</div>
 
 ---
 
 ## ⭐ Featured QA Projects
 
 ### 🧪 SauceDemo — Manual Testing
-End-to-end manual QA project covering test planning, scenarios, test cases, execution, defect reporting, RTM, and final test summary.
 
-🔗 **[View Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
+End-to-end manual testing project covering structured test planning, scenarios, test cases, execution, defect reporting, RTM, and final test summary.
+
+**Coverage:** Functional Testing · UI Testing · Negative Testing · Regression · Defect Reporting
+
+🔗 **[View SauceDemo Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
 
 ### ✈️ MakeMyTrip — Testing Assessment
-Manual testing covering login, registration, flight and hotel booking, functional testing, negative testing, and UI validation.
 
-🔗 **[View Project](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
+Manual testing assessment covering authentication, registration, flight and hotel booking flows, functional validation, negative scenarios, and UI checks.
 
----
+**Coverage:** Functional Testing · Negative Testing · UI Validation · Booking Flow Testing
 
-## 🛠️ Skills & Tools
-
-**Manual QA** — Functional · UI · Regression · Smoke · Sanity · Negative · Exploratory · Retesting
-
-**Test Documentation** — Test Plan · HLR · Test Scenarios · Test Cases · RTM · Bug Reports · Test Summary
-
-**Web QA** — Responsive UI · Forms · Navigation · Links · Content · SEO · Metadata · Alt Text · Images
-
-**Defect Management** — Reproduction · Severity · Priority · Defect Life Cycle · Retesting · Evidence
-
-**QA Tools** — Jira · ClickUp · GitHub · Chrome DevTools · Excel · Google Sheets
-
-**Technical Basics** — SQL · Java · Selenium WebDriver
+🔗 **[View MakeMyTrip Project](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
 
 ---
 
-## 🔄 QA Workflow
+## 🛠️ QA Tools
 
-**Requirements → Test Scenarios → Test Cases → Execution → Defect Reporting → Retesting → Regression → Release Validation**
+<div align="center">
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+
+</div>
 
 ---
 
-## 🐞 Defect Reporting
-
-I create defect reports that are:
+## 🐞 Defect Reporting Approach
 
 **Clear · Reproducible · Actionable · Evidence-Based · Prioritized · Traceable**
 
-Typical defect structure:
-
-**Bug ID → Module → Steps → Expected → Actual → Severity/Priority → Environment → Evidence → Retest**
+**Bug ID → Module/Page → Steps → Expected → Actual → Severity/Priority → Environment → Evidence → Retest**
 
 ---
 
 ## 🌐 Web & SEO QA
 
-**Metadata** — Meta title & description  
-**URLs** — Slugs, navigation & redirects  
-**Headings** — H1–H6 hierarchy  
-**Images** — Format, size, loading & alt text  
-**Links** — Internal & external  
-**Responsive UI** — Desktop, tablet & mobile  
-**Content** — Visibility, formatting & consistency
+- **Metadata:** Meta title and meta description
+- **URLs:** Slugs, navigation and redirects
+- **Headings:** H1–H6 hierarchy
+- **Images:** Format, size, loading and alt text
+- **Links:** Internal and external links
+- **Responsive UI:** Desktop, tablet and mobile validation
+- **Forms:** Input validation, required fields and error messages
+- **Content:** Visibility, formatting and consistency
+
+---
+
+## 📋 QA Documentation
+
+- 📌 High-Level Requirements (HLR)
+- 📌 Test Plan
+- 📌 Test Scenarios
+- 📌 Test Cases
+- 📌 Requirements Traceability Matrix (RTM)
+- 📌 Bug Reports
+- 📌 Retesting & Regression Results
+- 📌 Test Summary Reports
 
 ---
 
@@ -93,7 +123,9 @@ Typical defect structure:
 
 ### Computer Engineer → Manual QA Tester
 
-Previous IT experience strengthened my **troubleshooting, issue investigation, system validation, technical communication, and documentation** skills.
+My previous IT experience strengthened my ability to troubleshoot technical issues, investigate problems systematically, communicate findings clearly, and maintain structured documentation.
+
+I now apply those skills to **software quality assurance and web application testing**.
 
 ---
 
@@ -101,7 +133,19 @@ Previous IT experience strengthened my **troubleshooting, issue investigation, s
 
 **Manual Testing — TOPS Technologies**
 
-Hands-on training in **SDLC, STLC, test design, execution, defect life cycle, RTM, and QA reporting**.
+Hands-on training in:
+
+**SDLC · STLC · Test Design · Test Execution · Defect Life Cycle · RTM · QA Reporting**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpshahtester&theme=github-compact&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
 
 ---
 
@@ -111,12 +155,12 @@ Hands-on training in **SDLC, STLC, test design, execution, defect life cycle, RT
 
 **Open to Junior QA / Manual QA opportunities**
 
-<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
 
-**🧪 Test smarter. Find defects earlier. Ship with confidence.**
+### 🧪 Test smarter. Find defects earlier. Ship with confidence.
 
 </div>
