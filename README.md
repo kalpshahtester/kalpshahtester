@@ -4,7 +4,7 @@
 
 ### 🧪 Junior Manual QA Tester
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Manual+QA+Testing;Functional+%7C+UI+%7C+Regression+Testing;Test+Cases+%7C+Bug+Reports+%7C+RTM;Defect+Reporting+%26+Retesting;Web+%26+SEO+Quality+Assurance" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Manual+QA+Testing;Functional+%7C+UI+%7C+Regression;Test+Cases+%7C+Bug+Reports+%7C+RTM;Defect+Reporting+%26+Retesting;Web+%26+SEO+QA" alt="Typing animation" />
 
 <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -29,11 +29,12 @@ I approach testing systematically — from understanding requirements and design
 
 <div align="center">
 
-**🟢 FUNCTIONAL**　**🟢 UI TESTING**　**🟢 REGRESSION**　**🟢 BUG REPORTING**　**🟢 WEB QA**
+🟢 **Functional Testing** · 🟢 **UI Testing**  
+🟢 **Regression** · 🟢 **Bug Reporting** · 🟢 **Web QA**
 
-<br><br>
+<br>
 
-`REQUIREMENTS` → `TEST` → `FIND BUG` → `REPORT` → `RETEST` → `VERIFY` → `RELEASE` 🚀
+`Requirements` → `Test` → `Report` → `Retest` → `Verify` → `Release` 🚀
 
 </div>
 
@@ -51,14 +52,12 @@ I approach testing systematically — from understanding requirements and design
 
 ## 🔎 Core QA Skills
 
-| Area | Skills |
-|---|---|
-| 🧪 Functional Testing | Functional, UI, Smoke, Sanity, Regression |
-| 🔍 Test Techniques | Negative, Exploratory, Boundary & Validation Testing |
-| 📝 Test Documentation | HLR, Test Scenarios, Test Cases, RTM, Test Summary Reports |
-| 🐞 Defect Management | Bug Reporting, Severity, Priority, Defect Life Cycle, Retesting |
-| 🌐 Web QA | Forms, Navigation, Links, Responsive UI, Content & Cross-Browser Checks |
-| 🔎 SEO QA | Meta Title, Meta Description, Slugs, Headings, Alt Text, Images & Links |
+- 🧪 **Functional Testing:** Functional · UI · Smoke · Sanity · Regression
+- 🔍 **Test Techniques:** Negative · Exploratory · Boundary · Validation
+- 📝 **Test Documentation:** HLR · Test Scenarios · Test Cases · RTM · Test Summary Reports
+- 🐞 **Defect Management:** Bug Reporting · Severity · Priority · Defect Life Cycle · Retesting
+- 🌐 **Web QA:** Forms · Navigation · Links · Responsive UI · Cross-Browser Checks
+- 🔎 **SEO QA:** Meta Title · Meta Description · Slugs · Headings · Alt Text · Images · Links
 
 ---
 
@@ -66,7 +65,7 @@ I approach testing systematically — from understanding requirements and design
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=Requirements+%E2%86%92+Test+Cases+%E2%86%92+Bug+Report+%E2%86%92+Retest+%E2%86%92+Verified" alt="QA workflow animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=500&lines=Requirements+%E2%86%92+Test+Cases+%E2%86%92+Bug+Report+%E2%86%92+Retest+%E2%86%92+Verified" alt="QA workflow animation"/>
 
 <br><br>
 
