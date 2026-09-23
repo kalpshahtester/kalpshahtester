@@ -4,7 +4,7 @@
 
 ### 🧪 Junior Manual QA Tester
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Manual+QA+Testing;Functional+%7C+UI+%7C+Regression;Test+Cases+%7C+Bug+Reports+%7C+RTM;Defect+Reporting+%26+Retesting;Web+%26+SEO+QA" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=800&color=58A6FF&center=true&vCenter=true&width=430&height=38&lines=Manual+QA+Testing;Functional+%7C+UI+%7C+Regression;Test+Cases+%7C+Bug+Reports+%7C+RTM;Defect+Reporting+%26+Retesting;Web+%26+SEO+QA" alt="Manual QA typing animation" />
 
 <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,6 +24,8 @@ I approach testing systematically — from understanding requirements and design
 <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-21262D?style=for-the-badge" alt="Download Resume"/></a>
 
 > 🧪 **Quality mindset:** Find defects early, document them clearly, verify fixes, and protect the user experience.
+
+---
 
 ## 🧪 QA Testing Command Center
 
@@ -74,6 +76,7 @@ I approach testing systematically — from understanding requirements and design
 
 </div>
 
+<br>
 
 ---
 
@@ -103,44 +106,9 @@ Meta Title · Meta Description · Slugs · Headings · Alt Text · Images · Lin
 
 <div align="center">
 
-🐞 **Detected** → 📝 **Reported** → 👨‍💻 **Assigned** → 🔧 **Fixed** → 🧪 **Retested** → ✅ **Verified** → 🚀 **Closed**
-
-</div>
-
-<br>
-
----
-
-## 🔎 Core QA Skills
-
-- 🧪 **Functional Testing:** Functional · UI · Smoke · Sanity · Regression
-- 🔍 **Test Techniques:** Negative · Exploratory · Boundary · Validation
-- 📝 **Test Documentation:** HLR · Test Scenarios · Test Cases · RTM · Test Summary Reports
-- 🐞 **Defect Management:** Bug Reporting · Severity · Priority · Defect Life Cycle · Retesting
-- 🌐 **Web QA:** Forms · Navigation · Links · Responsive UI · Cross-Browser Checks
-- 🔎 **SEO QA:** Meta Title · Meta Description · Slugs · Headings · Alt Text · Images · Links
-
----
-
-## 🔄 QA Testing Workflow
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=500&lines=Requirements+%E2%86%92+Test+Cases+%E2%86%92+Bug+Report+%E2%86%92+Retest+%E2%86%92+Verified" alt="QA workflow animation"/>
-
-<br><br>
-
-📝 **Requirements**  
+🐞 **Detected** → 📝 **Reported** → 👨‍💻 **Assigned** → 🔧 **Fixed**  
 ↓  
-🧪 **Test Cases**  
-↓  
-🐞 **Bug Report**  
-↓  
-🔄 **Retest**  
-↓  
-✅ **Verified**
-
-<sub>Understand → Design → Report → Validate → Confirm</sub>
+🧪 **Retested** → ✅ **Verified** → 🚀 **Closed**
 
 </div>
 
