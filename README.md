@@ -4,7 +4,8 @@
 
 ### 🧪 Junior Manual QA Tester
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=800&color=58A6FF&center=true&vCenter=true&width=430&height=38&lines=Manual+QA+Testing;Functional+%7C+UI+%7C+Regression;Test+Cases+%7C+Bug+Reports+%7C+RTM;Defect+Reporting+%26+Retesting;Web+%26+SEO+QA" alt="Manual QA typing animation" />
+<p><strong>Manual QA Testing</strong> · Functional & UI Testing · Regression Testing</p>
+<p><strong>Test Cases</strong> · Bug Reporting · Retesting · Web & SEO QA</p>
 
 <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
