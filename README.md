@@ -65,7 +65,10 @@ I focus on web application quality, user journeys, responsive behavior, WordPres
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline.gif" width="100%" alt="Animated QA pipeline: TEST, FIND, REPRODUCE, REPORT, FIX, RETEST, VERIFY"/>
+<picture>
+  <source media="(max-width: 720px)" srcset="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline-mobile.svg">
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline.gif" width="100%" style="max-width: 900px; height: auto;" alt="QA pipeline: TEST, FIND, REPRODUCE, REPORT, FIX, RETEST, VERIFY">
+</picture>
 
 </div>
 
