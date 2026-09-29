@@ -1,25 +1,40 @@
 <div align="center">
 
-# 👋 Hi, I'm **Kalp Shah**
+# 💻 `kalp@github`
 
-### 🧪 Junior Manual QA Tester
-
-<p><strong>Manual QA Testing</strong> · Functional & UI Testing · Regression Testing</p>
-<p><sub>Functional Testing · UI Testing · Regression Testing · Bug Reporting</sub></p>
-<p><em>Detail-oriented Manual QA Tester focused on quality, accuracy, and reliable user experiences.</em></p>
-<p><strong>Test Cases</strong> · Bug Reporting · Retesting · Web & SEO QA</p>
+> `whoami` → **Kalp Shah**
+> `role`   → **Junior Manual QA Tester**
+> `focus`  → **Web QA · Functional · UI · Regression · API · Selenium**
+> `status` → **● Ready to test**
 
 <p>
-<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://github.com/kalpshahtester"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-<p>
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-21262D?style=for-the-badge" alt="Download Resume"/></a>
-<a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
 
+---
+
+## ⌨️ QA Terminal
+
+```text
+$ ./qa-profile.sh
+
+[✓] Loading Kalp Shah...
+[✓] Role: Junior Manual QA Tester
+[✓] Web QA
+[✓] Functional Testing
+[✓] UI Testing
+[✓] Regression Testing
+[✓] API Testing
+[✓] Selenium WebDriver
+
+> QA profile initialized successfully.
+```
+
+---
 ---
 
 ## 🎯 QA Profile
