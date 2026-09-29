@@ -70,6 +70,8 @@ I focus on web application quality, user journeys, responsive behavior, WordPres
   <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline.gif" width="100%" style="max-width: 900px; height: auto;" alt="QA pipeline: TEST, FIND, REPRODUCE, REPORT, FIX, RETEST, VERIFY">
 </picture>
 
+<sub>📱 Narrow screens use the static SVG for a compact layout; larger screens use the animated GIF.</sub>
+
 </div>
 
 **TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY**
