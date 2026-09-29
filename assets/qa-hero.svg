@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Kalp Shah QA hero animation</title>
+  <desc id="desc">A subtle animated quality assurance workflow showing test, find, report, retest and verify.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="180" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <g opacity=".16">
+    <path d="M0 45H1200M0 90H1200M0 135H1200" stroke="#8b949e"/>
+    <path d="M150 0V180M300 0V180M450 0V180M600 0V180M750 0V180M900 0V180M1050 0V180" stroke="#8b949e"/>
+  </g>
+  <text x="60" y="48" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="24" font-weight="700">QA ENGINEERING</text>
+  <text x="60" y="76" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">Evidence-driven testing • Web • WordPress • SEO • API</text>
+  <g font-family="Arial, sans-serif" font-size="13" text-anchor="middle">
+    <g fill="#161b22" stroke="#30363d">
+      <circle cx="180" cy="125" r="25"/><circle cx="390" cy="125" r="25"/><circle cx="600" cy="125" r="25"/><circle cx="810" cy="125" r="25"/><circle cx="1020" cy="125" r="25"/>
+    </g>
+    <g fill="#58a6ff">
+      <circle cx="180" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="390" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" begin=".36s" repeatCount="indefinite"/></circle>
+      <circle cx="600" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" begin=".72s" repeatCount="indefinite"/></circle>
+      <circle cx="810" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" begin="1.08s" repeatCount="indefinite"/></circle>
+      <circle cx="1020" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" begin="1.44s" repeatCount="indefinite"/></circle>
+    </g>
+    <g stroke="#58a6ff" stroke-width="2" opacity=".65">
+      <path d="M205 125H365M415 125H575M625 125H785M835 125H995"/>
+    </g>
+    <g fill="#c9d1d9">
+      <text x="180" y="165">TEST</text><text x="390" y="165">FIND</text><text x="600" y="165">REPORT</text><text x="810" y="165">RETEST</text><text x="1020" y="165">VERIFY</text>
+    </g>
+  </g>
+  <rect x="-200" y="0" width="180" height="180" fill="url(#line)" opacity=".22" filter="url(#glow)">
+    <animate attributeName="x" from="-200" to="1220" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
