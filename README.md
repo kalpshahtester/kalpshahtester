@@ -1,21 +1,16 @@
 <div align="center">
 
-# 💻 `kalp@github`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:58A6FF&height=190&section=header&text=KALP%20SHAH&fontSize=52&fontColor=58A6FF&fontAlignY=38&desc=Junior%20Manual%20QA%20Tester%20%7C%20Web%20QA%20%7C%20Bug%20Hunter&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Animated Kalp Shah header"/>
 
-### Junior Manual QA Tester · Web QA · Bug Hunter
-
-<p>
-  <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/kalpshahtester"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Kalp+Shah;%24+role+%E2%86%92+Junior+Manual+QA+Tester;%24+focus+%E2%86%92+Web+%7C+Functional+%7C+UI+%7C+Regression;%24+api+%E2%86%92+Postman;%24+automation+%E2%86%92+Selenium+WebDriver;%24+status+%E2%86%92+Ready+to+test+%E2%9C%93" alt="Animated QA terminal typing effect"/>
+</a>
 
 <p>
-  <img src="https://img.shields.io/badge/QA_MODE-ACTIVE-2ea44f?style=for-the-badge" alt="QA mode active"/>
-  <img src="https://img.shields.io/badge/FOCUS-WEB_%7C_FUNCTIONAL_%7C_UI-58A6FF?style=for-the-badge" alt="QA focus"/>
-  <img src="https://img.shields.io/badge/API-POSTMAN-F59E0B?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/AUTOMATION-SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/kalpshahtester"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
@@ -24,28 +19,13 @@
 
 ## 🎯 QA Identity
 
-> **I test software from the user's point of view, investigate defects from the evidence, and verify fixes before they reach the next stage.**
+> **Test. Investigate. Document. Retest. Verify.**
 
-Junior Manual QA Tester focused on:
-
-`Functional Testing` · `UI Testing` · `Regression` · `Smoke` · `Sanity` · `Exploratory` · `Web QA` · `API Testing`
-
-My workflow is simple:
-
-**Understand → Design → Execute → Report → Retest → Regression → Validate**
-
----
-
-## ⌨️ Typing Effect
+Junior Manual QA Tester focused on **web application quality, functional testing, UI validation, regression testing, defect reporting, API testing, and Selenium practice**.
 
 <div align="center">
 
-<a href="https://github.com/kalpshahtester">
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Junior+Manual+QA+Tester;Finding+defects+before+users+do;Functional+%7C+UI+%7C+Regression+%7C+Web+QA;API+Testing+with+Postman;Selenium+WebDriver+Automation+Practice;Test.+Investigate.+Verify.+Repeat."
-  alt="Typing animation"
- />
-</a>
+`Functional` · `UI` · `Smoke` · `Sanity` · `Regression` · `Exploratory` · `Web QA` · `API`
 
 </div>
 
@@ -55,49 +35,55 @@ My workflow is simple:
 
 <div align="center">
 
-| QA AREA | FOCUS |
+| 🧩 AREA | 🔍 WHAT I VALIDATE |
 |---|---|
-| 🧪 Functional | Positive · Negative · Validation · Business Flow |
-| 🎨 UI | Layout · Content · Forms · Visual Consistency |
-| 🔄 Regression | Retest · Impact Analysis · Regression Checks |
-| 🌐 Web | Navigation · Links · Responsive · Cross-Browser |
-| 📮 API | Requests · Responses · Status · Payload Validation |
-| 🔎 SEO | Metadata · Headings · Links · Images · Content |
+| Functional | Business flows · Positive/negative scenarios · Validation |
+| UI | Layout · Content · Forms · Consistency |
+| Regression | Retesting · Impact areas · Existing functionality |
+| Web | Navigation · Links · Responsive behavior · Cross-browser |
+| API | Requests · Responses · Status · Payload validation |
+| SEO | Metadata · Headings · Images · Links · Content |
 
 </div>
 
-### QA Execution Loop
-
 ```text
-┌───────────────────────────────────────────────────────────────┐
-│                       QA EXECUTION LOOP                       │
-│                                                               │
-│  Requirements → Test Design → Test Execution → Evidence      │
-│        ↑                                      ↓               │
-│        └── Regression ← Retest ← Defect Report ←─┘           │
-│                                                               │
-│                    ✓ VERIFIED → RELEASE                       │
-└───────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────┐
+│                     QA EXECUTION PIPELINE                      │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│  REQUIREMENT → TEST DESIGN → EXECUTE → EVIDENCE                │
+│       ▲                                      │                 │
+│       │                                      ▼                 │
+│  REGRESSION ← RETEST ← DEFECT REPORT ←── FAIL                 │
+│       │                                                        │
+│       └────────────────── ✓ VERIFIED ──→ RELEASE              │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 🛠️ QA Arsenal
 
-### 🧪 Manual QA
-<img src="https://img.shields.io/badge/Functional-2ea44f?style=flat-square" alt="Functional"/> <img src="https://img.shields.io/badge/UI-2ea44f?style=flat-square" alt="UI"/> <img src="https://img.shields.io/badge/Smoke-2ea44f?style=flat-square" alt="Smoke"/> <img src="https://img.shields.io/badge/Sanity-2ea44f?style=flat-square" alt="Sanity"/> <img src="https://img.shields.io/badge/Regression-2ea44f?style=flat-square" alt="Regression"/> <img src="https://img.shields.io/badge/Exploratory-2ea44f?style=flat-square" alt="Exploratory"/>
+<div align="center">
 
-### 🌐 Web & Browser QA
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/> <img src="https://img.shields.io/badge/Responsive_QA-58A6FF?style=flat-square" alt="Responsive QA"/> <img src="https://img.shields.io/badge/SEO_QA-58A6FF?style=flat-square" alt="SEO QA"/> <img src="https://img.shields.io/badge/Forms_%26_Links-58A6FF?style=flat-square" alt="Forms and links"/>
+<img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,html,css&theme=dark" alt="QA technology icons"/>
 
-### 📮 API Testing
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square" alt="REST API"/> <img src="https://img.shields.io/badge/Request_%2F_Response-FF6C37?style=flat-square" alt="Request response validation"/>
+<br/><br/>
 
-### 🤖 Automation
-<img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium WebDriver"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square" alt="TestNG"/>
+<img src="https://img.shields.io/badge/Functional_Testing-2ea44f?style=for-the-badge" alt="Functional Testing"/>
+<img src="https://img.shields.io/badge/UI_Testing-2ea44f?style=for-the-badge" alt="UI Testing"/>
+<img src="https://img.shields.io/badge/Regression-2ea44f?style=for-the-badge" alt="Regression"/>
+<img src="https://img.shields.io/badge/Exploratory-2ea44f?style=for-the-badge" alt="Exploratory"/>
+<img src="https://img.shields.io/badge/Web_QA-58A6FF?style=for-the-badge" alt="Web QA"/>
+<img src="https://img.shields.io/badge/SEO_QA-58A6FF?style=for-the-badge" alt="SEO QA"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
 
-### 📊 Documentation & Collaboration
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+</div>
 
 ---
 
@@ -106,24 +92,24 @@ My workflow is simple:
 <div align="center">
 
 ```text
-             🧪 TEST DESIGN
-                    │
-          ┌─────────┴─────────┐
-          ▼                   ▼
-   🤖 Selenium            📮 Postman
-   Web UI Flow            API Flow
-          │                   │
-          ▼                   ▼
-     UI Actions          API Requests
-          │                   │
-          ▼                   ▼
-     Assertions          Validation
-          └─────────┬─────────┘
-                    ▼
-              ✅ TEST RESULT
-                    │
-                    ▼
-              📊 QA EVIDENCE
+                 🧪 TEST DESIGN
+                       │
+              ┌────────┴────────┐
+              ▼                 ▼
+        🤖 SELENIUM          📮 POSTMAN
+        Browser UI           REST API
+              │                 │
+              ▼                 ▼
+          Actions           Requests
+              │                 │
+              ▼                 ▼
+         Assertions         Validation
+              └────────┬────────┘
+                       ▼
+                 ✅ RESULT
+                       │
+                       ▼
+                 📊 EVIDENCE
 ```
 
 </div>
@@ -132,13 +118,12 @@ My workflow is simple:
 
 ```text
 $ ./selenium-test.sh
-
 [01] Launch browser
-[02] Locate web elements
+[02] Locate elements
 [03] Perform UI actions
 [04] Validate expected result
-[05] Capture test result
-[✓] UI automation flow complete
+[05] Capture result
+[✓] Automation flow complete
 ```
 
 <a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
@@ -149,13 +134,12 @@ $ ./selenium-test.sh
 
 ```text
 $ ./api-test.sh
-
-[01] Send API request
+[01] Send request
 [02] Validate response
 [03] Check status / payload
-[04] Run API assertions
-[05] Record test result
-[✓] API validation flow complete
+[04] Run assertions
+[05] Record result
+[✓] API validation complete
 ```
 
 <a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
@@ -175,7 +159,7 @@ $ ./api-test.sh
 ### 🧪 SauceDemo
 **Manual Testing**
 
-E-commerce QA covering test design, execution, defects, RTM, regression, and test summary.
+Test design · Execution · Defects · RTM · Regression · Summary
 
 <a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View SauceDemo project"/>
@@ -187,7 +171,7 @@ E-commerce QA covering test design, execution, defects, RTM, regression, and tes
 ### ✈️ MakeMyTrip
 **Testing Assessment**
 
-Authentication, registration, flight and hotel booking flows, negative scenarios, and UI validation.
+Authentication · Registration · Flight · Hotel · Negative · UI
 
 <a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View MakeMyTrip project"/>
@@ -202,41 +186,35 @@ Authentication, registration, flight and hotel booking flows, negative scenarios
 ### 📮 Postman API
 **API Testing**
 
-Request/response validation and API-focused testing using Postman.
+Requests · Responses · Status · Payload validation
 
 <a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Postman project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View Postman project"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Selenium WebDriver
+### 🤖 Selenium
 **Automation Practice**
 
-Selenium WebDriver training and browser automation work.
+WebDriver · Java · Browser workflow validation
 
 <a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Selenium project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="View Selenium project"/>
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2">
 
 ### 🌐 QA Portfolio
 
-QA-focused portfolio website and professional web presence.
-
-<a href="https://kalpshahtester.github.io/">
-<img src="https://img.shields.io/badge/OPEN_LIVE_PORTFOLIO-58A6FF?style=for-the-badge" alt="Open live portfolio"/>
-</a>
+<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/OPEN_LIVE_PORTFOLIO-58A6FF?style=for-the-badge" alt="Open live portfolio"/></a>
 &nbsp;
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO_REPO-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View portfolio repository"/>
-</a>
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO_REPO-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View portfolio repository"/></a>
 
 </td>
 </tr>
@@ -249,66 +227,61 @@ QA-focused portfolio website and professional web presence.
 ## 🐛 Bug Hunter Workflow
 
 ```text
-📝 Requirement
+📝 REQUIREMENT
       │
       ▼
-🧪 Test Scenario
+🧪 TEST SCENARIO
       │
       ▼
-▶️ Execute
-      │
-      ├── PASS ───────────────► Continue
+▶️ EXECUTE ─────── PASS ───────► CONTINUE
       │
       └── FAIL
-          │
-          ▼
-      🐞 Reproduce
-          │
-          ▼
-      📸 Capture Evidence
-          │
-          ▼
-      📋 Report Defect
-          │
-          ▼
-      👨‍💻 Developer Fix
-          │
-          ▼
-      🔄 Retest
-          │
-          ├── FAIL ───────────► Reopen
-          │
-          └── PASS
-              │
-              ▼
-          🔁 Regression
-              │
-              ▼
-          ✅ Verify & Close
+           │
+           ▼
+      🐞 REPRODUCE
+           │
+           ▼
+      📸 EVIDENCE
+           │
+           ▼
+      📋 DEFECT REPORT
+           │
+           ▼
+      👨‍💻 FIX
+           │
+           ▼
+      🔄 RETEST
+         /     \
+      FAIL     PASS
+       │         │
+       ▼         ▼
+    REOPEN    🔁 REGRESSION
+                 │
+                 ▼
+             ✅ VERIFIED
+                 │
+                 ▼
+              CLOSED
 ```
 
-### Defect Report Formula
-
-**Bug ID → Module/Page → Steps → Expected → Actual → Severity/Priority → Environment → Evidence → Retest**
-
-**Clear · Reproducible · Actionable · Evidence-Based · Prioritized · Traceable**
+**Defect formula:** `Bug ID → Module → Steps → Expected → Actual → Severity/Priority → Environment → Evidence → Retest`
 
 ---
 
 ## 📋 QA Deliverables
 
 <details>
-<summary><strong>View QA documentation covered</strong></summary>
+<summary><strong>Expand QA documentation</strong></summary>
 
-- 📌 High-Level Requirements (HLR)
-- 📌 Test Plan
-- 📌 Test Scenarios
-- 📌 Test Cases
-- 📌 Requirements Traceability Matrix (RTM)
-- 📌 Bug Reports
-- 📌 Retesting Results
-- 📌 Regression Results
-- 📌 Test Summary Reports
+- High-Level Requirements (HLR)
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Requirements Traceability Matrix (RTM)
+- Bug Reports
+- Retesting Results
+- Regression Results
+- Test Summary Reports
 
 </details>
 
@@ -318,37 +291,59 @@ QA-focused portfolio website and professional web presence.
 
 <div align="center">
 
-| AREA | VALIDATION |
+| 🌐 CHECK | 🔍 VALIDATION |
 |---|---|
-| 🌐 Navigation | Menus · Links · Redirects · User Flow |
-| 📱 Responsive | Mobile · Tablet · Desktop |
-| 📝 Forms | Required fields · Validation · Error messages |
-| 🖼️ Images | Format · Size · Loading · Alt text |
-| 🔎 SEO | Meta · Headings · Slugs · Canonical · Links |
-| 📄 Content | Visibility · Formatting · Consistency |
+| Navigation | Menus · Links · Redirects · User Flow |
+| Responsive | Mobile · Tablet · Desktop |
+| Forms | Required fields · Validation · Error states |
+| Images | Format · Size · Loading · Alt text |
+| SEO | Meta · Headings · Slugs · Canonical · Links |
+| Content | Visibility · Formatting · Consistency |
 
 </div>
 
 ---
 
-## 📊 Real GitHub Data
+## 📊 Live GitHub Dashboard
 
 <div align="center">
 
 <a href="https://github.com/kalpshahtester">
-<img src="https://img.shields.io/github/followers/kalpshahtester?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/kalpshahtester?tab=repositories">
-<img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-LIVE_DATA-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/>
-</a>
-<a href="https://github.com/kalpshahtester">
-<img src="https://img.shields.io/github/stars/kalpshahtester?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORY_STARS" alt="Repository stars"/>
-</a>
-<a href="https://github.com/kalpshahtester">
-<img src="https://img.shields.io/github/last-commit/kalpshahtester/kalpshahtester?style=for-the-badge&logo=github&logoColor=white&label=PROFILE_REPO_LAST_COMMIT" alt="Profile repository last commit"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true&border_radius=12" alt="GitHub statistics"/>
 </a>
 
-<p><sub>Live badges use GitHub repository/profile data; no manually invented activity numbers are displayed.</sub></p>
+<a href="https://github.com/kalpshahtester">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpshahtester&layout=compact&theme=github_dark&hide_border=true&border_radius=12" alt="Top languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/kalpshahtester">
+<img src="https://streak-stats.demolab.com?user=kalpshahtester&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub streak statistics"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/kalpshahtester">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpshahtester&theme=github-compact&hide_border=true&area=true&radius=10" alt="GitHub activity graph"/>
+</a>
+
+<p>
+<img src="https://img.shields.io/github/followers/kalpshahtester?style=flat-square&logo=github&label=followers" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/last-commit/kalpshahtester/kalpshahtester?style=flat-square&logo=github&label=last%20profile%20commit" alt="Last profile commit"/>
+</p>
+
+<sub>Live cards read public GitHub data. No manually invented activity numbers.</sub>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kalpshahtester&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
 
 </div>
 
@@ -359,22 +354,12 @@ QA-focused portfolio website and professional web presence.
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
 </picture>
 
-<sub>Generated automatically with GitHub Actions.</sub>
+<sub>Contribution animation generated by GitHub Actions.</sub>
 
 </div>
 
@@ -384,7 +369,7 @@ QA-focused portfolio website and professional web presence.
 
 **IT Background → Manual QA Tester**
 
-Hands-on manual testing training covering:
+Manual testing training covering:
 
 **SDLC · STLC · Test Design · Test Execution · Defect Life Cycle · RTM · QA Reporting**
 
@@ -396,18 +381,14 @@ Hands-on manual testing training covering:
 
 ### Open to Junior QA / Manual QA opportunities
 
-<a href="https://kalpshahtester.github.io/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-58A6FF?style=for-the-badge" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:manualtesterkalpshah@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/>
+<br/><br/>
 
-### 🧪 Test smarter. Find defects earlier. Ship with confidence.
+<a href="https://github.com/kalpshahtester">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=110&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
+</a>
 
 </div>
