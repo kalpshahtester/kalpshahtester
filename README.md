@@ -8,15 +8,15 @@
 
 <p><strong>Finding defects before they reach users.</strong></p>
 
-<p>Manual QA focused on reliable, responsive, and production-ready web experiences.</p>
+<p>Manual QA focused on <strong>web, WordPress, functional, UI, responsive, SEO, and regression testing</strong>.</p>
 
 <p>
-<strong>Manual Testing</strong> ·
+<strong>Manual QA</strong> ·
 <strong>Web QA</strong> ·
 <strong>WordPress QA</strong> ·
-<strong>Responsive Testing</strong> ·
+<strong>Responsive QA</strong> ·
 <strong>SEO QA</strong> ·
-<strong>Regression Testing</strong>
+<strong>Regression</strong>
 </p>
 
 <p>
@@ -47,12 +47,12 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top"><h3>Role Fit</h3><p>Manual QA Engineer<br/>Web QA<br/>WordPress QA</p></td>
-<td width="50%" valign="top"><h3>Testing Scope</h3><p>Functional · UI/UX<br/>Responsive · Regression<br/>SEO · Cross-Browser</p></td>
+<td width="50%" valign="top"><h3>Role Fit</h3><p>Manual QA Engineer<br/>Web QA · WordPress QA</p></td>
+<td width="50%" valign="top"><h3>Testing Scope</h3><p>Functional · UI<br/>Responsive · Regression<br/>SEO · Cross-Browser</p></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><h3>QA Evidence</h3><p>Test Cases<br/>Bug Reports · RTM<br/>Retesting · Test Summary</p></td>
-<td width="50%" valign="top"><h3>QA Workflow</h3><p>Understand → Test → Reproduce<br/>Document → Communicate → Retest → Verify</p></td>
+<td width="50%" valign="top"><h3>QA Evidence</h3><p>Test Cases · Bug Reports<br/>RTM · Retesting · Test Summary</p></td>
+<td width="50%" valign="top"><h3>QA Workflow</h3><p>Test → Reproduce → Report<br/>Fix → Retest → Verify</p></td>
 </tr>
 </table>
 
