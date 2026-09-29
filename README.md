@@ -1,9 +1,5 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-
 <p><sub>RECRUITER SIGNAL BRIEF · KALPSHAHTESTER</sub></p>
 
 <h1>Kalp Shah</h1>
@@ -15,8 +11,10 @@
 <p>Evidence-driven testing for reliable, responsive, and production-ready web experiences.</p>
 
 <p>
-<strong>Manual Testing</strong> · <strong>Web QA</strong> ·
-<strong>WordPress QA</strong> · <strong>SEO QA</strong> ·
+<strong>Manual Testing</strong> ·
+<strong>Web QA</strong> ·
+<strong>WordPress QA</strong> ·
+<strong>SEO QA</strong> ·
 <strong>API Testing</strong>
 </p>
 
@@ -30,19 +28,12 @@
 <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">Resume</a>
 </p>
 
-</td>
-<td width="36%" valign="middle" align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=kalpshahtester&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fkalpshahtester.png&color=1&v=qa-recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=kalpshahtester&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fkalpshahtester.png&color=1&v=qa-recruiter-portrait-1&mode=dark" width="240" alt="Kalp Shah GitSkins recruiter portrait" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=kalpshahtester&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fkalpshahtester.png&color=1&v=qa-recruiter-portrait-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=kalpshahtester&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fkalpshahtester.png&color=1&v=qa-recruiter-portrait-2&mode=dark" width="180" alt="Kalp Shah GitSkins recruiter portrait" />
 </picture>
 
-</td>
-</tr>
-</table>
-
-<p align="center">
+<p>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kalpshahtester&theme=github-dark&style=aura&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=kalpshahtester&theme=github-dark&style=aura&mode=dark" width="100%" alt="GitSkins animated GitHub profile hero for Kalp Shah" />
@@ -67,49 +58,43 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>62+</strong><br/><sub>Test Cases</sub></td>
-<td width="25%" align="center"><strong>Web</strong><br/><sub>WordPress QA</sub></td>
-<td width="25%" align="center"><strong>SEO</strong><br/><sub>Web Validation</sub></td>
-<td width="25%" align="center"><strong>API</strong><br/><sub>Postman Testing</sub></td>
+<td width="50%" valign="top" align="center"><strong>62+</strong><br/><sub>Test Cases</sub></td>
+<td width="50%" valign="top" align="center"><strong>Web</strong><br/><sub>WordPress QA</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><strong>SEO</strong><br/><sub>Web Validation</sub></td>
+<td width="50%" valign="top" align="center"><strong>API</strong><br/><sub>Postman Testing</sub></td>
 </tr>
 </table>
 
 
 ## SELECTED QA WORK
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment%2Ckalpshahtester%2FAPI-Testing-Postman-Project&v=qa-recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment%2Ckalpshahtester%2FAPI-Testing-Postman-Project&v=qa-recruiter-projects-1&mode=dark" width="100%" alt="Kalp Shah selected QA projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment%2Ckalpshahtester%2FAPI-Testing-Postman-Project&v=qa-recruiter-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment%2Ckalpshahtester%2FAPI-Testing-Postman-Project&v=qa-recruiter-projects-2&mode=dark" width="100%" alt="Kalp Shah selected QA projects" />
 </picture>
 
-</td>
-<td width="42%" valign="top">
+### 🛒 SauceDemo
+<strong>Manual e-commerce testing</strong> · Functional · UI · Regression · Negative Testing
 
-<h3>🛒 SauceDemo</h3>
-<p><strong>Manual e-commerce testing</strong></p>
-<p><sub>Functional · UI · Regression · Negative Testing</sub></p>
-<p>62+ test cases, bug reports, RTM, regression/retesting and test summary.</p>
-<p><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website">View project →</a></p>
+47 test scenarios · 62+ test cases · 282 execution results · RTM · bug reports · 6 demo users.
 
-<h3>✈️ MakeMyTrip</h3>
-<p><strong>Travel website testing assessment</strong></p>
-<p><sub>Functional · UI · Validation · Negative Testing</sub></p>
-<p>Authentication, flight/hotel journeys, forms, positive/negative scenarios and responsive validation.</p>
-<p><a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">View project →</a></p>
+<a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website">View project →</a>
 
-<h3>🔌 Postman API</h3>
-<p><strong>API validation</strong></p>
-<p><sub>Requests · Responses · Status Codes · Positive/Negative</sub></p>
-<p>Structured API requests, response validation and execution evidence.</p>
-<p><a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">View project →</a></p>
+### ✈️ MakeMyTrip
+<strong>Travel website testing assessment</strong> · Functional · UI · Validation · Negative Testing
 
-</td>
-</tr>
-</table>
+Login, registration, hotel booking, flight booking, and negative validation.
+
+<a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">View project →</a>
+
+### 🔌 Postman API
+<strong>API validation</strong> · Requests · Responses · Status Codes · Positive/Negative
+
+Registration, login, admin token authentication, category creation, retrieval, and deletion.
+
+<a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">View project →</a>
 
 ## 🔄 QA PIPELINE
 
@@ -134,10 +119,12 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>Planning</strong><br/><sub>HLR · Test Plan · RTM</sub></td>
-<td width="25%" align="center"><strong>Execution</strong><br/><sub>Scenarios · Test Cases · Checklists</sub></td>
-<td width="25%" align="center"><strong>Defects</strong><br/><sub>Bugs · Severity · Priority · Evidence</sub></td>
-<td width="25%" align="center"><strong>Validation</strong><br/><sub>Retest · Regression · Verification</sub></td>
+<td width="50%" valign="top" align="center"><strong>Planning</strong><br/><sub>HLR · Test Plan · RTM</sub></td>
+<td width="50%" valign="top" align="center"><strong>Execution</strong><br/><sub>Scenarios · Test Cases · Checklists</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><strong>Defects</strong><br/><sub>Bugs · Severity · Priority · Evidence</sub></td>
+<td width="50%" valign="top" align="center"><strong>Validation</strong><br/><sub>Retest · Regression · Verification</sub></td>
 </tr>
 </table>
 
@@ -168,10 +155,12 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>QA</strong><br/><sub>Manual Testing · TestNG · Selenium · Playwright</sub></td>
-<td width="25%" align="center"><strong>API</strong><br/><sub>Postman · REST API Validation</sub></td>
-<td width="25%" align="center"><strong>Web</strong><br/><sub>WordPress · DevTools · Lighthouse</sub></td>
-<td width="25%" align="center"><strong>Collaboration</strong><br/><sub>ClickUp · Slack · Sheets · GitHub</sub></td>
+<td width="50%" valign="top" align="center"><strong>QA</strong><br/><sub>Manual Testing · TestNG · Selenium · Playwright</sub></td>
+<td width="50%" valign="top" align="center"><strong>API</strong><br/><sub>Postman · REST API Validation</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><strong>Web</strong><br/><sub>WordPress · DevTools · Lighthouse</sub></td>
+<td width="50%" valign="top" align="center"><strong>Collaboration</strong><br/><sub>ClickUp · Slack · Sheets · GitHub</sub></td>
 </tr>
 </table>
 
