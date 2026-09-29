@@ -78,44 +78,79 @@ Verification
 
 ## 🚀 FEATURED QA PROJECTS
 
-### 🛒 SauceDemo — Manual Testing
+> Selected QA projects demonstrating manual testing, functional validation, API testing, defect reporting, and evidence-driven QA.
 
-**Manual e-commerce web QA project**
+### 🛒 SauceDemo — Manual E-Commerce Testing
 
-- Test Scenarios
-- Test Cases
-- Bug Reports
-- RTM
-- Regression Testing
-- Test Summary
+**End-to-end manual testing of an e-commerce application**
+
+`Functional` · `UI` · `Regression` · `Negative Testing`
+
+**QA Deliverables**
+- 📋 Test Plan & Test Scenarios
+- 🧪 62+ Test Cases
+- 🐞 Bug Reports
+- 🔗 Requirements Traceability Matrix
+- 🔄 Regression & Retesting
+- 📊 Test Summary
+
+**QA Evidence:** Test execution → Defect reproduction → Bug documentation → Retest → Verification
 
 **[→ View Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
 
+---
+
 ### ✈️ MakeMyTrip — Testing Assessment
 
-**End-to-end travel website testing**
+**Travel website testing covering critical user journeys**
 
-- Registration & authentication
-- Flight and hotel flows
-- Positive / negative scenarios
-- UI and functional validation
+`Functional` · `UI` · `Validation` · `Negative Testing`
+
+**Tested Areas**
+- 🔐 Registration & authentication
+- ✈️ Flight search and booking flows
+- 🏨 Hotel-related workflows
+- 📝 Form and input validation
+- ❌ Positive / negative scenarios
+- 📱 UI and responsive behavior
+
+**QA Evidence:** User journey validation → Scenario execution → Defect identification → Documentation
 
 **[→ View Project](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
 
+---
+
 ### 🔌 API Testing — Postman
 
-**API testing and validation project**
+**API validation using structured requests and response analysis**
 
-- Request / response validation
-- Status-code verification
-- API scenarios
-- Test execution and defect identification
+`API Testing` · `Postman` · `Validation`
+
+**Testing Areas**
+- 📡 Request / response validation
+- 🔢 HTTP status-code verification
+- 📦 Response data validation
+- 🧪 Positive / negative API scenarios
+- 🐞 Defect identification
+- 📊 Test execution evidence
 
 **[→ View Project](https://github.com/kalpshahtester/API-Testing-Postman-Project)**
 
-### 🌐 QA Portfolio
+---
 
-**Professional QA portfolio, documentation and testing work.**
+### 🌐 QA Portfolio — Web Testing & Documentation
+
+**Professional QA portfolio demonstrating testing methodology, evidence, and QA documentation**
+
+`Web QA` · `WordPress QA` · `SEO QA` · `Responsive Testing`
+
+**Includes**
+- 🔍 Web & functional testing
+- 📱 Responsive testing
+- 🔎 SEO validation
+- 🐞 Defect reporting
+- 📋 QA documentation
+- 🧪 Testing tools & workflows
 
 **[→ Open Portfolio](https://kalpshahtester.github.io/)** · **[→ Repository](https://github.com/kalpshahtester/kalpshahtester.github.io)**
 
