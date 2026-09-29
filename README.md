@@ -14,78 +14,42 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 QA Snapshot
+
+<table><tr><td align="center" width="25%"><b>🎯 Role</b><br/>Manual Tester</td><td align="center" width="25%"><b>🌐 Focus</b><br/>Web Application QA</td><td align="center" width="25%"><b>🐛 Defects</b><br/>Report → Retest → Verify</td><td align="center" width="25%"><b>🔎 Specialty</b><br/>WordPress + SEO QA</td></tr></table>
 
 > 🧪 **Manual QA mindset:** Find it. Reproduce it. Document it. Retest it. Verify it.
 
-I am a **Manual Tester** focused on web application quality, defect detection, user journeys, responsive behavior, WordPress QA, and SEO validation.
-
-**PLAN → TEST → FIND → REPORT → RETEST → VERIFY**
-
----
-
-## 🎯 QA Snapshot
-
-<table>
-<tr>
-<td align="center" width="25%"><b>🎯 Role</b><br/>Manual Tester</td>
-<td align="center" width="25%"><b>🌐 Focus</b><br/>Web Application QA</td>
-<td align="center" width="25%"><b>🐛 Defects</b><br/>Report → Retest → Verify</td>
-<td align="center" width="25%"><b>🔎 Specialty</b><br/>WordPress + SEO QA</td>
-</tr>
-</table>
+I focus on web application quality, user journeys, responsive behavior, WordPress QA, SEO validation, and clear defect communication.
 
 ---
 
 ## 🧪 Core Manual Testing
 
-<table>
-<tr>
-<td align="center">✅<br/><b>Functional</b></td>
-<td align="center">🎨<br/><b>UI Testing</b></td>
-<td align="center">🔄<br/><b>Regression</b></td>
-<td align="center">💨<br/><b>Smoke</b></td>
-</tr>
-<tr>
-<td align="center">🧭<br/><b>Exploratory</b></td>
-<td align="center">📱<br/><b>Responsive</b></td>
-<td align="center">🌐<br/><b>Cross-Browser</b></td>
-<td align="center">♿<br/><b>Sanity</b></td>
-</tr>
-<tr>
-<td align="center">📝<br/><b>Defect Reporting</b></td>
-<td align="center">🔁<br/><b>Retesting</b></td>
-<td align="center">🔎<br/><b>SEO QA</b></td>
-<td align="center">🧩<br/><b>WordPress QA</b></td>
-</tr>
-</table>
+<table><tr><td align="center">✅<br/><b>Functional</b></td><td align="center">🎨<br/><b>UI Testing</b></td><td align="center">🔄<br/><b>Regression</b></td><td align="center">💨<br/><b>Smoke</b></td></tr><tr><td align="center">🧭<br/><b>Exploratory</b></td><td align="center">📱<br/><b>Responsive</b></td><td align="center">🌐<br/><b>Cross-Browser</b></td><td align="center">♿<br/><b>Sanity</b></td></tr><tr><td align="center">📝<br/><b>Defect Reporting</b></td><td align="center">🔁<br/><b>Retesting</b></td><td align="center">🔎<br/><b>SEO QA</b></td><td align="center">🧩<br/><b>WordPress QA</b></td></tr></table>
 
 ---
 
-## ⭐ Featured QA Work
+## ⭐ Featured QA Projects
 
 ### 🧪 SauceDemo — Manual Testing
 
 **Manual web QA project**
 
-✓ Test Scenarios  
-✓ Test Cases  
-✓ Bug Reports  
+✓ Test Scenarios · Test Cases · Bug Reports  
 ✓ Requirements Traceability Matrix (RTM)  
-✓ Regression Testing  
-✓ Test Summary  
+✓ Regression Testing · Test Summary
 
 **[→ View SauceDemo Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
 
 ### ✈️ MakeMyTrip — Manual Testing Assessment
 
-**Realistic end-to-end testing assessment**
+**End-to-end testing assessment**
 
 ✓ Registration & Authentication  
 ✓ Flight & Hotel flows  
 ✓ Positive / Negative scenarios  
-✓ UI validation  
-✓ Functional validation  
+✓ UI & Functional validation
 
 **[→ View MakeMyTrip Project](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
 
@@ -97,64 +61,38 @@ I am a **Manual Tester** focused on web application quality, defect detection, u
 
 ---
 
-## 🐛 Bug Hunter
+## 🐛 QA Pipeline
 
-```text
-FIND
- ↓
-REPRODUCE
- ↓
-CAPTURE EVIDENCE
- ↓
-DOCUMENT DEFECT
- ↓
-COMMUNICATE
- ↓
-DEVELOPER FIX
- ↓
-RETEST
- ↓
-REGRESSION
- ↓
-VERIFY
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline.gif" width="100%" alt="Animated QA pipeline: TEST, FIND, REPRODUCE, REPORT, FIX, RETEST, VERIFY"/>
+
+</div>
+
+**TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY**
 
 ### 📋 Defect Report Structure
 
-`Bug ID → Date → Module/Page → Summary → Steps → Expected → Actual → Severity → Priority → Status → Environment → Evidence → Retest Result`
+<code>Bug ID → Module/Page → Summary → Steps → Expected → Actual → Severity → Priority → Status → Environment → Evidence → Retest Result</code>
 
 ---
 
-## 🔍 What I Test
+## 📚 QA Evidence
 
-| Area | What I Validate |
-|---|---|
-| **Functional** | Business flows, positive/negative scenarios, expected behavior |
-| **UI** | Layout, forms, buttons, spacing, typography, consistency |
-| **Regression** | Fixed defects and affected existing functionality |
-| **Smoke** | Critical functionality after a new build/change |
-| **Sanity** | Focused validation of changed functionality |
-| **Exploratory** | Edge cases and unexpected user behavior |
-| **Responsive** | Mobile, tablet, laptop and desktop layouts |
-| **Cross-Browser** | Website behavior and presentation across browsers |
-| **WordPress** | Pages, forms, content, navigation and website behavior |
-| **SEO QA** | Metadata, headings, images, links, canonical and content |
-| **Defect Reporting** | Reproduction, evidence, severity, priority and status |
+<code>HLR</code> · <code>Test Plan</code> · <code>Test Scenarios</code> · <code>Test Cases</code> · <code>RTM</code> · <code>Bug Reports</code> · <code>QA Checklists</code> · <code>Test Evidence</code> · <code>Retesting Results</code> · <code>Regression Results</code> · <code>Test Summary</code>
+
+> **Evidence-driven QA:** structured test design → reproducible defects → documented evidence → verified fixes.
 
 ---
 
-## 📚 QA Documentation
-
-`HLR` · `Test Plan` · `Test Scenarios` · `Test Cases` · `RTM` · `Bug Reports` · `Retesting` · `Regression` · `Test Summary` · `QA Checklists` · `Test Evidence` · `Defect Tracking`
-
----
-
-## 🌐 Web + SEO QA
+## 🌐 Web & SEO QA
 
 ### Web QA
+
 Navigation · User journeys · Forms · Validation · Buttons · Links · Error messages · Content visibility · Responsive behavior · Browser compatibility · Broken links · Images / loading
 
 ### SEO QA
+
 Meta title · Meta description · URL / slug · Heading structure · Image alt text · Image format / size · Canonical tag · Robots meta tag · Open Graph · Internal / external links · Schema markup · Viewport · Language · Content formatting
 
 ---
@@ -175,49 +113,11 @@ Meta title · Meta description · URL / slug · Heading structure · Image alt t
 
 ---
 
-## 🧪 Manual QA Workflow
-
-```text
-REQUIREMENTS
-    ↓
-TEST SCENARIOS
-    ↓
-TEST CASES
-    ↓
-TEST EXECUTION
-    ↓
-PASS ───────────────→ CONTINUE
-    ↓
-FAIL
-    ↓
-REPRODUCE
-    ↓
-EVIDENCE
-    ↓
-BUG REPORT
-    ↓
-DEVELOPER FIX
-    ↓
-RETEST
-    ↓
-FAIL → REOPEN
-    ↓
-PASS
-    ↓
-REGRESSION
-    ↓
-VERIFIED
-    ↓
-CLOSED
-```
-
----
-
 ## 🎓 Background & QA Training
 
 **Information Technology Background → Manual Tester**
 
-`SDLC` · `STLC` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `QA Reporting`
+<code>SDLC</code> · <code>STLC</code> · <code>Test Design</code> · <code>Test Execution</code> · <code>Defect Life Cycle</code> · <code>RTM</code> · <code>QA Reporting</code>
 
 ---
 
@@ -230,7 +130,7 @@ CLOSED
 ✓ Retesting and regression discipline  
 ✓ QA documentation and evidence  
 ✓ Edge-case investigation  
-✓ Clear communication with developers and teams  
+✓ Clear communication with developers and teams
 
 ---
 
@@ -244,7 +144,7 @@ CLOSED
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
 <div align="center">
 
