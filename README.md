@@ -122,6 +122,12 @@ Meta title · Meta description · URL / slug · Heading structure · Image alt t
 | **WordPress** | Website and content QA |
 | **GitHub** | QA projects and documentation |
 
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stack?username=kalpshahtester&theme=github-dark&style=aura" width="860" alt="GitSkins technology stack based on Kalp Shah's GitHub repositories" />
+
+</div>
+
 ---
 
 ## 🎓 Background & QA Training
