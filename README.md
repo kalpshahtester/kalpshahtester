@@ -2,136 +2,165 @@
 
 # 💻 `kalp@github`
 
-> `whoami` → **Kalp Shah**
-> `role`   → **Junior Manual QA Tester**
-> `focus`  → **Web QA · Functional · UI · Regression · API · Selenium**
-> `status` → **● Ready to test**
+### Junior Manual QA Tester · Web QA · Bug Hunter
 
 <p>
-<a href="https://github.com/kalpshahtester"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/kalpshahtester"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/QA_MODE-ACTIVE-2ea44f?style=for-the-badge" alt="QA mode active"/>
+  <img src="https://img.shields.io/badge/FOCUS-WEB_%7C_FUNCTIONAL_%7C_UI-58A6FF?style=for-the-badge" alt="QA focus"/>
+  <img src="https://img.shields.io/badge/API-POSTMAN-F59E0B?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/AUTOMATION-SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
 
 </div>
 
 ---
 
-## ⌨️ QA Terminal
+## 🎯 QA Identity
+
+> **I test software from the user's point of view, investigate defects from the evidence, and verify fixes before they reach the next stage.**
+
+Junior Manual QA Tester focused on:
+
+`Functional Testing` · `UI Testing` · `Regression` · `Smoke` · `Sanity` · `Exploratory` · `Web QA` · `API Testing`
+
+My workflow is simple:
+
+**Understand → Design → Execute → Report → Retest → Regression → Validate**
+
+---
+
+## ⌨️ Typing Effect
+
+<div align="center">
+
+<a href="https://github.com/kalpshahtester">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Junior+Manual+QA+Tester;Finding+defects+before+users+do;Functional+%7C+UI+%7C+Regression+%7C+Web+QA;API+Testing+with+Postman;Selenium+WebDriver+Automation+Practice;Test.+Investigate.+Verify.+Repeat."
+  alt="Typing animation"
+ />
+</a>
+
+</div>
+
+---
+
+## 🧪 QA Command Center
+
+<div align="center">
+
+| QA AREA | FOCUS |
+|---|---|
+| 🧪 Functional | Positive · Negative · Validation · Business Flow |
+| 🎨 UI | Layout · Content · Forms · Visual Consistency |
+| 🔄 Regression | Retest · Impact Analysis · Regression Checks |
+| 🌐 Web | Navigation · Links · Responsive · Cross-Browser |
+| 📮 API | Requests · Responses · Status · Payload Validation |
+| 🔎 SEO | Metadata · Headings · Links · Images · Content |
+
+</div>
+
+### QA Execution Loop
 
 ```text
-$ ./qa-profile.sh
-
-[✓] Loading Kalp Shah...
-[✓] Role: Junior Manual QA Tester
-[✓] Web QA
-[✓] Functional Testing
-[✓] UI Testing
-[✓] Regression Testing
-[✓] API Testing
-[✓] Selenium WebDriver
-
-> QA profile initialized successfully.
+┌───────────────────────────────────────────────────────────────┐
+│                       QA EXECUTION LOOP                       │
+│                                                               │
+│  Requirements → Test Design → Test Execution → Evidence      │
+│        ↑                                      ↓               │
+│        └── Regression ← Retest ← Defect Report ←─┘           │
+│                                                               │
+│                    ✓ VERIFIED → RELEASE                       │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 ---
+
+## 🛠️ QA Arsenal
+
+### 🧪 Manual QA
+<img src="https://img.shields.io/badge/Functional-2ea44f?style=flat-square" alt="Functional"/> <img src="https://img.shields.io/badge/UI-2ea44f?style=flat-square" alt="UI"/> <img src="https://img.shields.io/badge/Smoke-2ea44f?style=flat-square" alt="Smoke"/> <img src="https://img.shields.io/badge/Sanity-2ea44f?style=flat-square" alt="Sanity"/> <img src="https://img.shields.io/badge/Regression-2ea44f?style=flat-square" alt="Regression"/> <img src="https://img.shields.io/badge/Exploratory-2ea44f?style=flat-square" alt="Exploratory"/>
+
+### 🌐 Web & Browser QA
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/> <img src="https://img.shields.io/badge/Responsive_QA-58A6FF?style=flat-square" alt="Responsive QA"/> <img src="https://img.shields.io/badge/SEO_QA-58A6FF?style=flat-square" alt="SEO QA"/> <img src="https://img.shields.io/badge/Forms_%26_Links-58A6FF?style=flat-square" alt="Forms and links"/>
+
+### 📮 API Testing
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square" alt="REST API"/> <img src="https://img.shields.io/badge/Request_%2F_Response-FF6C37?style=flat-square" alt="Request response validation"/>
+
+### 🤖 Automation
+<img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium WebDriver"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square" alt="TestNG"/>
+
+### 📊 Documentation & Collaboration
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+
 ---
 
-## 🎯 QA Profile
-
-**Junior Manual QA Tester** focused on **functional testing, UI validation, regression testing, defect reporting, and QA documentation**.
-
-I follow a structured approach: **requirements → test design → execution → defect reporting → retesting → regression → validation**.
-
-> 🧪 **Quality mindset:** Find defects early, document them clearly, verify fixes, and protect the user experience.
-
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><img src="https://img.shields.io/badge/📄_Download_Resume-21262D?style=for-the-badge" alt="Download Resume"/></a>
-
----
-
-## 🧪 QA Testing Command Center
+## 🤖 Automation Lab
 
 <div align="center">
 
-🟢 **Functional Testing** · 🟢 **UI Testing** · 🟢 **Regression Testing**
-
-🟢 **Bug Reporting** · 🟢 **Web QA**
-
-**Requirements** → **Test** → **Report** → **Retest** → **Verify** → **Release** 🚀
-
-</div>
-
----
-
-## 🔄 QA Testing Workflow
-
-<div align="center">
-
-📝 **Requirements** → 🧪 **Test Cases** → 🐞 **Bug Report**
-
-↓  
-
-🔄 **Retest** → ✅ **Verified** → 🚀 **Closed**
-
-<sub>Understand → Design → Report → Validate → Confirm</sub>
-
-</div>
-
----
-
-## 🔎 Core QA Skills
-
-**🧪 Functional Testing**  
-Functional · UI · Smoke · Sanity · Regression
-
-**🔍 Test Techniques**  
-Negative · Exploratory · Boundary · Validation
-
-**📝 Test Documentation**  
-HLR · Test Scenarios · Test Cases · RTM · Test Summary Reports
-
-**🐞 Defect Management**  
-Bug Reporting · Severity · Priority · Defect Life Cycle · Retesting
-
-**🌐 Web QA**  
-Forms · Navigation · Links · Responsive UI · Cross-Browser Checks
-
-**🔎 SEO QA**  
-Meta Title · Meta Description · Slugs · Headings · Alt Text · Images · Links
-
----
-
-## 🐞 Defect Lifecycle
-
-<div align="center">
-
-🐞 **Detected** → 📝 **Reported** → 👨‍💻 **Assigned** → 🔧 **Fixed**
-
-↓
-
-🧪 **Retested** → ✅ **Verified** → 🚀 **Closed**
+```text
+             🧪 TEST DESIGN
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+   🤖 Selenium            📮 Postman
+   Web UI Flow            API Flow
+          │                   │
+          ▼                   ▼
+     UI Actions          API Requests
+          │                   │
+          ▼                   ▼
+     Assertions          Validation
+          └─────────┬─────────┘
+                    ▼
+              ✅ TEST RESULT
+                    │
+                    ▼
+              📊 QA EVIDENCE
+```
 
 </div>
 
----
+### 🤖 Selenium WebDriver
 
-## ⭐ Featured QA Projects
+```text
+$ ./selenium-test.sh
 
-### 🧪 SauceDemo — Manual Testing
+[01] Launch browser
+[02] Locate web elements
+[03] Perform UI actions
+[04] Validate expected result
+[05] Capture test result
+[✓] UI automation flow complete
+```
 
-End-to-end manual testing covering test planning, scenarios, test cases, execution, defects, RTM, and test summary.
+<a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
+<img src="https://img.shields.io/badge/VIEW_SELENIUM_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Selenium repository"/>
+</a>
 
-**Coverage:** Functional Testing · UI Testing · Negative Testing · Regression · Defect Reporting
+### 📮 Postman API Testing
 
-🔗 **[View SauceDemo Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)**
+```text
+$ ./api-test.sh
 
-### ✈️ MakeMyTrip — Testing Assessment
+[01] Send API request
+[02] Validate response
+[03] Check status / payload
+[04] Run API assertions
+[05] Record test result
+[✓] API validation flow complete
+```
 
-Manual testing covering authentication, registration, flight and hotel booking flows, negative scenarios, and UI validation.
-
-**Coverage:** Functional Testing · Negative Testing · UI Validation · Booking Flow Testing
-
-🔗 **[View MakeMyTrip Project](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)**
+<a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
+<img src="https://img.shields.io/badge/VIEW_POSTMAN_REPOSITORY-181717?style=for-the-badge&logo=postman&logoColor=white" alt="View Postman repository"/>
+</a>
 
 ---
 
@@ -144,12 +173,12 @@ Manual testing covering authentication, registration, flight and hotel booking f
 <td width="50%" valign="top">
 
 ### 🧪 SauceDemo
-**Manual Testing Project**
+**Manual Testing**
 
-End-to-end e-commerce QA covering test cases, defect reporting, RTM, regression, and test summary.
+E-commerce QA covering test design, execution, defects, RTM, regression, and test summary.
 
 <a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View SauceDemo project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View SauceDemo project"/>
 </a>
 
 </td>
@@ -158,10 +187,10 @@ End-to-end e-commerce QA covering test cases, defect reporting, RTM, regression,
 ### ✈️ MakeMyTrip
 **Testing Assessment**
 
-Functional, negative, UI, authentication, registration, flight, and hotel booking-flow testing.
+Authentication, registration, flight and hotel booking flows, negative scenarios, and UI validation.
 
 <a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View MakeMyTrip project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View MakeMyTrip project"/>
 </a>
 
 </td>
@@ -170,13 +199,13 @@ Functional, negative, UI, authentication, registration, flight, and hotel bookin
 <tr>
 <td width="50%" valign="top">
 
-### 📮 Postman API Testing
-**API Testing Project**
+### 📮 Postman API
+**API Testing**
 
-API testing work using Postman, with request/response validation and API-focused test coverage.
+Request/response validation and API-focused testing using Postman.
 
 <a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Postman API project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Postman project"/>
 </a>
 
 </td>
@@ -185,10 +214,10 @@ API testing work using Postman, with request/response validation and API-focused
 ### 🤖 Selenium WebDriver
 **Automation Practice**
 
-Selenium WebDriver training and automation work from the dedicated Selenium repository.
+Selenium WebDriver training and browser automation work.
 
 <a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
-<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Selenium WebDriver project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Selenium project"/>
 </a>
 
 </td>
@@ -198,16 +227,15 @@ Selenium WebDriver training and automation work from the dedicated Selenium repo
 <td colspan="2" valign="top">
 
 ### 🌐 QA Portfolio
-**Personal Portfolio Website**
 
-My QA-focused portfolio and professional web presence.
+QA-focused portfolio website and professional web presence.
 
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io">
-<img src="https://img.shields.io/badge/View_Portfolio_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View portfolio repository"/>
+<a href="https://kalpshahtester.github.io/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_PORTFOLIO-58A6FF?style=for-the-badge" alt="Open live portfolio"/>
 </a>
 &nbsp;
-<a href="https://kalpshahtester.github.io/">
-<img src="https://img.shields.io/badge/Live_Portfolio-58A6FF?style=for-the-badge" alt="Open live portfolio"/>
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO_REPO-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View portfolio repository"/>
 </a>
 
 </td>
@@ -218,116 +246,59 @@ My QA-focused portfolio and professional web presence.
 
 ---
 
-## 🛠️ QA Tools
-
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-</p>
-
-</div>
-
----
-
-## 🤖 Automation Lab
-
-<div align="center">
+## 🐛 Bug Hunter Workflow
 
 ```text
-┌────────────────────── QA AUTOMATION PIPELINE ──────────────────────┐
-│                                                                    │
-│  🧪 Test Design                                                     │
-│       │                                                            │
-│       ├───────────────┐                                            │
-│       ▼               ▼                                            │
-│  🤖 Selenium      📮 Postman                                       │
-│  WebDriver        API Testing                                     │
-│       │               │                                            │
-│       ▼               ▼                                            │
-│  🌐 UI Actions    🔗 API Requests                                 │
-│       │               │                                            │
-│       ▼               ▼                                            │
-│  🔍 Assertions    🔍 Response Validation                          │
-│       │               │                                            │
-│       └───────────────┬────────────────────────────────────────────┘
-│                       ▼
-│                 ✅ Test Result
-│                       │
-│                       ▼
-│                 📊 QA Evidence
-└────────────────────────────────────────────────────────────────────┘
+📝 Requirement
+      │
+      ▼
+🧪 Test Scenario
+      │
+      ▼
+▶️ Execute
+      │
+      ├── PASS ───────────────► Continue
+      │
+      └── FAIL
+          │
+          ▼
+      🐞 Reproduce
+          │
+          ▼
+      📸 Capture Evidence
+          │
+          ▼
+      📋 Report Defect
+          │
+          ▼
+      👨‍💻 Developer Fix
+          │
+          ▼
+      🔄 Retest
+          │
+          ├── FAIL ───────────► Reopen
+          │
+          └── PASS
+              │
+              ▼
+          🔁 Regression
+              │
+              ▼
+          ✅ Verify & Close
 ```
 
-</div>
-
-### 🤖 Selenium WebDriver
-
-```text
-$ ./selenium-test.sh
-
-[1] Launch browser
-[2] Locate web elements
-[3] Perform UI actions
-[4] Validate expected result
-[5] Capture test result
-[✓] Web automation flow complete
-```
-
-<a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
-<img src="https://img.shields.io/badge/VIEW_SELENIUM_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Selenium WebDriver repository"/>
-</a>
-
-### 📮 Postman API Testing
-
-```text
-$ ./api-test.sh
-
-[1] Send API request
-[2] Validate response
-[3] Check status / payload
-[4] Run API assertions
-[5] Record test result
-[✓] API validation flow complete
-```
-
-<a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
-<img src="https://img.shields.io/badge/VIEW_POSTMAN_API_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Postman API Testing repository"/>
-</a>
-
-> **Automation focus:** browser workflow validation with Selenium WebDriver and API request/response validation with Postman.
-
----
-
-## 🐞 Defect Reporting Approach
-
-**Clear · Reproducible · Actionable · Evidence-Based · Prioritized · Traceable**
+### Defect Report Formula
 
 **Bug ID → Module/Page → Steps → Expected → Actual → Severity/Priority → Environment → Evidence → Retest**
 
----
-
-## 🌐 Web & SEO QA
-
-- **Metadata:** Meta title and meta description
-- **URLs:** Slugs, navigation and redirects
-- **Headings:** H1–H6 hierarchy
-- **Images:** Format, size, loading and alt text
-- **Links:** Internal and external links
-- **Responsive UI:** Desktop, tablet and mobile validation
-- **Forms:** Input validation, required fields and error messages
-- **Content:** Visibility, formatting and consistency
+**Clear · Reproducible · Actionable · Evidence-Based · Prioritized · Traceable**
 
 ---
 
-## 📋 QA Documentation
+## 📋 QA Deliverables
+
+<details>
+<summary><strong>View QA documentation covered</strong></summary>
 
 - 📌 High-Level Requirements (HLR)
 - 📌 Test Plan
@@ -335,56 +306,55 @@ $ ./api-test.sh
 - 📌 Test Cases
 - 📌 Requirements Traceability Matrix (RTM)
 - 📌 Bug Reports
-- 📌 Retesting & Regression Results
+- 📌 Retesting Results
+- 📌 Regression Results
 - 📌 Test Summary Reports
 
----
-
-## 💼 Professional Background
-
-### Computer Engineer → Manual QA Tester
-
-My previous IT experience strengthened my troubleshooting, investigation, communication, and documentation skills.
-
-I now apply those skills to **software quality assurance and web application testing**.
+</details>
 
 ---
 
-## 🎓 Training
-
-**Manual Testing — TOPS Technologies**
-
-Hands-on training in:
-
-**SDLC · STLC · Test Design · Test Execution · Defect Life Cycle · RTM · QA Reporting**
-
----
-
-## 📊 Real GitHub Activity
+## 🌐 Web & SEO QA
 
 <div align="center">
 
-<a href="https://github.com/kalpshahtester">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true"
-  alt="Kalp Shah GitHub activity statistics"
-/>
-</a>
-
-<a href="https://github.com/kalpshahtester">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpshahtester&layout=compact&theme=github_dark&hide_border=true"
-  alt="Kalp Shah GitHub language statistics"
-/>
-</a>
-
-<p><sub>These cards read public GitHub profile/repository data dynamically; no manually entered activity numbers are used.</sub></p>
+| AREA | VALIDATION |
+|---|---|
+| 🌐 Navigation | Menus · Links · Redirects · User Flow |
+| 📱 Responsive | Mobile · Tablet · Desktop |
+| 📝 Forms | Required fields · Validation · Error messages |
+| 🖼️ Images | Format · Size · Loading · Alt text |
+| 🔎 SEO | Meta · Headings · Slugs · Canonical · Links |
+| 📄 Content | Visibility · Formatting · Consistency |
 
 </div>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 📊 Real GitHub Data
+
+<div align="center">
+
+<a href="https://github.com/kalpshahtester">
+<img src="https://img.shields.io/github/followers/kalpshahtester?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/kalpshahtester?tab=repositories">
+<img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-LIVE_DATA-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/>
+</a>
+<a href="https://github.com/kalpshahtester">
+<img src="https://img.shields.io/github/stars/kalpshahtester?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORY_STARS" alt="Repository stars"/>
+</a>
+<a href="https://github.com/kalpshahtester">
+<img src="https://img.shields.io/github/last-commit/kalpshahtester/kalpshahtester?style=for-the-badge&logo=github&logoColor=white&label=PROFILE_REPO_LAST_COMMIT" alt="Profile repository last commit"/>
+</a>
+
+<p><sub>Live badges use GitHub repository/profile data; no manually invented activity numbers are displayed.</sub></p>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -399,26 +369,44 @@ Hands-on training in:
   />
   <img
     src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    alt="GitHub contribution snake"
     width="100%"
   />
 </picture>
 
-<p><sub>Animated contribution activity generated automatically with GitHub Actions.</sub></p>
+<sub>Generated automatically with GitHub Actions.</sub>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Background & Training
+
+**IT Background → Manual QA Tester**
+
+Hands-on manual testing training covering:
+
+**SDLC · STLC · Test Design · Test Execution · Defect Life Cycle · RTM · QA Reporting**
+
+---
+
+## 📫 Contact
 
 <div align="center">
 
-**Open to Junior QA / Manual QA opportunities**
+### Open to Junior QA / Manual QA opportunities
 
-<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://kalpshahtester.github.io/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-58A6FF?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:manualtesterkalpshah@gmail.com">
+<img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
 
 ### 🧪 Test smarter. Find defects earlier. Ship with confidence.
 
