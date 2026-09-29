@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,70:21262D,100:58A6FF&height=175&section=header&text=KALP%20SHAH&fontSize=50&fontColor=58A6FF&fontAlignY=40&desc=MANUAL%20TESTER%20%7C%20WEB%20QA%20%7C%20SOFTWARE%20QUALITY&descAlignY=64&descSize=16&animation=fadeIn" width="100%" alt="Animated Manual Tester profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,70:21262D,100:58A6FF&height=175&section=header&text=KALP%20SHAH&fontSize=50&fontColor=58A6FF&fontAlignY=40&desc=MANUAL%20TESTER%20%7C%20WEB%20QA&descAlignY=64&descSize=16&animation=fadeIn" width="100%" alt="Animated Manual Tester hero"/>
+
+### 🧪 Manual Tester • Web QA • Software Quality
 
 </div>
 
@@ -8,6 +10,8 @@
 
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 ## 🎯 My Current Focus
 
@@ -28,6 +32,8 @@
 
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 ## 🧪 Manual QA Workflow
 
@@ -65,6 +71,8 @@ Continue  Reproduce
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 ## 🔍 What I Test
 
 | Testing Area | Validation |
@@ -83,6 +91,8 @@ Continue  Reproduce
 
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 ## 🐛 Bug Hunter Workflow
 
@@ -115,6 +125,8 @@ VERIFY
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 ## 📚 QA Documentation
 
 - High-Level Requirements (HLR)
@@ -132,6 +144,8 @@ VERIFY
 
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 ## ⭐ Featured Manual Testing Projects
 
@@ -156,6 +170,8 @@ My portfolio contains additional QA work, documentation and professional informa
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 ## 🧰 QA Tools & Workflow
 
 | Tool | Usage |
@@ -172,6 +188,8 @@ My portfolio contains additional QA work, documentation and professional informa
 
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 ## 🌐 Web & SEO QA Checklist
 
@@ -204,6 +222,8 @@ My portfolio contains additional QA work, documentation and professional informa
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 ## 📊 GitHub Activity
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-kalpshahtester-181717?logo=github)](https://github.com/kalpshahtester)
@@ -213,12 +233,16 @@ My portfolio contains additional QA work, documentation and professional informa
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 ## 🐍 Contribution Activity
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg)
 
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 ## 🎓 Background & QA Training
 
@@ -230,6 +254,8 @@ Core QA training:
 
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 ## 📈 What I Bring
 
@@ -244,6 +270,8 @@ Core QA training:
 
 <div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
 ## 📫 Connect With Me
 
