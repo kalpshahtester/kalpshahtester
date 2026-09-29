@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-hero.svg" width="100%" style="max-width: 900px; height: auto;" alt="Animated QA engineering workflow: Test, Find, Report, Retest, Verify" />
+<img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-hero.svg" width="100%" alt="Animated QA engineering workflow: Test, Find, Report, Retest, Verify" />
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&style=aura" width="860" alt="GitSkins GitHub profile statistics for Kalp Shah" />
+<img src="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&style=aura" width="100%" alt="GitSkins GitHub profile statistics for Kalp Shah" />
 
 </div>
 
@@ -177,7 +177,7 @@ Verification
 
 <picture>
   <source media="(max-width: 720px)" srcset="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline-mobile.svg">
-  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline.gif" width="100%" style="max-width: 900px; height: auto;" alt="QA pipeline: TEST, FIND, REPRODUCE, REPORT, FIX, RETEST, VERIFY">
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline.gif" width="100%" alt="QA pipeline: TEST, FIND, REPRODUCE, REPORT, FIX, RETEST, VERIFY">
 </picture>
 
 <sub>📱 Narrow screens use the static SVG; larger screens use the animated GIF.</sub>
@@ -251,7 +251,7 @@ Content → UI / Layout → Responsive → Links / Media → SEO → Performance
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/stack?username=kalpshahtester&theme=github-dark&style=aura" width="860" alt="GitSkins technology stack based on Kalp Shah's GitHub repositories" />
+<img src="https://www.gitskins.com/api/section/stack?username=kalpshahtester&theme=github-dark&style=aura" width="100%" alt="GitSkins technology stack based on Kalp Shah's GitHub repositories" />
 
 </div>
 
@@ -282,7 +282,7 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=kalpshahtester&theme=github-dark&style=aura" width="860" alt="GitSkins GitHub contribution activity heatmap for Kalp Shah" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=kalpshahtester&theme=github-dark&style=aura" width="100%" alt="GitSkins GitHub contribution activity heatmap for Kalp Shah" />
 
 </div>
 
