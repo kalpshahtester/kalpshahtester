@@ -14,8 +14,9 @@
 <strong>Manual Testing</strong> ·
 <strong>Web QA</strong> ·
 <strong>WordPress QA</strong> ·
+<strong>Responsive Testing</strong> ·
 <strong>SEO QA</strong> ·
-<strong>API Testing</strong>
+<strong>Regression Testing</strong>
 </p>
 
 <p>
@@ -46,14 +47,16 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role Fit</h3><p>Manual QA Engineer<br/>Web QA<br/>WordPress QA</p></td>
-<td width="33%" valign="top"><h3>Testing Scope</h3><p>Functional · UI/UX<br/>Responsive · Regression<br/>SEO · API</p></td>
-<td width="33%" valign="top"><h3>QA Evidence</h3><p>Test Cases<br/>Bug Reports · RTM<br/>Retesting · Test Summary</p></td>
+<td width="50%" valign="top"><h3>Role Fit</h3><p>Manual QA Engineer<br/>Web QA<br/>WordPress QA</p></td>
+<td width="50%" valign="top"><h3>Testing Scope</h3><p>Functional · UI/UX<br/>Responsive · Regression<br/>SEO · Cross-Browser</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>QA Evidence</h3><p>Test Cases<br/>Bug Reports · RTM<br/>Retesting · Test Summary</p></td>
+<td width="50%" valign="top"><h3>QA Workflow</h3><p>Understand → Test → Reproduce<br/>Document → Communicate → Retest → Verify</p></td>
 </tr>
 </table>
 
-<p><sub>Understand → Test → Reproduce → Document → Communicate → Retest → Verify</sub></p>
-
+ 
 ## QA PROOF AT A GLANCE
 
 <table width="100%">
@@ -71,7 +74,7 @@
 ## SELECTED QA WORK
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment%2Ckalpshahtester%2FAPI-Testing-Postman-Project&v=qa-recruiter-projects-2&mode=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment&v=qa-recruiter-projects-2&mode=light" />
   <img src="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment%2Ckalpshahtester%2FAPI-Testing-Postman-Project&v=qa-recruiter-projects-2&mode=dark" width="100%" alt="Kalp Shah selected QA projects" />
 </picture>
 
@@ -89,12 +92,6 @@ Login, registration, hotel booking, flight booking, and negative validation.
 
 <a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">View project →</a>
 
-### 🔌 Postman API
-<strong>API validation</strong> · Requests · Responses · Status Codes · Positive/Negative
-
-Registration, login, admin token authentication, category creation, retrieval, and deletion.
-
-<a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">View project →</a>
 
 ## 🔄 QA PIPELINE
 
@@ -169,8 +166,8 @@ Registration, login, admin token authentication, category creation, retrieval, a
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center"><strong>QA</strong><br/><sub>Manual Testing · TestNG · Selenium · Playwright</sub></td>
-<td width="50%" valign="top" align="center"><strong>API</strong><br/><sub>Postman · REST API Validation</sub></td>
+<td width="50%" valign="top" align="center"><strong>QA</strong><br/><sub>Manual · Functional · UI · Regression Testing</sub></td>
+<td width="50%" valign="top" align="center"><strong>Responsive</strong><br/><sub>Mobile · Tablet · Desktop Viewports</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center"><strong>Web</strong><br/><sub>WordPress · DevTools · Lighthouse</sub></td>
@@ -185,7 +182,7 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 
 **Software Testing Training**
 
-`SDLC` · `STLC` · `Test Planning` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `Regression` · `QA Reporting` · `Selenium` · `API Testing`
+`SDLC` · `STLC` · `Test Planning` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `Regression` · `QA Reporting`
 
 ## 📊 GITHUB STATS
 
