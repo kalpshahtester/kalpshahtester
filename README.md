@@ -244,3 +244,12 @@ Core QA training:
 ---
 
 _Manual Testing • Quality Assurance • Web QA • Defect Detection • Continuous Learning_
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=90&section=footer&animation=fadeIn" width="100%" alt="Subtle animated blue footer for Manual Tester profile"/>
+
+</div>
