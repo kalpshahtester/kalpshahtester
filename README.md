@@ -175,6 +175,25 @@ Login, registration, hotel booking, flight booking, and negative validation.
 </tr>
 </table>
 
+## 💼 PROFESSIONAL QA EXPERIENCE
+
+### Manual QA Engineer
+
+Hands-on web and WordPress testing focused on **functional quality, UI consistency, responsive behavior, SEO validation, and defect verification**.
+
+**Core QA Work**
+
+- Test web and WordPress pages, workflows, forms, links, and UI components.
+- Validate responsive behavior across mobile, tablet, laptop, and desktop.
+- Identify, reproduce, document, and track defects with clear evidence.
+- Perform regression testing and retesting after fixes.
+- Maintain test cases, bug reports, RTM, execution results, and test summaries.
+- Collaborate with developers through structured QA workflows.
+
+**QA Workflow**
+
+`Test → Reproduce → Report → Fix → Retest → Verify`
+
 ## 🎓 BACKGROUND + QA TRAINING
 
 **Diploma in Information Technology — 3 Years**  
