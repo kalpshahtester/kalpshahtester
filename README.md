@@ -119,14 +119,28 @@ Registration, login, admin token authentication, category creation, retrieval, a
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center"><strong>Planning</strong><br/><sub>HLR · Test Plan · RTM</sub></td>
-<td width="50%" valign="top" align="center"><strong>Execution</strong><br/><sub>Scenarios · Test Cases · Checklists</sub></td>
+<td width="50%" valign="top" align="center">
+<strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases">Test Cases</a></strong><br/>
+<sub>62+ functional · UI · regression · negative cases</sub>
+</td>
+<td width="50%" valign="top" align="center">
+<strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM">RTM</a></strong><br/>
+<sub>Requirements → Scenarios → Test Cases → Execution</sub>
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><strong>Defects</strong><br/><sub>Bugs · Severity · Priority · Evidence</sub></td>
-<td width="50%" valign="top" align="center"><strong>Validation</strong><br/><sub>Retest · Regression · Verification</sub></td>
+<td width="50%" valign="top" align="center">
+<strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report">Bug Reports</a></strong><br/>
+<sub>Bug ID · Severity · Priority · Steps · Expected/Actual</sub>
+</td>
+<td width="50%" valign="top" align="center">
+<strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/05_Execution_Results">Retesting</a></strong><br/>
+<sub>Execution evidence · regression / retest validation</sub>
+</td>
 </tr>
 </table>
+
+<p><strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/08_Final_Summary">Test Summary</a>:</strong> final testing outcome, coverage, defects, and reporting evidence.</p>
 
 <p><strong>Evidence flow:</strong> Requirement → Scenario → Test Case → Execution → Defect → Fix → Retest → Verification</p>
 
