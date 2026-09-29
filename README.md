@@ -74,12 +74,6 @@
 </tr>
 </table>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&v=qa-recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&v=qa-recruiter-stats-1&mode=dark" width="100%" alt="Kalp Shah GitHub proof metrics" />
-</picture>
-</p>
 
 ## SELECTED QA WORK
 
@@ -189,6 +183,15 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 **Software Testing Training**
 
 `SDLC` · `STLC` · `Test Planning` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `Regression` · `QA Reporting` · `Selenium` · `API Testing`
+
+## 📊 GITHUB STATS
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&v=qa-recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&v=qa-recruiter-stats-1&mode=dark" width="100%" alt="Kalp Shah GitHub proof metrics" />
+</picture>
+</p>
 
 ## 📈 CONSISTENCY SIGNAL
 
