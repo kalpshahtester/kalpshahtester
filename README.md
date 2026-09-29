@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:58A6FF&height=150&section=header&text=KALP%20SHAH&fontSize=46&fontColor=58A6FF&fontAlignY=42&desc=MANUAL%20TESTER%20%7C%20WEB%20QA&descAlignY=65&descSize=16&animation=fadeIn" width="100%" alt="Animated Manual Tester header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,70:21262D,100:58A6FF&height=175&section=header&text=KALP%20SHAH&fontSize=50&fontColor=58A6FF&fontAlignY=40&desc=MANUAL%20TESTER%20%7C%20WEB%20QA%20%7C%20SOFTWARE%20QUALITY&descAlignY=64&descSize=16&animation=fadeIn" width="100%" alt="Animated Manual Tester profile header"/>
 
 </div>
 
 # 👋 Hi, I'm Kalp Shah
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 🎯 My Current Focus
 
@@ -25,7 +26,8 @@
 - Defect Reporting
 - Retesting & Verification
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 🧪 Manual QA Workflow
 
@@ -60,7 +62,8 @@ Continue  Reproduce
                Closed
 ```
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 🔍 What I Test
 
@@ -78,7 +81,8 @@ Continue  Reproduce
 | SEO QA | Metadata, headings, images, links, canonical and content |
 | Defect Reporting | Reproduction, evidence, severity, priority and status |
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 🐛 Bug Hunter Workflow
 
@@ -108,7 +112,8 @@ VERIFY
 
 `Bug ID → Date → Module/Page → Summary → Steps → Expected → Actual → Severity → Priority → Status → Environment → Evidence → Retest Result`
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 📚 QA Documentation
 
@@ -125,7 +130,8 @@ VERIFY
 - Test Evidence
 - Defect Tracking
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## ⭐ Featured Manual Testing Projects
 
@@ -147,7 +153,8 @@ My portfolio contains additional QA work, documentation and professional informa
 
 [Open Live Portfolio](https://kalpshahtester.github.io/) · [Portfolio Repository](https://github.com/kalpshahtester/kalpshahtester.github.io)
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 🧰 QA Tools & Workflow
 
@@ -163,7 +170,8 @@ My portfolio contains additional QA work, documentation and professional informa
 | WordPress | Website and content QA |
 | GitHub | QA projects and documentation |
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 🌐 Web & SEO QA Checklist
 
@@ -193,7 +201,8 @@ My portfolio contains additional QA work, documentation and professional informa
 - Viewport and language attributes
 - Content formatting
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 📊 GitHub Activity
 
@@ -201,13 +210,15 @@ My portfolio contains additional QA work, documentation and professional informa
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF)](https://kalpshahtester.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalp-shah-software-tester/)
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 🐍 Contribution Activity
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg)
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 🎓 Background & QA Training
 
@@ -217,7 +228,8 @@ Core QA training:
 
 `SDLC` · `STLC` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `QA Reporting`
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 📈 What I Bring
 
@@ -230,7 +242,8 @@ Core QA training:
 - Edge-case investigation
 - Clear communication with developers and teams
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 ## 📫 Connect With Me
 
@@ -241,15 +254,21 @@ Core QA training:
 - 📧 [manualtesterkalpshah@gmail.com](mailto:manualtesterkalpshah@gmail.com)
 - 🐙 [GitHub](https://github.com/kalpshahtester)
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 _Manual Testing • Quality Assurance • Web QA • Defect Detection • Continuous Learning_
 
 
----
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=90&section=footer&animation=fadeIn" width="100%" alt="Subtle animated blue footer for Manual Tester profile"/>
+<sub>MANUAL TESTER • WEB QA • SOFTWARE QUALITY</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,45:21262D,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" alt="Subtle animated Manual Tester profile footer"/>
 
 </div>
