@@ -291,15 +291,25 @@ Hands-on training in:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Real GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/kalpshahtester">
-<img src="https://img.shields.io/badge/View_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true"
+  alt="Kalp Shah GitHub activity statistics"
+/>
 </a>
 
-<p><sub>Explore my repositories, projects, commits, and contribution activity.</sub></p>
+<a href="https://github.com/kalpshahtester">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpshahtester&layout=compact&theme=github_dark&hide_border=true"
+  alt="Kalp Shah GitHub language statistics"
+/>
+</a>
+
+<p><sub>These cards read public GitHub profile/repository data dynamically; no manually entered activity numbers are used.</sub></p>
 
 </div>
 
