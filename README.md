@@ -4,6 +4,8 @@
 
 ### 🧪 Manual Tester • Web QA • Software Quality
 
+<a href="https://github.com/kalpshahtester"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Manual+Tester+%7C+Web+QA;Functional+%7C+UI+%7C+Regression+Testing;Responsive+%7C+Cross-Browser+%7C+WordPress+QA;Bug+Detection+%7C+Defect+Reporting+%7C+Retesting" alt="Typing animation"/></a>
+
 **Finding defects before users do — through structured manual testing, web QA, and evidence-driven defect reporting.**
 
 [🌐 Portfolio](https://kalpshahtester.github.io/) · [📄 Resume](https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/kalp-shah-software-tester/) · [📧 Email](mailto:manualtesterkalpshah@gmail.com)
@@ -231,6 +233,21 @@ Core QA training:
 ✓ QA documentation and evidence  
 ✓ Edge-case investigation  
 ✓ Clear communication with developers and teams  
+
+---
+
+## 📊 GitHub Activity Snapshot
+
+<div align="center">
+
+<a href="https://github.com/kalpshahtester">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kalpshahtester&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github&cache_seconds=1800" alt="Kalp Shah GitHub stats"/>
+</a>
+<a href="https://github.com/kalpshahtester">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpshahtester&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=1800" alt="Top languages"/>
+</a>
+
+</div>
 
 ---
 
