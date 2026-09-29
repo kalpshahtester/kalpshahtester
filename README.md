@@ -135,6 +135,89 @@ Manual testing covering authentication, registration, flight and hotel booking f
 
 ---
 
+## ⭐ Featured QA Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 SauceDemo
+**Manual Testing Project**
+
+End-to-end e-commerce QA covering test cases, defect reporting, RTM, regression, and test summary.
+
+<a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View SauceDemo project"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ MakeMyTrip
+**Testing Assessment**
+
+Functional, negative, UI, authentication, registration, flight, and hotel booking-flow testing.
+
+<a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View MakeMyTrip project"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📮 Postman API Testing
+**API Testing Project**
+
+API testing work using Postman, with request/response validation and API-focused test coverage.
+
+<a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Postman API project"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Selenium WebDriver
+**Automation Practice**
+
+Selenium WebDriver training and automation work from the dedicated Selenium repository.
+
+<a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Selenium WebDriver project"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 QA Portfolio
+**Personal Portfolio Website**
+
+My QA-focused portfolio and professional web presence.
+
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io">
+<img src="https://img.shields.io/badge/View_Portfolio_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View portfolio repository"/>
+</a>
+&nbsp;
+<a href="https://kalpshahtester.github.io/">
+<img src="https://img.shields.io/badge/Live_Portfolio-58A6FF?style=for-the-badge" alt="Open live portfolio"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ QA Tools
 
 <div align="center">
