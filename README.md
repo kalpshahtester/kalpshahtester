@@ -1,14 +1,14 @@
 <div align="center">
 
-<p><sub>RECRUITER SIGNAL BRIEF · KALPSHAHTESTER</sub></p>
+<p><sub>QA PROFILE · KALPSHAHTESTER</sub></p>
 
 <h1>Kalp Shah</h1>
 
 <h2>Manual QA Engineer</h2>
 
-<p><strong>Finding defects before users do.</strong></p>
+<p><strong>Finding defects before they reach users.</strong></p>
 
-<p>Evidence-driven testing for reliable, responsive, and production-ready web experiences.</p>
+<p>Manual QA focused on reliable, responsive, and production-ready web experiences.</p>
 
 <p>
 <strong>Manual Testing</strong> ·
@@ -62,11 +62,11 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center"><strong>62+</strong><br/><sub>Test Cases</sub></td>
-<td width="50%" valign="top" align="center"><strong>Web</strong><br/><sub>WordPress QA</sub></td>
+<td width="50%" valign="top" align="center"><strong>47</strong><br/><sub>Test Scenarios</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><strong>SEO</strong><br/><sub>Web Validation</sub></td>
-<td width="50%" valign="top" align="center"><strong>API</strong><br/><sub>Postman Testing</sub></td>
+<td width="50%" valign="top" align="center"><strong>282</strong><br/><sub>Execution Results</sub></td>
+<td width="50%" valign="top" align="center"><strong>6</strong><br/><sub>Demo Users Tested</sub></td>
 </tr>
 </table>
 
@@ -75,7 +75,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment&v=qa-recruiter-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment%2Ckalpshahtester%2FAPI-Testing-Postman-Project&v=qa-recruiter-projects-2&mode=dark" width="100%" alt="Kalp Shah selected QA projects" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment&v=qa-recruiter-projects-2&mode=dark" width="100%" alt="Kalp Shah selected QA projects" />
 </picture>
 
 ### 🛒 SauceDemo
@@ -170,7 +170,7 @@ Login, registration, hotel booking, flight booking, and negative validation.
 <td width="50%" valign="top" align="center"><strong>Responsive</strong><br/><sub>Mobile · Tablet · Desktop Viewports</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><strong>Web</strong><br/><sub>WordPress · DevTools · Lighthouse</sub></td>
+<td width="50%" valign="top" align="center"><strong>Web</strong><br/><sub>WordPress · Chrome DevTools · Lighthouse</sub></td>
 <td width="50%" valign="top" align="center"><strong>Collaboration</strong><br/><sub>ClickUp · Slack · Sheets · GitHub</sub></td>
 </tr>
 </table>
@@ -193,7 +193,7 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 </picture>
 </p>
 
-## 📈 CONSISTENCY SIGNAL
+## 📈 GITHUB ACTIVITY
 
 <p align="center">
 <picture>
@@ -208,7 +208,7 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 
 <h2>Let's build reliable web experiences</h2>
 
-<p>Open to QA opportunities, web quality work, and practical testing challenges.</p>
+<p>Open to Manual QA opportunities and web quality challenges.</p>
 
 <p>
 <a href="https://kalpshahtester.github.io/">Portfolio</a>
