@@ -1,10 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:58A6FF&height=150&section=header&text=KALP%20SHAH&fontSize=46&fontColor=58A6FF&fontAlignY=42&desc=MANUAL%20TESTER%20%7C%20WEB%20QA&descAlignY=65&descSize=16&animation=fadeIn" width="100%" alt="Animated Manual Tester header"/>
+
+</div>
+
 # 👋 Hi, I'm Kalp Shah
-
-### 🧪 Manual Tester | Web QA | Software Quality
-
-I am a **Manual Tester** focused on testing web applications, finding defects, validating functionality, and helping teams deliver reliable user experiences.
-
-[🌐 Portfolio](https://kalpshahtester.github.io/) · [LinkedIn](https://www.linkedin.com/in/kalp-shah-software-tester/) · [📧 Email](mailto:manualtesterkalpshah@gmail.com) · [GitHub](https://github.com/kalpshahtester)
 
 ---
 
