@@ -20,9 +20,7 @@
 
 I am a **Manual Tester** focused on web application quality, defect detection, user journeys, responsive behavior, WordPress QA, and SEO validation.
 
-My approach is simple:
-
-> **PLAN → TEST → FIND → REPORT → RETEST → VERIFY**
+**PLAN → TEST → FIND → REPORT → RETEST → VERIFY**
 
 ---
 
@@ -151,6 +149,16 @@ VERIFY
 
 ---
 
+## 🌐 Web + SEO QA
+
+### Web QA
+Navigation · User journeys · Forms · Validation · Buttons · Links · Error messages · Content visibility · Responsive behavior · Browser compatibility · Broken links · Images / loading
+
+### SEO QA
+Meta title · Meta description · URL / slug · Heading structure · Image alt text · Image format / size · Canonical tag · Robots meta tag · Open Graph · Internal / external links · Schema markup · Viewport · Language · Content formatting
+
+---
+
 ## 🧰 QA Toolkit
 
 | Tool | Primary Use |
@@ -164,16 +172,6 @@ VERIFY
 | **Lighthouse** | Web quality and performance checks |
 | **WordPress** | Website and content QA |
 | **GitHub** | QA projects and documentation |
-
----
-
-## 🌐 Web + SEO QA
-
-### Web QA
-Navigation · User journeys · Forms · Validation · Buttons · Links · Error messages · Content visibility · Responsive behavior · Browser compatibility · Broken links · Images / loading
-
-### SEO QA
-Meta title · Meta description · URL / slug · Heading structure · Image alt text · Image format / size · Canonical tag · Robots meta tag · Open Graph · Internal / external links · Schema markup · Viewport · Language · Content formatting
 
 ---
 
@@ -219,8 +217,6 @@ CLOSED
 
 **Information Technology Background → Manual Tester**
 
-Core QA training:
-
 `SDLC` · `STLC` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `QA Reporting`
 
 ---
@@ -254,7 +250,7 @@ Core QA training:
 
 **Kalp Shah — Manual Tester | Web QA | Software Quality**
 
-[🌐 Portfolio](https://kalpshahtester.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/kalp-shah-software-tester/) · [📧 Email](mailto:manualtesterkalpshah@gmail.com) · [🐙 GitHub](https://github.com/kalpshahtester)
+[🌐 Portfolio](https://kalpshahtester.github.io/) · [📄 Resume](https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/kalp-shah-software-tester/) · [📧 Email](mailto:manualtesterkalpshah@gmail.com) · [🐙 GitHub](https://github.com/kalpshahtester)
 
 </div>
 
