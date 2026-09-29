@@ -22,6 +22,12 @@
 
 I focus on web application quality, user journeys, responsive behavior, WordPress QA, SEO validation, and clear defect communication.
 
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&style=aura" width="860" alt="GitSkins GitHub profile statistics for Kalp Shah" />
+
+</div>
+
 ---
 
 ## 🧪 Core Manual Testing
@@ -139,13 +145,15 @@ Meta title · Meta description · URL / slug · Heading structure · Image alt t
 
 ---
 
-## 🐍 GitHub Contribution Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg)
+<img src="https://www.gitskins.com/api/section/heatmap?username=kalpshahtester&theme=github-dark&style=aura" width="860" alt="GitSkins GitHub contribution activity heatmap for Kalp Shah" />
 
 </div>
+
+<sub>GitHub activity visualization powered by GitSkins; QA-specific evidence remains documented above.</sub>
 
 ---
 
