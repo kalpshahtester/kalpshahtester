@@ -8,12 +8,14 @@
 
 # 👋 Hi, I'm Kalp Shah
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 🎯 My Current Focus
+
+<div align="center"><sub>◈ TEST • VALIDATE • REPORT • RETEST • VERIFY ◈</sub></div>
 
 > **Manual Testing is my current professional focus.**
 
@@ -30,12 +32,14 @@
 - Defect Reporting
 - Retesting & Verification
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 🧪 Manual QA Workflow
+
+<div align="center"><sub>◈ PLAN → EXECUTE → DEFECT → RETEST → VERIFY ◈</sub></div>
 
 ```text
 Requirements
@@ -68,12 +72,14 @@ Continue  Reproduce
                Closed
 ```
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 🔍 What I Test
+
+<div align="center"><sub>◈ WEB • UI • FUNCTIONAL • RESPONSIVE • SEO ◈</sub></div>
 
 | Testing Area | Validation |
 |---|---|
@@ -89,12 +95,14 @@ Continue  Reproduce
 | SEO QA | Metadata, headings, images, links, canonical and content |
 | Defect Reporting | Reproduction, evidence, severity, priority and status |
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 🐛 Bug Hunter Workflow
+
+<div align="center"><sub>◈ FIND • REPRODUCE • DOCUMENT • COMMUNICATE ◈</sub></div>
 
 ```text
 TEST
@@ -122,12 +130,14 @@ VERIFY
 
 `Bug ID → Date → Module/Page → Summary → Steps → Expected → Actual → Severity → Priority → Status → Environment → Evidence → Retest Result`
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 📚 QA Documentation
+
+<div align="center"><sub>◈ STRUCTURED QA EVIDENCE ◈</sub></div>
 
 - High-Level Requirements (HLR)
 - Test Plan
@@ -142,12 +152,14 @@ VERIFY
 - Test Evidence
 - Defect Tracking
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## ⭐ Featured Manual Testing Projects
+
+<div align="center"><sub>◈ REAL QA PROJECTS ◈</sub></div>
 
 ### 🧪 SauceDemo — Manual Testing
 
@@ -167,12 +179,14 @@ My portfolio contains additional QA work, documentation and professional informa
 
 [Open Live Portfolio](https://kalpshahtester.github.io/) · [Portfolio Repository](https://github.com/kalpshahtester/kalpshahtester.github.io)
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 🧰 QA Tools & Workflow
+
+<div align="center"><sub>◈ QA WORKSPACE ◈</sub></div>
 
 | Tool | Usage |
 |---|---|
@@ -186,12 +200,14 @@ My portfolio contains additional QA work, documentation and professional informa
 | WordPress | Website and content QA |
 | GitHub | QA projects and documentation |
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 🌐 Web & SEO QA Checklist
+
+<div align="center"><sub>◈ QUALITY + CONTENT + SEARCH ◈</sub></div>
 
 ### Web QA
 - Navigation and user journeys
@@ -219,32 +235,38 @@ My portfolio contains additional QA work, documentation and professional informa
 - Viewport and language attributes
 - Content formatting
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 📊 GitHub Activity
+
+<div align="center"><sub>◈ LIVE PROFILE SIGNALS ◈</sub></div>
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-kalpshahtester-181717?logo=github)](https://github.com/kalpshahtester)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF)](https://kalpshahtester.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalp-shah-software-tester/)
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 🐍 Contribution Activity
 
+<div align="center"><sub>◈ CONTRIBUTION FLOW ◈</sub></div>
+
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg)
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 🎓 Background & QA Training
+
+<div align="center"><sub>◈ LEARN • PRACTICE • IMPROVE ◈</sub></div>
 
 **Information Technology Background → Manual Tester**
 
@@ -252,12 +274,14 @@ Core QA training:
 
 `SDLC` · `STLC` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `QA Reporting`
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 📈 What I Bring
+
+<div align="center"><sub>◈ QA MINDSET ◈</sub></div>
 
 - Structured manual test execution
 - Clear and reproducible defect reports
@@ -268,12 +292,14 @@ Core QA training:
 - Edge-case investigation
 - Clear communication with developers and teams
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
-<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
+<div align="center"><sub>✦ ───────────────────── ✦</sub></div>
 
 ## 📫 Connect With Me
+
+<div align="center"><sub>◈ LET'S CONNECT ◈</sub></div>
 
 **Kalp Shah — Manual Tester | Web QA | Software Quality**
 
@@ -282,13 +308,13 @@ Core QA training:
 - 📧 [manualtesterkalpshah@gmail.com](mailto:manualtesterkalpshah@gmail.com)
 - 🐙 [GitHub](https://github.com/kalpshahtester)
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
 _Manual Testing • Quality Assurance • Web QA • Defect Detection • Continuous Learning_
 
 
-<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
+<div align="center"><sub>✦ ═══════════════════════════ ✦</sub></div>
 
 
 <div align="center">
