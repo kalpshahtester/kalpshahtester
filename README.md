@@ -237,6 +237,75 @@ My QA-focused portfolio and professional web presence.
 
 ---
 
+## 🤖 Automation Lab
+
+<div align="center">
+
+```text
+┌────────────────────── QA AUTOMATION PIPELINE ──────────────────────┐
+│                                                                    │
+│  🧪 Test Design                                                     │
+│       │                                                            │
+│       ├───────────────┐                                            │
+│       ▼               ▼                                            │
+│  🤖 Selenium      📮 Postman                                       │
+│  WebDriver        API Testing                                     │
+│       │               │                                            │
+│       ▼               ▼                                            │
+│  🌐 UI Actions    🔗 API Requests                                 │
+│       │               │                                            │
+│       ▼               ▼                                            │
+│  🔍 Assertions    🔍 Response Validation                          │
+│       │               │                                            │
+│       └───────────────┬────────────────────────────────────────────┘
+│                       ▼
+│                 ✅ Test Result
+│                       │
+│                       ▼
+│                 📊 QA Evidence
+└────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🤖 Selenium WebDriver
+
+```text
+$ ./selenium-test.sh
+
+[1] Launch browser
+[2] Locate web elements
+[3] Perform UI actions
+[4] Validate expected result
+[5] Capture test result
+[✓] Web automation flow complete
+```
+
+<a href="https://github.com/kalpshahtester/Module-7-Selenium-Webdriver-">
+<img src="https://img.shields.io/badge/VIEW_SELENIUM_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Selenium WebDriver repository"/>
+</a>
+
+### 📮 Postman API Testing
+
+```text
+$ ./api-test.sh
+
+[1] Send API request
+[2] Validate response
+[3] Check status / payload
+[4] Run API assertions
+[5] Record test result
+[✓] API validation flow complete
+```
+
+<a href="https://github.com/kalpshahtester/API-Testing-Postman-Project">
+<img src="https://img.shields.io/badge/VIEW_POSTMAN_API_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Postman API Testing repository"/>
+</a>
+
+> **Automation focus:** browser workflow validation with Selenium WebDriver and API request/response validation with Postman.
+
+---
+
 ## 🐞 Defect Reporting Approach
 
 **Clear · Reproducible · Actionable · Evidence-Based · Prioritized · Traceable**
