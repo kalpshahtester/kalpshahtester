@@ -1,17 +1,32 @@
 <div align="center">
 
-<img src="https://github.com/kalpshahtester.png" width="150" height="150" alt="Kalp Shah profile photo" />
+<img src="https://github.com/kalpshahtester.png" width="135" height="135" alt="Kalp Shah — Manual QA Engineer" />
 
 # KALP SHAH
 
-### `MANUAL TESTER` · `WEB QA` · `WORDPRESS QA` · `SEO QA`
+### `MANUAL QA ENGINEER` · `WEB QA` · `WORDPRESS QA` · `SEO QA`
 
-**Finding defects before users do — through structured manual testing, web QA, and evidence-driven defect reporting.**
+**Finding defects before users do.**
 
-<a href="https://kalpshahtester.github.io/">🌐 Portfolio</a> ·
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">💼 LinkedIn</a> ·
-<a href="https://github.com/kalpshahtester">🐙 GitHub</a> ·
+*Evidence-driven testing for reliable, responsive, and production-ready web experiences.*
+
+<br/>
+
+<a href="https://kalpshahtester.github.io/">🌐 Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">💼 LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/kalpshahtester">🐙 GitHub</a>
+&nbsp;·&nbsp;
 <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">📄 Resume</a>
+
+<br/><br/>
+
+`FUNCTIONAL` · `UI/UX` · `RESPONSIVE` · `REGRESSION` · `SEO` · `API`
+
+<br/><br/>
+
+**TEST → FIND → REPRODUCE → REPORT → RETEST → VERIFY**
 
 </div>
 
