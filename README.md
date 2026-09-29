@@ -22,11 +22,11 @@
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-hero.svg" width="100%" style="max-width: 900px; height: auto;" alt="Animated QA engineering workflow: Test, Find, Report, Retest, Verify" />
+
+<br/>
+
 `FUNCTIONAL` · `UI/UX` · `RESPONSIVE` · `REGRESSION` · `SEO` · `API`
-
-<br/><br/>
-
-**TEST → FIND → REPRODUCE → REPORT → RETEST → VERIFY**
 
 </div>
 
