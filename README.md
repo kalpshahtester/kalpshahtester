@@ -8,10 +8,10 @@
 
 # 👋 Hi, I'm Kalp Shah
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 🎯 My Current Focus
 
@@ -30,10 +30,10 @@
 - Defect Reporting
 - Retesting & Verification
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 🧪 Manual QA Workflow
 
@@ -68,10 +68,10 @@ Continue  Reproduce
                Closed
 ```
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 🔍 What I Test
 
@@ -89,10 +89,10 @@ Continue  Reproduce
 | SEO QA | Metadata, headings, images, links, canonical and content |
 | Defect Reporting | Reproduction, evidence, severity, priority and status |
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 🐛 Bug Hunter Workflow
 
@@ -122,10 +122,10 @@ VERIFY
 
 `Bug ID → Date → Module/Page → Summary → Steps → Expected → Actual → Severity → Priority → Status → Environment → Evidence → Retest Result`
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 📚 QA Documentation
 
@@ -142,10 +142,10 @@ VERIFY
 - Test Evidence
 - Defect Tracking
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## ⭐ Featured Manual Testing Projects
 
@@ -167,10 +167,10 @@ My portfolio contains additional QA work, documentation and professional informa
 
 [Open Live Portfolio](https://kalpshahtester.github.io/) · [Portfolio Repository](https://github.com/kalpshahtester/kalpshahtester.github.io)
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 🧰 QA Tools & Workflow
 
@@ -186,10 +186,10 @@ My portfolio contains additional QA work, documentation and professional informa
 | WordPress | Website and content QA |
 | GitHub | QA projects and documentation |
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 🌐 Web & SEO QA Checklist
 
@@ -219,10 +219,10 @@ My portfolio contains additional QA work, documentation and professional informa
 - Viewport and language attributes
 - Content formatting
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 📊 GitHub Activity
 
@@ -230,19 +230,19 @@ My portfolio contains additional QA work, documentation and professional informa
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF)](https://kalpshahtester.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalp-shah-software-tester/)
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 🐍 Contribution Activity
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/output/github-contribution-grid-snake.svg)
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 🎓 Background & QA Training
 
@@ -252,10 +252,10 @@ Core QA training:
 
 `SDLC` · `STLC` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `QA Reporting`
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 📈 What I Bring
 
@@ -268,10 +268,10 @@ Core QA training:
 - Edge-case investigation
 - Clear communication with developers and teams
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ───────────────────────── ◈</sub></div>
 
 ## 📫 Connect With Me
 
@@ -282,13 +282,13 @@ Core QA training:
 - 📧 [manualtesterkalpshah@gmail.com](mailto:manualtesterkalpshah@gmail.com)
 - 🐙 [GitHub](https://github.com/kalpshahtester)
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
 _Manual Testing • Quality Assurance • Web QA • Defect Detection • Continuous Learning_
 
 
-<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+<div align="center"><sub>◈ ═════════════════════════════════ ◈</sub></div>
 
 
 <div align="center">
