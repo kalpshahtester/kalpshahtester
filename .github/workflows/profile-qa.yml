@@ -79,7 +79,7 @@ jobs:
           set -euo pipefail
           urls=(
             "https://kalpshahtester.github.io/"
-            "https://www.linkedin.com/in/kalp-shah-software-tester/"
+            "https://github.com/kalpshahtester"
             "https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website"
             "https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment"
           )
