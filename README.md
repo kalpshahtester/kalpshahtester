@@ -52,7 +52,7 @@ I test real user journeys, reproduce defects, document clear evidence, and verif
 
 <p align="center">
   <strong>3D QA FLOW</strong><br>
-  TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY
+  TEST → FIND → REPORT → RETEST → VERIFY
 </p>
 
 ---
