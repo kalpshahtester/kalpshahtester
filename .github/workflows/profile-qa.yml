@@ -56,9 +56,14 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          for file in assets/*.svg; do
-            xmllint --noout "$file"
-          done
+          python - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          for file in Path("assets").glob("*.svg"):
+              ET.parse(file)
+              print(f"Valid SVG/XML: {file}")
+          PY
 
       - name: Validate local README assets
         shell: bash
