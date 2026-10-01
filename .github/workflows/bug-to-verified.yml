@@ -1,0 +1,35 @@
+name: Generate Bug-to-Verified Animation
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate_bug_to_verified.py"
+      - ".github/workflows/bug-to-verified.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Install Pillow
+        run: python -m pip install --disable-pip-version-check pillow
+
+      - name: Generate animation
+        run: python scripts/generate_bug_to_verified.py
+
+      - name: Commit generated animation
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Generate bug-to-verified QA animation"
+          file_pattern: assets/process/bug-to-verified.gif
