@@ -1,12 +1,19 @@
 # Kalp Shah — Manual QA Engineer
 
 <p align="center">
-  <img src="./assets/qa-hero.svg" alt="Kalp Shah — Manual QA Engineer | Web, WordPress, Responsive and SEO QA" width="100%">
+  <picture>
+    <source media="(max-width: 720px)" srcset="./assets/qa-release-control-mobile.svg">
+    <img src="./assets/qa-release-control.svg" alt="Kalp Shah — Manual QA Engineer | QA Release Control showing PASS, FAIL, RETEST and VERIFIED states" width="100%">
+  </picture>
 </p>
 
 <p align="center">
   <strong>Finding defects before they reach users.</strong><br>
   Manual QA focused on web, WordPress, functional, UI, responsive, SEO and regression testing.
+</p>
+
+<p align="center">
+  <strong>QA release gate:</strong> PASS → FAIL → RETEST → VERIFIED
 </p>
 
 <p align="center">
