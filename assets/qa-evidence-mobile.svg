@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">QA Evidence</title>
+  <desc id="desc">Kalp Shah Manual QA Engineer profile visual.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151b2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  
+  <rect width="720" height="980" rx="28" fill="url(#bg)"/>
+  <text x="42" y="58" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="26" font-weight="700">QA EVIDENCE</text>
+  <text x="42" y="88" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Measured manual testing artifacts</text>
+  <g transform="translate(42 125)"><rect width="636" height="145" rx="18" fill="#0d1117" stroke="#30363d"/><text x="28" y="67" fill="#58a6ff" font-family="Arial,sans-serif" font-size="46" font-weight="700">47</text><text x="28" y="105" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="16" font-weight="700">SCENARIOS</text><path d="M240 74h320" stroke="#30363d" stroke-width="10" stroke-linecap="round"/><path d="M240 74h180" stroke="#58a6ff" stroke-width="10" stroke-linecap="round"/></g><g transform="translate(42 310)"><rect width="636" height="145" rx="18" fill="#0d1117" stroke="#30363d"/><text x="28" y="67" fill="#58a6ff" font-family="Arial,sans-serif" font-size="46" font-weight="700">62+</text><text x="28" y="105" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="16" font-weight="700">TEST CASES</text><path d="M240 74h320" stroke="#30363d" stroke-width="10" stroke-linecap="round"/><path d="M240 74h180" stroke="#58a6ff" stroke-width="10" stroke-linecap="round"/></g><g transform="translate(42 495)"><rect width="636" height="145" rx="18" fill="#0d1117" stroke="#30363d"/><text x="28" y="67" fill="#58a6ff" font-family="Arial,sans-serif" font-size="46" font-weight="700">282</text><text x="28" y="105" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="16" font-weight="700">EXECUTIONS</text><path d="M240 74h320" stroke="#30363d" stroke-width="10" stroke-linecap="round"/><path d="M240 74h180" stroke="#58a6ff" stroke-width="10" stroke-linecap="round"/></g><g transform="translate(42 680)"><rect width="636" height="145" rx="18" fill="#0d1117" stroke="#30363d"/><text x="28" y="67" fill="#58a6ff" font-family="Arial,sans-serif" font-size="46" font-weight="700">6</text><text x="28" y="105" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="16" font-weight="700">DEMO USERS</text><path d="M240 74h320" stroke="#30363d" stroke-width="10" stroke-linecap="round"/><path d="M240 74h180" stroke="#58a6ff" stroke-width="10" stroke-linecap="round"/></g>
+  <text x="42" y="910" fill="#8b949e" font-family="monospace" font-size="14">Requirement → Execution → Defect → Retest</text>
+
+</svg>

@@ -1,0 +1,96 @@
+name: Profile QA
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, profile-v2]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v5
+
+      - name: Validate required files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          required=(
+            "README.md"
+            "assets/qa-hero.svg"
+            "assets/qa-hero-mobile.svg"
+            "assets/qa-command-center.svg"
+            "assets/qa-command-center-mobile.svg"
+            "assets/qa-evidence.svg"
+            "assets/qa-evidence-mobile.svg"
+            "assets/qa-pipeline.svg"
+            "assets/qa-pipeline-mobile.svg"
+            "assets/testing-stack.svg"
+            "assets/testing-stack-mobile.svg"
+            "assets/responsive-matrix.svg"
+            "assets/responsive-matrix-mobile.svg"
+            ".github/workflows/profile-3d.yml"
+            ".github/workflows/profile-qa.yml"
+          )
+
+          for file in "${required[@]}"; do
+            test -f "$file" || { echo "Missing: $file"; exit 1; }
+          done
+
+      - name: Validate README sections
+        shell: bash
+        run: |
+          set -euo pipefail
+          for heading in             "QA COMMAND CENTER"             "QA PROOF"             "SELECTED QA PROJECTS"             "QA PIPELINE"             "WEB + WORDPRESS + SEO QA"             "RESPONSIVE QA MATRIX"             "QA TOOLKIT"             "PROFESSIONAL QA EXPERIENCE"             "PROFILE ENGINEERING"; do
+            grep -q "$heading" README.md || { echo "Missing README section: $heading"; exit 1; }
+          done
+
+      - name: Validate SVG/XML
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in assets/*.svg; do
+            xmllint --noout "$file"
+          done
+
+      - name: Validate local README assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          grep -oE 'assets/[A-Za-z0-9._/-]+\.svg' README.md | sort -u | while read -r asset; do
+            test -f "$asset" || { echo "Broken local asset reference: $asset"; exit 1; }
+          done
+
+      - name: Check critical links
+        shell: bash
+        run: |
+          set -euo pipefail
+          urls=(
+            "https://kalpshahtester.github.io/"
+            "https://www.linkedin.com/in/kalp-shah-software-tester/"
+            "https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website"
+            "https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment"
+          )
+
+          for url in "${urls[@]}"; do
+            echo "Checking $url"
+            curl -L --fail --silent --show-error --retry 2 --max-time 20 -o /dev/null "$url"
+          done
+
+      - name: Check workflow configuration
+        shell: bash
+        run: |
+          set -euo pipefail
+          grep -q "yoshi389111/github-profile-3d-contrib@latest" .github/workflows/profile-3d.yml
+          grep -q "USERNAME:" .github/workflows/profile-3d.yml
+          grep -q "actions/checkout@v5" .github/workflows/profile-qa.yml
+
+      - name: QA result
+        run: echo "Profile QA passed — README, SVG assets, workflows and critical links are valid."

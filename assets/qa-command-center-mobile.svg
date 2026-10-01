@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">QA Command Center</title>
+  <desc id="desc">Kalp Shah Manual QA Engineer profile visual.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151b2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  
+  <rect width="720" height="980" rx="28" fill="url(#bg)"/>
+  <text x="42" y="58" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="25" font-weight="700">QA COMMAND CENTER</text>
+  <text x="42" y="87" fill="#8b949e" font-family="Arial,sans-serif" font-size="15">Scope → Evidence → Verification</text>
+  <g transform="translate(42 115)"><rect width="636" height="112" rx="16" fill="#0d1117" stroke="#30363d"/><rect width="7" height="112" rx="3" fill="#58a6ff"/><text x="25" y="35" fill="#58a6ff" font-family="Arial,sans-serif" font-size="17" font-weight="700">FUNCTIONAL</text><text x="25" y="67" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">Journeys · Forms · Validation</text><circle cx="590" cy="79" r="9" fill="none" stroke="#58a6ff" stroke-width="3"/></g><g transform="translate(42 250)"><rect width="636" height="112" rx="16" fill="#0d1117" stroke="#30363d"/><rect width="7" height="112" rx="3" fill="#a371f7"/><text x="25" y="35" fill="#a371f7" font-family="Arial,sans-serif" font-size="17" font-weight="700">UI</text><text x="25" y="67" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">Layout · Components · Content</text><circle cx="590" cy="79" r="9" fill="none" stroke="#a371f7" stroke-width="3"/></g><g transform="translate(42 385)"><rect width="636" height="112" rx="16" fill="#0d1117" stroke="#30363d"/><rect width="7" height="112" rx="3" fill="#3fb950"/><text x="25" y="35" fill="#3fb950" font-family="Arial,sans-serif" font-size="17" font-weight="700">RESPONSIVE</text><text x="25" y="67" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">Mobile · Tablet · Desktop</text><circle cx="590" cy="79" r="9" fill="none" stroke="#3fb950" stroke-width="3"/></g><g transform="translate(42 520)"><rect width="636" height="112" rx="16" fill="#0d1117" stroke="#30363d"/><rect width="7" height="112" rx="3" fill="#f0883e"/><text x="25" y="35" fill="#f0883e" font-family="Arial,sans-serif" font-size="17" font-weight="700">WORDPRESS</text><text x="25" y="67" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">Pages · Blogs · Media</text><circle cx="590" cy="79" r="9" fill="none" stroke="#f0883e" stroke-width="3"/></g><g transform="translate(42 655)"><rect width="636" height="112" rx="16" fill="#0d1117" stroke="#30363d"/><rect width="7" height="112" rx="3" fill="#58a6ff"/><text x="25" y="35" fill="#58a6ff" font-family="Arial,sans-serif" font-size="17" font-weight="700">SEO</text><text x="25" y="67" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">Metadata · Schema · Links</text><circle cx="590" cy="79" r="9" fill="none" stroke="#58a6ff" stroke-width="3"/></g><g transform="translate(42 790)"><rect width="636" height="112" rx="16" fill="#0d1117" stroke="#30363d"/><rect width="7" height="112" rx="3" fill="#a371f7"/><text x="25" y="35" fill="#a371f7" font-family="Arial,sans-serif" font-size="17" font-weight="700">REGRESSION</text><text x="25" y="67" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">Fixes · Impact · Retest</text><circle cx="590" cy="79" r="9" fill="none" stroke="#a371f7" stroke-width="3"/></g>
+
+</svg>

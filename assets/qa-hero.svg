@@ -1,48 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
-  <title id="title">Kalp Shah QA hero animation</title>
-  <desc id="desc">A subtle animated quality assurance workflow showing test, find, report, retest and verify.</desc>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Kalp Shah — Manual QA Engineer</title>
+  <desc id="desc">Kalp Shah Manual QA Engineer profile visual.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" x2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="0.5" stop-color="#161b22"/>
-      <stop offset="1" stop-color="#0d1117"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151b2e"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" x2="1">
-      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="1"/>
-      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1200" height="180" rx="18" fill="url(#bg)" stroke="#30363d"/>
-  <g opacity=".16">
-    <path d="M0 45H1200M0 90H1200M0 135H1200" stroke="#8b949e"/>
-    <path d="M150 0V180M300 0V180M450 0V180M600 0V180M750 0V180M900 0V180M1050 0V180" stroke="#8b949e"/>
+  
+  <rect width="1200" height="560" rx="28" fill="url(#bg)"/>
+  <circle cx="1030" cy="90" r="180" fill="#58a6ff" opacity=".07"/>
+  <circle cx="1120" cy="420" r="240" fill="#a371f7" opacity=".06"/>
+  <g opacity=".12" stroke="#8b949e" stroke-width="1">
+    <path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M0 450H1200"/>
+    <path d="M120 0V560M240 0V560M360 0V560M480 0V560M600 0V560M720 0V560M840 0V560M960 0V560M1080 0V560"/>
   </g>
-  <text x="60" y="48" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="24" font-weight="700">QA ENGINEERING</text>
-  <text x="60" y="76" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">Evidence-driven testing • Web • WordPress • SEO • API</text>
-  <g font-family="Arial, sans-serif" font-size="13" text-anchor="middle">
-    <g fill="#161b22" stroke="#30363d">
-      <circle cx="180" cy="125" r="25"/><circle cx="390" cy="125" r="25"/><circle cx="600" cy="125" r="25"/><circle cx="810" cy="125" r="25"/><circle cx="1020" cy="125" r="25"/>
-    </g>
-    <g fill="#58a6ff">
-      <circle cx="180" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" repeatCount="indefinite"/></circle>
-      <circle cx="390" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" begin=".36s" repeatCount="indefinite"/></circle>
-      <circle cx="600" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" begin=".72s" repeatCount="indefinite"/></circle>
-      <circle cx="810" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" begin="1.08s" repeatCount="indefinite"/></circle>
-      <circle cx="1020" cy="125" r="5"><animate attributeName="r" values="5;8;5" dur="1.8s" begin="1.44s" repeatCount="indefinite"/></circle>
-    </g>
-    <g stroke="#58a6ff" stroke-width="2" opacity=".65">
-      <path d="M205 125H365M415 125H575M625 125H785M835 125H995"/>
-    </g>
-    <g fill="#c9d1d9">
-      <text x="180" y="165">TEST</text><text x="390" y="165">FIND</text><text x="600" y="165">REPORT</text><text x="810" y="165">RETEST</text><text x="1020" y="165">VERIFY</text>
-    </g>
+  <text x="70" y="86" fill="#8b949e" font-family="Arial,sans-serif" font-size="20" letter-spacing="4">QA PROFILE / 2026</text>
+  <text x="70" y="170" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="58" font-weight="700">Kalp Shah</text>
+  <text x="70" y="222" fill="#58a6ff" font-family="Arial,sans-serif" font-size="30" font-weight="700">MANUAL QA ENGINEER</text>
+  <text x="70" y="272" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="21">Web · WordPress · Functional · UI · Responsive · SEO</text>
+  <rect x="70" y="318" width="470" height="72" rx="14" fill="#161b22" stroke="#30363d"/>
+  <text x="94" y="350" fill="#8b949e" font-family="monospace" font-size="15">$ qa.run()</text>
+  <text x="94" y="378" fill="#f0f6fc" font-family="monospace" font-size="19">find → reproduce → report → verify</text>
+  <g transform="translate(760 125)">
+    <rect x="0" y="0" width="320" height="250" rx="20" fill="#0d1117" stroke="#30363d"/>
+    <rect x="24" y="28" width="272" height="16" rx="8" fill="#21262d"/>
+    <circle cx="40" cy="36" r="4" fill="#58a6ff"/><circle cx="56" cy="36" r="4" fill="#a371f7"/><circle cx="72" cy="36" r="4" fill="#3fb950"/>
+    <path d="M46 94h180M46 126h220M46 158h150" stroke="#8b949e" stroke-width="10" stroke-linecap="round" opacity=".65"/>
+    <path d="M48 202h78" stroke="#58a6ff" stroke-width="12" stroke-linecap="round" filter="url(#glow)">
+      <animate attributeName="x2" values="78;118;78" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="252" cy="198" r="18" fill="none" stroke="#3fb950" stroke-width="5">
+      <animate attributeName="r" values="14;20;14" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
   </g>
-  <rect x="-200" y="0" width="180" height="180" fill="url(#line)" opacity=".22" filter="url(#glow)">
-    <animate attributeName="x" from="-200" to="1220" dur="4.5s" repeatCount="indefinite"/>
-  </rect>
+  <text x="70" y="505" fill="#8b949e" font-family="Arial,sans-serif" font-size="18">Finding defects before they reach users.</text>
+
 </svg>

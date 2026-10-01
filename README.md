@@ -1,244 +1,202 @@
-<div align="center">
+# Kalp Shah — Manual QA Engineer
 
-<p><sub>QA PROFILE · KALPSHAHTESTER</sub></p>
-
-<h1>Kalp Shah</h1>
-
-<h2>Manual QA Engineer</h2>
-
-<p><strong>Finding defects before they reach users.</strong></p>
-
-<p>Manual QA focused on <strong>web, WordPress, functional, UI, responsive, SEO, and regression testing</strong>.</p>
-
-<p>
-<strong>Manual QA</strong> ·
-<strong>Web QA</strong> ·
-<strong>WordPress QA</strong> ·
-<strong>Responsive QA</strong> ·
-<strong>SEO QA</strong> ·
-<strong>Regression</strong>
+<p align="center">
+  <img src="./assets/qa-hero.svg" alt="Kalp Shah — Manual QA Engineer | Web, WordPress, Responsive and SEO QA" width="100%">
 </p>
 
-<p>
-<a href="https://kalpshahtester.github.io/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/kalpshahtester">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">Resume</a>
+<p align="center">
+  <strong>Finding defects before they reach users.</strong><br>
+  Manual QA focused on web, WordPress, functional, UI, responsive, SEO and regression testing.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=kalpshahtester&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fkalpshahtester.png&color=1&v=qa-recruiter-portrait-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=kalpshahtester&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fkalpshahtester.png&color=1&v=qa-recruiter-portrait-2&mode=dark" width="180" alt="Kalp Shah GitSkins recruiter portrait" />
-</picture>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kalpshahtester&theme=github-dark&style=aura&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=kalpshahtester&theme=github-dark&style=aura&mode=dark" width="100%" alt="GitSkins animated GitHub profile hero for Kalp Shah" />
-</picture>
+<p align="center">
+  <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a> ·
+  <a href="https://github.com/kalpshahtester">GitHub</a> ·
+  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">Resume</a>
 </p>
 
-</div>
+---
 
-## WHAT TEAMS CAN EVALUATE QUICKLY
+## QA COMMAND CENTER
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><h3>Role Fit</h3><p>Manual QA Engineer<br/>Web QA · WordPress QA</p></td>
-<td width="50%" valign="top"><h3>Testing Scope</h3><p>Functional · UI<br/>Responsive · Regression<br/>SEO · Cross-Browser</p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3>QA Evidence</h3><p>Test Cases · Bug Reports<br/>RTM · Retesting · Test Summary</p></td>
-<td width="50%" valign="top"><h3>QA Workflow</h3><p>Test → Reproduce → Report<br/>Fix → Retest → Verify</p></td>
-</tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(max-width: 720px)" srcset="./assets/qa-command-center-mobile.svg">
+    <img src="./assets/qa-command-center.svg" alt="QA command center showing testing scope and evidence" width="100%">
+  </picture>
+</p>
 
- 
-## QA PROOF AT A GLANCE
+| Area | What I validate |
+|---|---|
+| **Functional QA** | User journeys, forms, validation, navigation, buttons, links and error handling |
+| **UI QA** | Layout, spacing, typography, components, visual consistency and content |
+| **Responsive QA** | Mobile, tablet, laptop, desktop and edge viewport behavior |
+| **WordPress QA** | Pages, templates, blogs, media, content, links, plugins/theme behavior and regression |
+| **SEO QA** | Metadata, headings, canonical, robots, schema, Open Graph, links, images and viewport |
+| **Regression QA** | Fix verification, impacted-area checks and release confidence |
+| **Evidence** | Test cases, execution results, bug reports, RTM and test summaries |
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center"><strong>62+</strong><br/><sub>Test Cases</sub></td>
-<td width="50%" valign="top" align="center"><strong>47</strong><br/><sub>Test Scenarios</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center"><strong>282</strong><br/><sub>Execution Results</sub></td>
-<td width="50%" valign="top" align="center"><strong>6</strong><br/><sub>Demo Users Tested</sub></td>
-</tr>
-</table>
+## QA PROOF
 
+<p align="center">
+  <img src="./assets/qa-evidence.svg" alt="QA evidence metrics: 47 scenarios, 62 plus test cases, 282 execution results, 6 demo users" width="100%">
+</p>
 
-## SELECTED QA WORK
+- **47** test scenarios
+- **62+** test cases
+- **282** execution results
+- **6** demo users tested
+- Requirements → Scenarios → Test Cases → Execution → Defect → Fix → Retest → Verification
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment&v=qa-recruiter-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=kalpshahtester&theme=github-dark&repos=kalpshahtester%2FManual-Testing-Project-saucedemo-website%2Ckalpshahtester%2FMakeMyTrip-Testing-Assessment&v=qa-recruiter-projects-2&mode=dark" width="100%" alt="Kalp Shah selected QA projects" />
-</picture>
+## SELECTED QA PROJECTS
 
-### 🛒 SauceDemo
-<strong>Manual e-commerce testing</strong> · Functional · UI · Regression · Negative Testing
+### 🛒 SauceDemo — Manual Testing Project
 
-47 test scenarios · 62+ test cases · 282 execution results · RTM · bug reports · 6 demo users.
+**Functional · UI · Regression · Negative Testing**
 
-<a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website">View project →</a>
+47 test scenarios · 62+ test cases · 282 execution results · RTM · bug reports · test summary.
 
-### ✈️ MakeMyTrip
-<strong>Travel website testing assessment</strong> · Functional · UI · Validation · Negative Testing
+**Evidence:** [Test Cases](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases) · [Bug Reports](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report) · [RTM](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM) · [Execution](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/05_Execution_Results)
 
-Login, registration, hotel booking, flight booking, and negative validation.
+### ✈️ MakeMyTrip — Testing Assessment
 
-<a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment">View project →</a>
+**Functional · UI · Validation · Negative Testing**
 
+Login, registration, hotel booking, flight booking and negative validation.
+
+[View project →](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
 
 ## 🔄 QA PIPELINE
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 720px)" srcset="./assets/qa-pipeline-mobile.svg">
+    <img src="./assets/qa-pipeline.svg" alt="QA pipeline: Test, Find, Reproduce, Report, Fix, Retest, Verify" width="100%">
+  </picture>
+</p>
 
-<picture>
-  <source media="(max-width: 720px)" srcset="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline-mobile.svg">
-  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-pipeline.gif" width="100%" alt="QA pipeline: Test, Find, Reproduce, Report, Fix, Retest, Verify" />
-</picture>
+**TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY**
 
-<sub>📱 Narrow screens use the static SVG; larger screens use the animated GIF.</sub>
-
-### `TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY`
-
-</div>
-
-### Defect Report Structure
+### Defect report structure
 
 `Bug ID` → `Module/Page` → `Summary` → `Steps` → `Expected` → `Actual` → `Severity` → `Priority` → `Status` → `Environment` → `Evidence` → `Retest`
 
-## 🐞 QA EVIDENCE
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-<strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases">Test Cases</a></strong><br/>
-<sub>62+ functional · UI · regression · negative cases</sub>
-</td>
-<td width="50%" valign="top" align="center">
-<strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM">RTM</a></strong><br/>
-<sub>Requirements → Scenarios → Test Cases → Execution</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report">Bug Reports</a></strong><br/>
-<sub>Bug ID · Severity · Priority · Steps · Expected/Actual</sub>
-</td>
-<td width="50%" valign="top" align="center">
-<strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/05_Execution_Results">Retesting</a></strong><br/>
-<sub>Execution evidence · regression / retest validation</sub>
-</td>
-</tr>
-</table>
-
-<p><strong><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/08_Final_Summary">Test Summary</a>:</strong> final testing outcome, coverage, defects, and reporting evidence.</p>
-
-<p><strong>Evidence flow:</strong> Requirement → Scenario → Test Case → Execution → Defect → Fix → Retest → Verification</p>
-
-## 🌐 WEB + SEO QA
+## 🌐 WEB + WORDPRESS + SEO QA
 
 ### Web QA
-
 `Navigation` · `User Journeys` · `Forms` · `Validation` · `Buttons` · `Links` · `Error Messages` · `Responsive` · `Cross-Browser` · `Broken Links` · `Images`
 
-### SEO QA
-
-`Meta Title` · `Meta Description` · `URL / Slug` · `Headings` · `Alt Text` · `Canonical` · `Robots` · `Open Graph` · `Twitter Cards` · `Internal Links` · `External Links` · `Schema` · `Viewport` · `Language`
-
 ### WordPress QA
-
 `Content` → `UI / Layout` → `Responsive` → `Links / Media` → `SEO` → `Performance` → `Defects` → `Retest`
 
-## 🛠️ TECHNICAL TOOLKIT
+### SEO QA
+`Meta Title` · `Meta Description` · `URL / Slug` · `Headings` · `Alt Text` · `Canonical` · `Robots` · `Open Graph` · `Twitter Cards` · `Internal Links` · `External Links` · `Schema` · `Viewport` · `Language`
+
+## 📱 RESPONSIVE QA MATRIX
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kalpshahtester&theme=github-dark&v=qa-recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=kalpshahtester&theme=github-dark&v=qa-recruiter-stack-1&mode=dark" width="100%" alt="Kalp Shah technology stack" />
-</picture>
+  <picture>
+    <source media="(max-width: 720px)" srcset="./assets/responsive-matrix-mobile.svg">
+    <img src="./assets/responsive-matrix.svg" alt="Responsive QA viewport matrix from mobile to 4K" width="100%">
+  </picture>
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center"><strong>QA</strong><br/><sub>Manual · Functional · UI · Regression Testing</sub></td>
-<td width="50%" valign="top" align="center"><strong>Responsive</strong><br/><sub>Mobile · Tablet · Desktop Viewports</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center"><strong>Web</strong><br/><sub>WordPress · Chrome DevTools · Lighthouse</sub></td>
-<td width="50%" valign="top" align="center"><strong>Collaboration</strong><br/><sub>ClickUp · Slack · Sheets · GitHub</sub></td>
-</tr>
-</table>
+| Class | Reference viewport |
+|---|---:|
+| Small mobile | 320×568 |
+| Android | 360×800 |
+| Large Android | 412×915 |
+| iPhone | 390×844 |
+| Large iPhone | 430×932 |
+| Folded | 280×653 |
+| Unfolded | 540×720 |
+| Tablet | 768×1024 |
+| iPad Pro | 1024×1366 |
+| Laptop | 1366×768 |
+| Desktop | 1920×1080 |
+| Ultrawide | 3440×1440 |
+| 4K | 3840×2160 |
+
+## 🛠️ QA TOOLKIT
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 720px)" srcset="./assets/testing-stack-mobile.svg">
+    <img src="./assets/testing-stack.svg" alt="Manual QA toolkit and workflow stack" width="100%">
+  </picture>
+</p>
+
+**QA:** Manual Testing · Functional · UI · Regression · Retesting · Bug Reporting · RTM · Test Documentation
+
+**Web:** WordPress · Chrome DevTools · Lighthouse · Responsive Testing · Cross-Browser Testing
+
+**Collaboration:** ClickUp · Slack · Google Sheets · GitHub
+
+**Quality checks:** SEO · Accessibility checks · Broken links · Content validation · Performance checks
 
 ## 💼 PROFESSIONAL QA EXPERIENCE
 
 ### Manual QA Engineer
 
-Hands-on web and WordPress testing focused on **functional quality, UI consistency, responsive behavior, SEO validation, and defect verification**.
+Hands-on web and WordPress testing focused on **functional quality, UI consistency, responsive behavior, SEO validation and defect verification**.
 
-**Core QA Work**
-
-- Test web and WordPress pages, workflows, forms, links, and UI components.
-- Validate responsive behavior across mobile, tablet, laptop, and desktop.
-- Identify, reproduce, document, and track defects with clear evidence.
+- Test web and WordPress pages, workflows, forms, links and UI components.
+- Validate responsive behavior across mobile, tablet, laptop and desktop.
+- Identify, reproduce, document and track defects with clear evidence.
 - Perform regression testing and retesting after fixes.
-- Maintain test cases, bug reports, RTM, execution results, and test summaries.
+- Maintain test cases, bug reports, RTM, execution results and test summaries.
 - Collaborate with developers through structured QA workflows.
-
-**QA Workflow**
-
-`Test → Reproduce → Report → Fix → Retest → Verify`
 
 ## 🎓 BACKGROUND + QA TRAINING
 
 **Diploma in Information Technology — 3 Years**  
 Dr. S. & S. S. Gandhi College of Engineering & Technology
 
-**Software Testing Training**
-
+**Software Testing:**  
 `SDLC` · `STLC` · `Test Planning` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `Regression` · `QA Reporting`
 
-## 📊 GITHUB STATS
+## ⚙️ PROFILE ENGINEERING
+
+This profile is intentionally built like a small QA product:
+
+- Repo-hosted SVG assets instead of depending on a third-party profile image service.
+- Dedicated mobile fallbacks for narrow GitHub layouts.
+- Automated 3D contribution generation through GitHub Actions.
+- Automated profile QA that checks required sections, assets and critical links.
+- A single source of truth in this repository for the visual system.
+
+### Automated profile checks
+
+The `profile-qa.yml` workflow validates:
+
+1. README presence and required sections.
+2. Every local SVG referenced by the README.
+3. SVG/XML well-formedness.
+4. Critical external project and portfolio links.
+5. Mobile fallback assets.
+6. Workflow files and required action configuration.
+
+## 📊 3D CONTRIBUTION PROFILE
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&v=qa-recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=kalpshahtester&theme=github-dark&v=qa-recruiter-stats-1&mode=dark" width="100%" alt="Kalp Shah GitHub proof metrics" />
-</picture>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Kalp Shah 3D GitHub contribution profile" width="100%">
 </p>
 
-## 📈 GITHUB ACTIVITY
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kalpshahtester&theme=github-dark&v=qa-recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=kalpshahtester&theme=github-dark&v=qa-recruiter-heatmap-1&mode=dark" width="100%" alt="Kalp Shah GitHub contribution activity" />
-</picture>
+  <sub>Generated automatically every day by GitHub Actions from the public contribution graph.</sub>
 </p>
 
 ## 📫 CONTACT
 
-<div align="center">
-
-<h2>Let's build reliable web experiences</h2>
-
-<p>Open to Manual QA opportunities and web quality challenges.</p>
-
-<p>
-<a href="https://kalpshahtester.github.io/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/kalpshahtester">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">Resume</a>
+<p align="center">
+  <strong>Let's build reliable web experiences.</strong><br><br>
+  <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a> ·
+  <a href="https://github.com/kalpshahtester">GitHub</a> ·
+  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">Resume</a>
 </p>
 
-<sub>Kalp Shah · Manual QA Engineer · Web QA · WordPress QA · SEO QA</sub>
-
-</div>
+<p align="center">
+  <sub>Kalp Shah · Manual QA Engineer · Web QA · WordPress QA · SEO QA</sub>
+</p>

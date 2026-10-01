@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Kalp Shah — Manual QA Engineer</title>
+  <desc id="desc">Kalp Shah Manual QA Engineer profile visual.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151b2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  
+  <rect width="720" height="980" rx="28" fill="url(#bg)"/>
+  <circle cx="590" cy="120" r="190" fill="#58a6ff" opacity=".07"/>
+  <text x="48" y="80" fill="#8b949e" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">QA PROFILE / 2026</text>
+  <text x="48" y="160" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="48" font-weight="700">Kalp Shah</text>
+  <text x="48" y="205" fill="#58a6ff" font-family="Arial,sans-serif" font-size="24" font-weight="700">MANUAL QA ENGINEER</text>
+  <text x="48" y="254" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="18">Web · WordPress · Functional</text>
+  <text x="48" y="284" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="18">UI · Responsive · SEO · Regression</text>
+  <rect x="48" y="340" width="624" height="120" rx="16" fill="#161b22" stroke="#30363d"/>
+  <text x="72" y="375" fill="#8b949e" font-family="monospace" font-size="15">$ qa.run()</text>
+  <text x="72" y="412" fill="#f0f6fc" font-family="monospace" font-size="17">find → reproduce → report</text>
+  <text x="72" y="438" fill="#f0f6fc" font-family="monospace" font-size="17">fix → retest → verify</text>
+  <g transform="translate(48 530)">
+    <rect width="624" height="280" rx="20" fill="#0d1117" stroke="#30363d"/>
+    <path d="M60 90h500M60 145h430M60 200h320" stroke="#8b949e" stroke-width="14" stroke-linecap="round" opacity=".6"/>
+    <circle cx="530" cy="215" r="24" fill="none" stroke="#3fb950" stroke-width="6">
+      <animate attributeName="r" values="18;28;18" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="48" y="895" fill="#8b949e" font-family="Arial,sans-serif" font-size="17">Finding defects before they reach users.</text>
+
+</svg>
