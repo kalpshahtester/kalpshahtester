@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 720px)" srcset="./assets/qa-release-control-mobile.svg">
-    <img src="./assets/qa-release-control.svg" alt="Kalp Shah — Manual QA Engineer | QA Release Control showing PASS, FAIL, RETEST and VERIFIED states" width="100%">
+    <source media="(max-width: 720px)" srcset="./assets/qa-release-lab-hero-mobile.svg">
+    <img src="./assets/qa-release-lab-hero.svg" alt="Kalp Shah QA Release Lab — Manual QA Engineer release gate" width="100%">
   </picture>
 </p>
 
@@ -13,38 +13,85 @@
 </p>
 
 <p align="center">
-  <strong>QA release gate:</strong> PASS → FAIL → RETEST → VERIFIED
-</p>
-
-<p align="center">
   <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a> ·
   <a href="https://github.com/kalpshahtester">GitHub</a> ·
   <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">Resume</a>
 </p>
 
+> **QA Release Gate:** PASS → FAIL → RETEST → VERIFIED  
+> **Design language:** engineering inspection sheet · release control · software quality lab
+
 ---
 
-## QA COMMAND CENTER
+## QA SNAPSHOT / K-01
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 720px)" srcset="./assets/qa-command-center-mobile.svg">
-    <img src="./assets/qa-command-center.svg" alt="QA command center showing testing scope and evidence" width="100%">
-  </picture>
+  <img src="./assets/qa-lab-snapshot.svg" alt="QA Snapshot showing Kalp Shah's manual QA role, web testing specialty, WordPress environment and release QA focus" width="100%">
 </p>
 
-| Area | What I validate |
+### What I validate
+
+| Area | Validation focus |
 |---|---|
 | **Functional QA** | User journeys, forms, validation, navigation, buttons, links and error handling |
 | **UI QA** | Layout, spacing, typography, components, visual consistency and content |
 | **Responsive QA** | Mobile, tablet, laptop, desktop and edge viewport behavior |
-| **WordPress QA** | Pages, templates, blogs, media, content, links, plugins/theme behavior and regression |
+| **WordPress QA** | Pages, templates, blogs, media, content, links, theme/plugin behavior and regression |
 | **SEO QA** | Metadata, headings, canonical, robots, schema, Open Graph, links, images and viewport |
 | **Regression QA** | Fix verification, impacted-area checks and release confidence |
 | **Evidence** | Test cases, execution results, bug reports, RTM and test summaries |
 
-## QA PROOF
+---
+
+## QA CASE FILES
+
+### CASE / SD-001 — SauceDemo
+
+**Functional · UI · Regression · Negative Testing**
+
+47 test scenarios · 62+ test cases · 282 execution results · RTM · bug reports · test summary.
+
+**Evidence:** [Test Cases](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases) · [Bug Reports](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report) · [RTM](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM) · [Execution](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/05_Execution_Results)
+
+### CASE / MM-002 — MakeMyTrip
+
+**Functional · UI · Validation · Negative Testing**
+
+Login, registration, hotel booking, flight booking and negative validation.
+
+[View project →](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
+
+---
+
+## RELEASE PIPELINE
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 720px)" srcset="./assets/qa-pipeline-mobile.svg">
+    <img src="./assets/qa-pipeline.svg" alt="QA release pipeline from test discovery through verification" width="100%">
+  </picture>
+</p>
+
+**DISCOVER → EXECUTE → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY**
+
+The QA gate is not complete when a developer fixes a defect. It is complete when the fix is **retested and verified**.
+
+---
+
+## DEFECT INTELLIGENCE
+
+<p align="center">
+  <img src="./assets/defect-intelligence.svg" alt="Defect intelligence workflow from discovery through verification" width="100%">
+</p>
+
+### Defect report structure
+
+`Bug ID` → `Module/Page` → `Summary` → `Steps` → `Expected` → `Actual` → `Severity` → `Priority` → `Status` → `Environment` → `Evidence` → `Retest`
+
+---
+
+## QA EVIDENCE / EXECUTION PROOF
 
 <p align="center">
   <img src="./assets/qa-evidence.svg" alt="QA evidence metrics: 47 scenarios, 62 plus test cases, 282 execution results, 6 demo users" width="100%">
@@ -56,40 +103,13 @@
 - **6** demo users tested
 - Requirements → Scenarios → Test Cases → Execution → Defect → Fix → Retest → Verification
 
-## SELECTED QA PROJECTS
-
-### 🛒 SauceDemo — Manual Testing Project
-
-**Functional · UI · Regression · Negative Testing**
-
-47 test scenarios · 62+ test cases · 282 execution results · RTM · bug reports · test summary.
-
-**Evidence:** [Test Cases](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases) · [Bug Reports](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report) · [RTM](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM) · [Execution](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/05_Execution_Results)
-
-### ✈️ MakeMyTrip — Testing Assessment
-
-**Functional · UI · Validation · Negative Testing**
-
-Login, registration, hotel booking, flight booking and negative validation.
-
-[View project →](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
-
-## 🔄 QA PIPELINE
-
 <p align="center">
-  <picture>
-    <source media="(max-width: 720px)" srcset="./assets/qa-pipeline-mobile.svg">
-    <img src="./assets/qa-pipeline.svg" alt="QA pipeline: Test, Find, Reproduce, Report, Fix, Retest, Verify" width="100%">
-  </picture>
+  <img src="./assets/qa-inspection-stamp.svg" alt="QA Verified inspection stamp" width="220">
 </p>
 
-**TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY**
+---
 
-### Defect report structure
-
-`Bug ID` → `Module/Page` → `Summary` → `Steps` → `Expected` → `Actual` → `Severity` → `Priority` → `Status` → `Environment` → `Evidence` → `Retest`
-
-## 🌐 WEB + WORDPRESS + SEO QA
+## WEB + WORDPRESS + SEO QA
 
 ### Web QA
 `Navigation` · `User Journeys` · `Forms` · `Validation` · `Buttons` · `Links` · `Error Messages` · `Responsive` · `Cross-Browser` · `Broken Links` · `Images`
@@ -100,7 +120,9 @@ Login, registration, hotel booking, flight booking and negative validation.
 ### SEO QA
 `Meta Title` · `Meta Description` · `URL / Slug` · `Headings` · `Alt Text` · `Canonical` · `Robots` · `Open Graph` · `Twitter Cards` · `Internal Links` · `External Links` · `Schema` · `Viewport` · `Language`
 
-## 📱 RESPONSIVE QA MATRIX
+---
+
+## RESPONSIVE QA MATRIX
 
 <p align="center">
   <picture>
@@ -125,16 +147,15 @@ Login, registration, hotel booking, flight booking and negative validation.
 | Ultrawide | 3440×1440 |
 | 4K | 3840×2160 |
 
-## 🛠️ QA TOOLKIT
+---
+
+## LAB EQUIPMENT / TESTING STACK
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 720px)" srcset="./assets/testing-stack-mobile.svg">
-    <img src="./assets/testing-stack.svg" alt="Manual QA toolkit and workflow stack" width="100%">
-  </picture>
+  <img src="./assets/lab-equipment.svg" alt="QA lab equipment showing test management, web inspection and quality checks" width="100%">
 </p>
 
-**QA:** Manual Testing · Functional · UI · Regression · Retesting · Bug Reporting · RTM · Test Documentation
+**Core QA:** Manual Testing · Functional · UI · Regression · Retesting · Bug Reporting · RTM · Test Documentation
 
 **Web:** WordPress · Chrome DevTools · Lighthouse · Responsive Testing · Cross-Browser Testing
 
@@ -142,7 +163,9 @@ Login, registration, hotel booking, flight booking and negative validation.
 
 **Quality checks:** SEO · Accessibility checks · Broken links · Content validation · Performance checks
 
-## 💼 PROFESSIONAL QA EXPERIENCE
+---
+
+## PROFESSIONAL QA EXPERIENCE
 
 ### Manual QA Engineer
 
@@ -155,7 +178,9 @@ Hands-on web and WordPress testing focused on **functional quality, UI consisten
 - Maintain test cases, bug reports, RTM, execution results and test summaries.
 - Collaborate with developers through structured QA workflows.
 
-## 🎓 BACKGROUND + QA TRAINING
+---
+
+## BACKGROUND + QA TRAINING
 
 **Diploma in Information Technology — 3 Years**  
 Dr. S. & S. S. Gandhi College of Engineering & Technology
@@ -163,15 +188,18 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 **Software Testing:**  
 `SDLC` · `STLC` · `Test Planning` · `Test Design` · `Test Execution` · `Defect Life Cycle` · `RTM` · `Regression` · `QA Reporting`
 
-## ⚙️ PROFILE ENGINEERING
+---
+
+## PROFILE ENGINEERING
 
 This profile is intentionally built like a small QA product:
 
-- Repo-hosted SVG assets instead of depending on a third-party profile image service.
-- Dedicated mobile fallbacks for narrow GitHub layouts.
+- Repo-hosted SVG assets with a consistent **QA Release Lab** visual language.
+- Dedicated mobile compositions for narrow GitHub layouts.
+- Reusable inspection-grid, status, test-ID and release-gate motifs.
 - Automated 3D contribution generation through GitHub Actions.
 - Automated profile QA that checks required sections, assets and critical links.
-- A single source of truth in this repository for the visual system.
+- A single repository as the source of truth for the profile's visual system.
 
 ### Automated profile checks
 
@@ -184,7 +212,9 @@ The `profile-qa.yml` workflow validates:
 5. Mobile fallback assets.
 6. Workflow files and required action configuration.
 
-## 📊 3D CONTRIBUTION PROFILE
+---
+
+## GITHUB ACTIVITY
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="Kalp Shah 3D GitHub contribution profile" width="100%">
@@ -194,10 +224,16 @@ The `profile-qa.yml` workflow validates:
   <sub>Generated automatically every day by GitHub Actions from the public contribution graph.</sub>
 </p>
 
-## 📫 CONTACT
+---
+
+## RELEASE STATUS
 
 <p align="center">
-  <strong>Let's build reliable web experiences.</strong><br><br>
+  <img src="./assets/qa-inspection-stamp.svg" alt="QA Verified inspection stamp" width="220">
+</p>
+
+<p align="center">
+  <strong>OPEN FOR NEW TEST CASES</strong><br><br>
   <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a> ·
   <a href="https://github.com/kalpshahtester">GitHub</a> ·
@@ -205,5 +241,5 @@ The `profile-qa.yml` workflow validates:
 </p>
 
 <p align="center">
-  <sub>Kalp Shah · Manual QA Engineer · Web QA · WordPress QA · SEO QA</sub>
+  <sub>QA RELEASE LAB / KALP SHAH / MANUAL QA ENGINEER / WEB QUALITY</sub>
 </p>

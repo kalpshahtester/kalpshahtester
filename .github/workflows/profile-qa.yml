@@ -24,16 +24,15 @@ jobs:
 
           required=(
             "README.md"
-            "assets/qa-hero.svg"
-            "assets/qa-hero-mobile.svg"
-            "assets/qa-command-center.svg"
-            "assets/qa-command-center-mobile.svg"
+            "assets/qa-release-lab-hero.svg"
+            "assets/qa-release-lab-hero-mobile.svg"
+            "assets/qa-lab-snapshot.svg"
+            "assets/defect-intelligence.svg"
+            "assets/lab-equipment.svg"
+            "assets/qa-inspection-stamp.svg"
             "assets/qa-evidence.svg"
-            "assets/qa-evidence-mobile.svg"
             "assets/qa-pipeline.svg"
             "assets/qa-pipeline-mobile.svg"
-            "assets/testing-stack.svg"
-            "assets/testing-stack-mobile.svg"
             "assets/responsive-matrix.svg"
             "assets/responsive-matrix-mobile.svg"
             ".github/workflows/profile-3d.yml"
@@ -48,7 +47,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          for heading in             "QA COMMAND CENTER"             "QA PROOF"             "SELECTED QA PROJECTS"             "QA PIPELINE"             "WEB + WORDPRESS + SEO QA"             "RESPONSIVE QA MATRIX"             "QA TOOLKIT"             "PROFESSIONAL QA EXPERIENCE"             "PROFILE ENGINEERING"; do
+          for heading in             "QA SNAPSHOT / K-01"             "QA CASE FILES"             "RELEASE PIPELINE"             "DEFECT INTELLIGENCE"             "QA EVIDENCE / EXECUTION PROOF"             "WEB + WORDPRESS + SEO QA"             "RESPONSIVE QA MATRIX"             "LAB EQUIPMENT / TESTING STACK"             "PROFESSIONAL QA EXPERIENCE"             "PROFILE ENGINEERING"; do
             grep -q "$heading" README.md || { echo "Missing README section: $heading"; exit 1; }
           done
 
