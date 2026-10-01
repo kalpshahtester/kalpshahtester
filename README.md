@@ -5,7 +5,7 @@
     <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
     <img
       src="./assets/qa-release-control.svg"
-      alt="Kalp Shah — Manual QA Engineer. Release control with PASS, FAIL, RETEST and VERIFIED states."
+      alt="Kalp Shah — Manual QA Engineer. QA release control from testing through verification."
       width="100%"
     >
   </picture>
@@ -13,30 +13,48 @@
 
 <table>
 <tr>
-<td width="150" align="center" valign="middle">
-  <img src="https://avatars.githubusercontent.com/u/219259317?v=4" alt="Kalp Shah profile photo" width="128">
+<td width="190" align="center" valign="middle">
+  <img
+    src="https://avatars.githubusercontent.com/u/219259317?v=4"
+    alt="Kalp Shah profile photo"
+    width="150"
+  >
 </td>
 <td valign="middle">
-  <strong>Manual QA Engineer focused on real web quality.</strong><br><br>
-  Manual QA · Web · WordPress · UI · Responsive · SEO<br>
-  I test real user journeys, uncover defects, and verify fixes before release.
+
+### MANUAL QA ENGINEER
+
+**Web Testing · WordPress QA · Bug Reporting · Regression · Release Verification**
+
+I test real user journeys, reproduce defects, document clear evidence, and verify fixes before release.
+
+**Core focus:** Functional QA · UI QA · Responsive QA · WordPress QA · Content/SEO QA
+
+<p>
+  <a href="https://kalpshahtester.github.io/"><strong>PORTFOLIO →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><strong>LINKEDIN →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><strong>RESUME →</strong></a>
+</p>
+
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://kalpshahtester.github.io/"><strong>PORTFOLIO</strong></a> ·
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><strong>LINKEDIN</strong></a> ·
-  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><strong>RESUME</strong></a>
+  <img
+    src="./assets/hero/kalp-qa-release-animation.gif"
+    alt="QA workflow animation showing Test, Find, Reproduce, Report, Fix, Retest and Verify."
+    width="430"
+  >
 </p>
 
 <p align="center">
-  <img
-    src="./assets/hero/kalp-qa-release-animation.gif"
-    alt="Animated QA release loop featuring Kalp Shah and the testing stages Test, Find, Reproduce, Report, Fix, Retest and Verified."
-    width="360"
-  >
+  <strong>TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY</strong>
 </p>
+
+---
 
 ---
 
