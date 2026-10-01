@@ -2,10 +2,10 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/hero/hero-mobile.svg">
+    <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
     <img
-      src="./assets/hero/hero-desktop.svg"
-      alt="Kalp Shah — Manual QA Engineer. QA release-control overview."
+      src="./assets/qa-release-control.svg"
+      alt="Kalp Shah — Manual QA Engineer. Release control with PASS, FAIL, RETEST and VERIFIED states."
       width="100%"
     >
   </picture>
@@ -13,46 +13,63 @@
 
 <p align="center">
   <strong>Manual QA · Web · WordPress · UI · Responsive · SEO</strong><br>
-  I test user journeys, uncover defects, and verify fixes before release.
+  I test real user journeys, uncover defects, and verify fixes before release.
 </p>
 
 <p align="center">
-  <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a> ·
-  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf">Resume</a>
+  <a href="https://kalpshahtester.github.io/"><strong>PORTFOLIO</strong></a> ·
+  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><strong>LINKEDIN</strong></a> ·
+  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><strong>RESUME</strong></a>
 </p>
 
 ---
 
-## WHAT I DO
+## QA, WITH EVIDENCE
 
-**Web quality from first check to verified release.**
+I focus on **finding, reproducing, documenting, and verifying** defects across web experiences.
 
-Functional workflows · UI consistency · Responsive behavior · WordPress/content QA · SEO/accessibility checks · Defect reporting · Regression · Retesting
+**Functional QA** · **UI QA** · **Responsive QA** · **WordPress QA** · **Content QA** · **SEO QA** · **Regression**
 
 ---
 
 ## SELECTED QA CASE STUDIES
 
-### 01 / SauceDemo
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / SAUCEDEMO
 
 **E-commerce workflow QA**
 
-**47 test scenarios · 62+ test cases · 282 execution results**
+**47** test scenarios  
+**62+** test cases  
+**282** execution results
 
 Login · Products · Cart · Checkout · Negative testing · Regression
 
-[**Test Cases**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases) · [**Bug Reports**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report) · [**RTM**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM)
+[View test cases →](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases)
 
-### 02 / MakeMyTrip
+[View bug reports →](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / MAKEMYTRIP
 
 **Travel booking workflow QA**
 
 Login · Registration · Hotel booking · Flight booking · Validation · Negative testing
 
-[**View project →**](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
+Focus: **workflow coverage, validation, and negative-path testing**
 
-### 03 / WordPress Web QA
+[View project →](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
+
+</td>
+</tr>
+</table>
+
+### 03 / WORDPRESS WEB QA
 
 **Real-world website quality checks**
 
@@ -67,7 +84,7 @@ Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO �
     <source media="(max-width: 600px)" srcset="./assets/process/qa-process-mobile.svg">
     <img
       src="./assets/process/qa-process.svg"
-      alt="QA process: Test, Find, Reproduce, Report, Fix, Retest, Verify."
+      alt="QA workflow: Test, Find, Reproduce, Report, Fix, Retest, Verify."
       width="100%"
     >
   </picture>
@@ -77,27 +94,42 @@ Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO �
   <strong>TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY</strong>
 </p>
 
-I work evidence-first: reproduce the issue, document the impact, verify the fix, and regression-check the affected area.
+**Evidence-first QA:** reproduce the issue → capture clear evidence → report the impact → retest the fix → regression-check the affected area.
+
+---
+
+## QA EVIDENCE
+
+<p align="center">
+  <img
+    src="./assets/qa-evidence.svg"
+    alt="QA evidence workflow showing reproducible testing evidence."
+    width="100%"
+  >
+</p>
+
+**What I care about:** clear reproduction steps, expected vs actual behavior, useful screenshots, accurate severity/priority, and verified fixes.
 
 ---
 
 ## TOOLKIT
 
-**QA:** Manual Testing · Test Cases · Bug Reporting · RTM · Regression · Retesting
-
-**Web:** WordPress · Chrome DevTools · Lighthouse · Responsive Testing
-
-**Workflow:** ClickUp · Slack · Google Sheets · GitHub
-
-**Quality:** SEO · Accessibility Checks · Broken Links · Content Validation · Performance Checks
+| QA | Web | Workflow |
+|---|---|---|
+| Manual Testing | WordPress | ClickUp |
+| Test Cases | Chrome DevTools | Slack |
+| Bug Reporting | Lighthouse | Google Sheets |
+| RTM | Responsive Testing | GitHub |
+| Regression | SEO Checks | Documentation |
+| Retesting | Accessibility Checks | Evidence Capture |
 
 ---
 
 ## EXPERIENCE
 
-**Manual QA Engineer**
+### Manual QA Engineer
 
-Web and WordPress testing focused on functional quality, UI consistency, responsive behavior, SEO validation, defect verification and release confidence.
+Web and WordPress testing focused on functional quality, UI consistency, responsive behavior, SEO validation, defect verification, regression, and release confidence.
 
 ---
 
@@ -110,7 +142,7 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 
 ## LET'S CONNECT
 
-Interested in web quality, QA collaboration, or testing opportunities?
+**Building or improving a web product? I can help test the experience before it reaches users.**
 
 <p align="center">
   <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
@@ -120,5 +152,5 @@ Interested in web quality, QA collaboration, or testing opportunities?
 </p>
 
 <p align="center">
-  <sub>Manual QA Engineer · Web QA · WordPress QA</sub>
+  <sub>MANUAL QA ENGINEER · WEB QA · WORDPRESS QA · RELEASE QUALITY</sub>
 </p>
