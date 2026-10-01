@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout profile
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -28,8 +30,27 @@ jobs:
       - name: Generate animation
         run: python scripts/generate_bug_to_verified.py
 
-      - name: Commit generated animation
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "Generate bug-to-verified QA animation"
-          file_pattern: assets/process/bug-to-verified.gif
+      - name: Commit and push generated animation
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            git add assets/process/bug-to-verified.gif
+            if git diff --cached --quiet; then
+              echo "Animation is already up to date."
+              exit 0
+            fi
+            git commit -m "Generate bug-to-verified QA animation"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            git reset --soft HEAD~1
+          done
+
+          echo "Could not push generated animation after 3 attempts."
+          exit 1
