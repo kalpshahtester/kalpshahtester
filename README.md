@@ -3,13 +3,13 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/hero/hero-mobile.svg">
-    <img src="./assets/hero/hero-desktop.svg" alt="Kalp Shah — Manual QA Engineer" width="100%">
+    <img src="./assets/hero/hero-desktop.svg" alt="Kalp Shah — Manual QA Engineer. QA release-control overview." width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <strong>Web QA · WordPress · Functional · UI · Responsive · SEO</strong><br>
-  I test web experiences, find defects, and verify fixes before release.
+  <strong>Manual QA · Web · WordPress · UI · Responsive · SEO</strong><br>
+  I test user journeys, uncover defects, and verify fixes before release.
 </p>
 
 <p align="center">
@@ -20,16 +20,11 @@
 
 ---
 
-## QA AT A GLANCE
+## WHAT I DO
 
-**Manual QA Engineer** focused on web and WordPress quality.
+**Web quality from first check to verified release.**
 
-**What I test**
-- Functional workflows and UI behavior
-- Responsive layouts and cross-browser behavior
-- WordPress pages, blogs and forms
-- SEO, accessibility and content quality
-- Defects, regression, retesting and release verification
+Functional workflows · UI consistency · Responsive behavior · WordPress/content QA · SEO/accessibility checks · Defect reporting · Regression · Retesting
 
 ---
 
@@ -61,18 +56,17 @@ Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO �
 ## HOW I TEST
 
 <p align="center">
-  <img src="./assets/process/qa-process.svg" alt="QA process: Test, Find, Reproduce, Report, Fix, Retest, Verify" width="100%">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/process/qa-process-mobile.svg">
+    <img src="./assets/process/qa-process.svg" alt="QA process: Test, Find, Reproduce, Report, Fix, Retest, Verify." width="100%">
+  </picture>
 </p>
 
-<p align="center">
-  <strong>TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY</strong>
-</p>
-
-I focus on reproducible defects, clear evidence, impacted-area regression, and verification after fixes.
+I work evidence-first: reproduce the issue, document the impact, verify the fix, and regression-check the affected area.
 
 ---
 
-## TOOLS
+## TOOLKIT
 
 **QA:** Manual Testing · Test Cases · Bug Reporting · RTM · Regression · Retesting
 
@@ -109,5 +103,5 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 </p>
 
 <p align="center">
-  <sub>Manual QA Engineer · Web QA · WordPress QA · SEO QA</sub>
+  <sub>Manual QA Engineer · Web QA · WordPress QA</sub>
 </p>

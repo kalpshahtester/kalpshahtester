@@ -3,7 +3,7 @@ name: Profile QA
 on:
   workflow_dispatch:
   push:
-    branches: [main, profile-v2, recruiter-profile-v4]
+    branches: [main, profile-v2, recruiter-profile-v4, profile-design-v5]
   pull_request:
     branches: [main]
 
@@ -55,6 +55,8 @@ jobs:
           grep -q "LET'S CONNECT" README.md
           grep -q "assets/hero/hero-desktop.svg" README.md
           grep -q "assets/process/qa-process.svg" README.md
+          grep -q "assets/hero/hero-mobile.svg" README.md
+          grep -q "assets/process/qa-process-mobile.svg" README.md
 
       - name: Validate SVG/XML
         shell: bash
