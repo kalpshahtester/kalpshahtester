@@ -49,9 +49,7 @@ for active in range(len(steps)):
     for index, (label, accent) in enumerate(steps):
         x = left + index * (box_width + gap)
         is_active = index == active
-        fill = accent if is_active else (236, 238, 232)
-        outline = accent if is_active else (190, 195, 188)
-        text_color = (255, 255, 255) if is_active else GRAPHITE
+        # Keep intermediate states quiet; make VERIFIED the only strong terminal state.\n        is_verified = index == len(steps) - 1\n        fill = GREEN if is_verified else ((229, 232, 226) if is_active else (236, 238, 232))\n        outline = GREEN if is_verified else ((180, 187, 179) if is_active else (205, 209, 202))\n        text_color = (255, 255, 255) if is_verified else GRAPHITE
 
         draw.rounded_rectangle(
             (x, y, x + box_width, y + 38),
@@ -85,7 +83,7 @@ frames[0].save(
     output,
     save_all=True,
     append_images=frames[1:],
-    duration=[650] * 5 + [1400],
+    duration=[1200] * 5 + [3000],
     loop=0,
     optimize=True,
 )
