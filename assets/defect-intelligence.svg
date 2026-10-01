@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#F4F4EF"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="34" y="40" font-size="15" font-weight="700" letter-spacing="3" fill="#171A17">DEFECT INTELLIGENCE</text><text x="1166" y="40" text-anchor="end" font-family="monospace" font-size="12" fill="#687068">BUG → FIX → VERIFY</text>
+<g stroke="#242824" fill="#fff"><rect x="34" y="72" width="1132" height="126"/><rect x="34" y="224" width="1132" height="160"/></g>
+<g font-family="monospace" font-size="12" fill="#687068"><text x="60" y="102">DISCOVER</text><text x="270" y="102">REPRODUCE</text><text x="485" y="102">DOCUMENT</text><text x="705" y="102">FIX</text><text x="900" y="102">RETEST</text><text x="1070" y="102">VERIFY</text></g>
+<g stroke="#687068" stroke-width="2"><line x1="90" y1="145" x2="250" y2="145"/><line x1="300" y1="145" x2="465" y2="145"/><line x1="520" y1="145" x2="685" y2="145"/><line x1="735" y1="145" x2="885" y2="145"/><line x1="940" y1="145" x2="1080" y2="145"/></g>
+<g><circle cx="60" cy="145" r="10" fill="#C83B32"/><circle cx="270" cy="145" r="10" fill="#C83B32"/><circle cx="485" cy="145" r="10" fill="#B58A16"/><circle cx="705" cy="145" r="10" fill="#316F9E"/><circle cx="900" cy="145" r="10" fill="#B58A16"/><circle cx="1095" cy="145" r="10" fill="#1E7A46"/></g>
+<text x="60" y="260" font-size="12" font-family="monospace" fill="#687068">DEFECT REPORT STRUCTURE</text>
+<text x="60" y="298" font-size="18" font-weight="700" fill="#171A17">BUG ID → MODULE → SUMMARY → STEPS → EXPECTED → ACTUAL</text>
+<text x="60" y="330" font-size="18" font-weight="700" fill="#171A17">SEVERITY → PRIORITY → STATUS → ENVIRONMENT → EVIDENCE → RETEST</text>
+<text x="60" y="364" font-size="13" fill="#687068">A defect is not finished when it is fixed. It is finished when the fix is verified.</text></g></svg>
