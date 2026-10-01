@@ -135,6 +135,16 @@ Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO �
 
 **Evidence-first QA:** reproduce the issue → capture clear evidence → report the impact → retest the fix → regression-check the affected area.
 
+### BUG → VERIFIED
+
+<p align="center">
+  <img
+    src="./assets/process/bug-to-verified.gif"
+    alt="Subtle QA lifecycle animation: defect found, evidence captured, bug reported, fixed, retested, and verified."
+    width="100%"
+  >
+</p>
+
 ---
 
 ## QA EVIDENCE
