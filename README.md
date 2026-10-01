@@ -174,7 +174,7 @@ Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO �
 
 ---
 
-## EXPERIENCE
+<h2>EXPERIENCE</h2>
 
 ### Manual QA Engineer
 
