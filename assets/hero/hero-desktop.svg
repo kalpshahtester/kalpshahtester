@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+<title id="title">Kalp Shah — Manual QA Engineer</title><desc id="desc">Editorial quality assurance portfolio hero with release states and QA focus.</desc>
+<defs>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#D9DDD6" stroke-width="1"/></pattern>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7F7F2"/><stop offset="1" stop-color="#ECEEE8"/></linearGradient>
+</defs>
+<rect width="1600" height="620" rx="28" fill="url(#paper)"/>
+<rect x="28" y="28" width="1544" height="564" rx="20" fill="url(#grid)" opacity=".55"/>
+<rect x="56" y="56" width="1488" height="508" rx="18" fill="#F7F7F2" stroke="#222620" stroke-width="2"/>
+<g font-family="Inter,Arial,sans-serif" fill="#171A17">
+ <text x="92" y="108" font-family="monospace" font-size="16" letter-spacing="3" fill="#687068">QA / RELEASE CONTROL — K-01</text>
+ <text x="92" y="190" font-size="70" font-weight="800" letter-spacing="-3">KALP SHAH</text>
+ <text x="96" y="232" font-family="monospace" font-size="19" letter-spacing="2" fill="#687068">MANUAL QA ENGINEER · WEB QUALITY</text>
+ <text x="96" y="292" font-size="25" font-weight="600">I test web experiences, find defects,</text>
+ <text x="96" y="326" font-size="25" font-weight="600">and verify fixes before release.</text>
+ <text x="96" y="382" font-family="monospace" font-size="14" letter-spacing="2" fill="#687068">CORE / FUNCTIONAL · UI · RESPONSIVE · WORDPRESS · SEO</text>
+</g>
+<g transform="translate(970 92)">
+ <rect width="500" height="390" rx="16" fill="#171A17"/>
+ <text x="30" y="42" font-family="monospace" font-size="13" letter-spacing="2" fill="#AEB8AF">RELEASE GATE / LIVE CHECK</text>
+ <line x1="30" y1="62" x2="470" y2="62" stroke="#3B443D"/>
+ <g font-family="monospace" font-size="14">
+  <rect x="30" y="88" width="200" height="74" rx="10" fill="#203C2D" stroke="#27A66A"/><text x="52" y="118" fill="#8BE3B4">01</text><text x="52" y="143" fill="#F3F6F3" font-size="20">PASS</text>
+  <rect x="250" y="88" width="200" height="74" rx="10" fill="#402624" stroke="#C95A50"/><text x="272" y="118" fill="#FF9B92">02</text><text x="272" y="143" fill="#F3F6F3" font-size="20">FAIL</text>
+  <rect x="30" y="178" width="200" height="74" rx="10" fill="#42371E" stroke="#C99B38"/><text x="52" y="208" fill="#F2CB68">03</text><text x="52" y="233" fill="#F3F6F3" font-size="20">RETEST</text>
+  <rect x="250" y="178" width="200" height="74" rx="10" fill="#203448" stroke="#5B9BD5"/><text x="272" y="208" fill="#9AC8F1">04</text><text x="272" y="233" fill="#F3F6F3" font-size="20">VERIFIED</text>
+ </g>
+ <text x="30" y="300" font-family="monospace" font-size="12" fill="#AEB8AF">EVIDENCE · REPRODUCTION · REGRESSION · FIX VALIDATION</text>
+ <rect x="30" y="326" width="440" height="36" rx="18" fill="#F3F6F3"/><text x="250" y="350" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" fill="#171A17">GATE / READY FOR RELEASE</text>
+</g>
+<g font-family="monospace" font-size="12" fill="#687068">
+ <text x="92" y="512">01 / WEB QA</text><text x="235" y="512">02 / WORDPRESS</text><text x="415" y="512">03 / DEFECT EVIDENCE</text>
+</g>
+</svg>

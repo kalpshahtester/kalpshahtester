@@ -1,7 +1,10 @@
 # Kalp Shah — Manual QA Engineer
 
 <p align="center">
-  <img src="./assets/qa-release-lab-hero.svg" alt="Kalp Shah — Manual QA Engineer" width="100%">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero/hero-mobile.svg">
+    <img src="./assets/hero/hero-desktop.svg" alt="Kalp Shah — Manual QA Engineer" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -21,44 +24,45 @@
 
 **Manual QA Engineer** focused on web and WordPress quality.
 
-- Functional and UI testing
-- Responsive and cross-browser validation
-- WordPress and content QA
-- SEO and accessibility checks
-- Defect reporting, regression and retesting
-- Test cases, RTM, execution results and QA documentation
+**What I test**
+- Functional workflows and UI behavior
+- Responsive layouts and cross-browser behavior
+- WordPress pages, blogs and forms
+- SEO, accessibility and content quality
+- Defects, regression, retesting and release verification
 
 ---
 
 ## SELECTED QA CASE STUDIES
 
-### 01 / SauceDemo — Manual Testing
-
+### 01 / SauceDemo
 **E-commerce workflow QA**
 
-47 test scenarios · 62+ test cases · 282 execution results
+**47 test scenarios · 62+ test cases · 282 execution results**
 
-**Coverage:** Login · Products · Cart · Checkout · Negative testing · Regression
+Login · Products · Cart · Checkout · Negative testing · Regression
 
-**Evidence:** [Test Cases](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases) · [Bug Reports](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report) · [RTM](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM)
+[**Test Cases**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases) · [**Bug Reports**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report) · [**RTM**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM)
 
-### 02 / MakeMyTrip — Testing Assessment
-
+### 02 / MakeMyTrip
 **Travel booking workflow QA**
 
-**Coverage:** Login · Registration · Hotel booking · Flight booking · Validation · Negative testing
+Login · Registration · Hotel booking · Flight booking · Validation · Negative testing
 
-[View project →](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
+[**View project →**](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
 
 ### 03 / WordPress Web QA
-
 **Real-world website quality checks**
 
-**Coverage:** Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO · Regression
+Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO · Regression
 
 ---
 
-## MY QA PROCESS
+## HOW I TEST
+
+<p align="center">
+  <img src="./assets/process/qa-process.svg" alt="QA process: Test, Find, Reproduce, Report, Fix, Retest, Verify" width="100%">
+</p>
 
 <p align="center">
   <strong>TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY</strong>
