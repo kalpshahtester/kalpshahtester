@@ -11,10 +11,18 @@
   </picture>
 </p>
 
-<p align="center">
-  <strong>Manual QA · Web · WordPress · UI · Responsive · SEO</strong><br>
+<table>
+<tr>
+<td width="150" align="center" valign="middle">
+  <img src="https://avatars.githubusercontent.com/u/219259317?v=4" alt="Kalp Shah profile photo" width="128">
+</td>
+<td valign="middle">
+  <strong>Manual QA Engineer focused on real web quality.</strong><br><br>
+  Manual QA · Web · WordPress · UI · Responsive · SEO<br>
   I test real user journeys, uncover defects, and verify fixes before release.
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://kalpshahtester.github.io/"><strong>PORTFOLIO</strong></a> ·
