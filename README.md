@@ -3,7 +3,11 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/hero/hero-mobile.svg">
-    <img src="./assets/hero/hero-desktop.svg" alt="Kalp Shah — Manual QA Engineer. QA release-control overview." width="100%">
+    <img
+      src="./assets/hero/hero-desktop.svg"
+      alt="Kalp Shah — Manual QA Engineer. QA release-control overview."
+      width="100%"
+    >
   </picture>
 </p>
 
@@ -31,6 +35,7 @@ Functional workflows · UI consistency · Responsive behavior · WordPress/conte
 ## SELECTED QA CASE STUDIES
 
 ### 01 / SauceDemo
+
 **E-commerce workflow QA**
 
 **47 test scenarios · 62+ test cases · 282 execution results**
@@ -40,6 +45,7 @@ Login · Products · Cart · Checkout · Negative testing · Regression
 [**Test Cases**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases) · [**Bug Reports**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report) · [**RTM**](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM)
 
 ### 02 / MakeMyTrip
+
 **Travel booking workflow QA**
 
 Login · Registration · Hotel booking · Flight booking · Validation · Negative testing
@@ -47,6 +53,7 @@ Login · Registration · Hotel booking · Flight booking · Validation · Negati
 [**View project →**](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
 
 ### 03 / WordPress Web QA
+
 **Real-world website quality checks**
 
 Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO · Regression
@@ -58,8 +65,16 @@ Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO �
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/process/qa-process-mobile.svg">
-    <img src="./assets/process/qa-process.svg" alt="QA process: Test, Find, Reproduce, Report, Fix, Retest, Verify." width="100%">
+    <img
+      src="./assets/process/qa-process.svg"
+      alt="QA process: Test, Find, Reproduce, Report, Fix, Retest, Verify."
+      width="100%"
+    >
   </picture>
+</p>
+
+<p align="center">
+  <strong>TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY</strong>
 </p>
 
 I work evidence-first: reproduce the issue, document the impact, verify the fix, and regression-check the affected area.
@@ -94,6 +109,8 @@ Dr. S. & S. S. Gandhi College of Engineering & Technology
 ---
 
 ## LET'S CONNECT
+
+Interested in web quality, QA collaboration, or testing opportunities?
 
 <p align="center">
   <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
