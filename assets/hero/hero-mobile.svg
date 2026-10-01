@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 980" role="img" aria-label="Kalp Shah Manual QA Engineer release control">
+<rect width="720" height="980" rx="28" fill="#F2F3EE"/>
+<rect x="24" y="24" width="672" height="932" rx="22" fill="#F7F7F2" stroke="#222620" stroke-width="2"/>
+<text x="52" y="78" font-family="monospace" font-size="14" letter-spacing="2" fill="#687068">QA / RELEASE CONTROL — K-01</text>
+<text x="52" y="155" font-family="Inter,Arial,sans-serif" font-size="54" font-weight="800" fill="#171A17">KALP SHAH</text>
+<text x="54" y="192" font-family="monospace" font-size="15" letter-spacing="1.5" fill="#687068">MANUAL QA ENGINEER</text>
+<text x="54" y="240" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="600" fill="#171A17">Web quality, defect evidence</text>
+<text x="54" y="270" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="600" fill="#171A17">and release verification.</text>
+<rect x="52" y="314" width="616" height="500" rx="16" fill="#171A17"/>
+<text x="82" y="356" font-family="monospace" font-size="12" letter-spacing="2" fill="#AEB8AF">RELEASE GATE / LIVE CHECK</text>
+<g font-family="monospace">
+<rect x="82" y="388" width="276" height="86" rx="10" fill="#203C2D" stroke="#27A66A"/><text x="106" y="420" font-size="13" fill="#8BE3B4">01</text><text x="106" y="452" font-size="22" fill="#F3F6F3">PASS</text>
+<rect x="362" y="388" width="276" height="86" rx="10" fill="#402624" stroke="#C95A50"/><text x="386" y="420" font-size="13" fill="#FF9B92">02</text><text x="386" y="452" font-size="22" fill="#F3F6F3">FAIL</text>
+<rect x="82" y="490" width="276" height="86" rx="10" fill="#42371E" stroke="#C99B38"/><text x="106" y="522" font-size="13" fill="#F2CB68">03</text><text x="106" y="554" font-size="22" fill="#F3F6F3">RETEST</text>
+<rect x="362" y="490" width="276" height="86" rx="10" fill="#203448" stroke="#5B9BD5"/><text x="386" y="522" font-size="13" fill="#9AC8F1">04</text><text x="386" y="554" font-size="22" fill="#F3F6F3">VERIFIED</text>
+</g>
+<text x="82" y="626" font-family="monospace" font-size="11" fill="#AEB8AF">FUNCTIONAL · UI · RESPONSIVE · WORDPRESS · SEO</text>
+<rect x="82" y="666" width="556" height="40" rx="20" fill="#F3F6F3"/><text x="360" y="692" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" fill="#171A17">GATE / READY FOR RELEASE</text>
+<text x="52" y="866" font-family="monospace" font-size="12" fill="#687068">01 WEB QA · 02 WORDPRESS · 03 EVIDENCE</text>
+</svg>
