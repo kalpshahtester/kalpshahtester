@@ -22,6 +22,14 @@
   <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><strong>RESUME</strong></a>
 </p>
 
+<p align="center">
+  <img
+    src="./assets/hero/kalp-qa-release-animation.gif"
+    alt="Animated QA release loop featuring Kalp Shah and the testing stages Test, Find, Reproduce, Report, Fix, Retest and Verified."
+    width="360"
+  >
+</p>
+
 ---
 
 ## QA, WITH EVIDENCE
