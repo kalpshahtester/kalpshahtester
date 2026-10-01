@@ -38,6 +38,8 @@ I focus on **finding, reproducing, documenting, and verifying** defects across w
 
 **Functional QA** · **UI QA** · **Responsive QA** · **WordPress QA** · **Content QA** · **SEO QA** · **Regression**
 
+> **Profile focus:** Manual Testing projects are featured here. Other technical repositories remain available in the account but are intentionally not promoted in this recruiter profile.
+
 ---
 
 ## SELECTED QA CASE STUDIES
@@ -72,6 +74,8 @@ Login · Registration · Hotel booking · Flight booking · Validation · Negati
 Focus: **workflow coverage, validation, and negative-path testing**
 
 [View project →](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
+
+[View GitHub repository →](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
 
 </td>
 </tr>
