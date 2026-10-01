@@ -3,7 +3,7 @@ name: Profile QA
 on:
   workflow_dispatch:
   push:
-    branches: [main, profile-v2]
+    branches: [main, profile-v2, recruiter-profile-v4]
   pull_request:
     branches: [main]
 
@@ -21,9 +21,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-
           required=(
             "README.md"
+            "assets/hero/hero-desktop.svg"
+            "assets/hero/hero-mobile.svg"
+            "assets/process/qa-process.svg"
+            "assets/process/qa-process-mobile.svg"
             "assets/qa-release-lab-hero.svg"
             "assets/qa-release-lab-hero-mobile.svg"
             "assets/qa-lab-snapshot.svg"
@@ -38,18 +41,20 @@ jobs:
             ".github/workflows/profile-3d.yml"
             ".github/workflows/profile-qa.yml"
           )
-
           for file in "${required[@]}"; do
             test -f "$file" || { echo "Missing: $file"; exit 1; }
           done
 
-      - name: Validate README sections
+      - name: Validate README sections and assets
         shell: bash
         run: |
           set -euo pipefail
-          for heading in             "QA SNAPSHOT / K-01"             "QA CASE FILES"             "RELEASE PIPELINE"             "DEFECT INTELLIGENCE"             "QA EVIDENCE / EXECUTION PROOF"             "WEB + WORDPRESS + SEO QA"             "RESPONSIVE QA MATRIX"             "LAB EQUIPMENT / TESTING STACK"             "PROFESSIONAL QA EXPERIENCE"             "PROFILE ENGINEERING"; do
-            grep -q "$heading" README.md || { echo "Missing README section: $heading"; exit 1; }
-          done
+          grep -q "QA AT A GLANCE" README.md
+          grep -q "SELECTED QA CASE STUDIES" README.md
+          grep -q "HOW I TEST" README.md
+          grep -q "LET'S CONNECT" README.md
+          grep -q "assets/hero/hero-desktop.svg" README.md
+          grep -q "assets/process/qa-process.svg" README.md
 
       - name: Validate SVG/XML
         shell: bash
@@ -58,8 +63,7 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           import xml.etree.ElementTree as ET
-
-          for file in Path("assets").glob("*.svg"):
+          for file in Path("assets").rglob("*.svg"):
               ET.parse(file)
               print(f"Valid SVG/XML: {file}")
           PY
@@ -82,7 +86,6 @@ jobs:
             "https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website"
             "https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment"
           )
-
           for url in "${urls[@]}"; do
             echo "Checking $url"
             curl -L --fail --silent --show-error --retry 2 --max-time 20 -o /dev/null "$url"
