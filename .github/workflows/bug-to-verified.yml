@@ -1,4 +1,5 @@
 name: Generate Bug-to-Verified Animation
+# Slow, low-emphasis transitions with a strong VERIFIED terminal state.
 
 on:
   workflow_dispatch:
