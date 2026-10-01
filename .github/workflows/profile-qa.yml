@@ -49,13 +49,20 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          grep -q "QA AT A GLANCE" README.md
+          grep -q "MANUAL QA ENGINEER" README.md
+          grep -q "WEB TESTING · WORDPRESS QA · BUG REPORTING · REGRESSION · RELEASE VERIFICATION" README.md
+          grep -q "TEST" README.md
+          grep -q "FIND" README.md
+          grep -q "REPORT" README.md
+          grep -q "RETEST" README.md
+          grep -q "VERIFY" README.md
           grep -q "SELECTED QA CASE STUDIES" README.md
           grep -q "HOW I TEST" README.md
           grep -q "LET'S CONNECT" README.md
-          grep -q "assets/hero/hero-desktop.svg" README.md
+          grep -q "assets/qa-release-control.svg" README.md
+          grep -q "assets/qa-release-control-mobile.svg" README.md
+          grep -q "assets/hero/kalp-qa-release-animation.gif" README.md
           grep -q "assets/process/qa-process.svg" README.md
-          grep -q "assets/hero/hero-mobile.svg" README.md
           grep -q "assets/process/qa-process-mobile.svg" README.md
 
       - name: Validate SVG/XML
