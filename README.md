@@ -3,9 +3,10 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
+    <source media="(min-width: 601px)" srcset="./assets/qa-release-control.svg">
     <img
-      src="./assets/qa-release-control.svg"
-      alt="QA control panel for Kalp Shah, Manual QA Engineer."
+      src="./assets/hero/kalp-qa-release-animation.gif"
+      alt="QA release flow for Kalp Shah, Manual QA Engineer."
       width="100%"
     >
   </picture>
@@ -48,6 +49,10 @@ I test real user journeys, uncover defects, document evidence, and verify fixes 
 </p>
 
 <p align="center">
+  <sub>FUNCTIONAL · UI · RESPONSIVE · WORDPRESS · SEO · REGRESSION</sub>
+</p>
+
+<p align="center">
   <img
     src="./assets/hero/kalp-qa-release-animation.gif"
     alt="Animated QA release flow showing Test, Find, Report, Retest and Verify."
@@ -57,9 +62,7 @@ I test real user journeys, uncover defects, document evidence, and verify fixes 
 
 ---
 
----
-
-## QA, WITH EVIDENCE
+## QA, WITH EVIDENCE/
 
 I focus on **finding, reproducing, documenting, and verifying** defects across web experiences.
 
@@ -121,9 +124,10 @@ Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO �
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/process/qa-process-mobile.svg">
+    <source media="(min-width: 601px)" srcset="./assets/process/qa-process.svg">
     <img
-      src="./assets/process/qa-process.svg"
-      alt="QA workflow: Test, Find, Reproduce, Report, Fix, Retest, Verify."
+      src="./assets/process/bug-to-verified.gif"
+      alt="QA workflow from defect discovery through evidence, reporting, retest and verification."
       width="100%"
     >
   </picture>
@@ -150,11 +154,14 @@ Pages · Blogs · Forms · UI · Responsive layouts · Links · Content · SEO �
 ## QA EVIDENCE
 
 <p align="center">
-  <img
-    src="./assets/qa-evidence.svg"
-    alt="QA evidence workflow showing reproducible testing evidence."
-    width="100%"
-  >
+  <picture>
+    <source srcset="./assets/qa-evidence.svg">
+    <img
+      src="./assets/process/bug-to-verified.gif"
+      alt="QA evidence workflow showing reproducible testing evidence."
+      width="100%"
+    >
+  </picture>
 </p>
 
 **What I care about:** clear reproduction steps, expected vs actual behavior, useful screenshots, accurate severity/priority, and verified fixes.
