@@ -24,6 +24,12 @@ jobs:
 
           required=(
             "README.md"
+            "assets/qa-release-lab-hero.svg"
+            "assets/qa-release-lab-hero-mobile.svg"
+            "assets/qa-lab-snapshot.svg"
+            "assets/defect-intelligence.svg"
+            "assets/lab-equipment.svg"
+            "assets/qa-inspection-stamp.svg"
             "assets/qa-evidence.svg"
             "assets/qa-pipeline.svg"
             "assets/qa-pipeline-mobile.svg"
