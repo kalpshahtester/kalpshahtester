@@ -45,13 +45,14 @@ I test real user journeys, reproduce defects, document clear evidence, and verif
 <p align="center">
   <img
     src="./assets/hero/kalp-qa-release-animation.gif"
-    alt="QA workflow animation showing Test, Find, Reproduce, Report, Fix, Retest and Verify."
+    alt="Animated 3D-style QA profile loop showing Kalp Shah and the stages Test, Find, Reproduce, Report, Fix, Retest and Verify."
     width="430"
   >
 </p>
 
 <p align="center">
-  <strong>TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY</strong>
+  <strong>3D QA FLOW</strong><br>
+  TEST → FIND → REPRODUCE → REPORT → FIX → RETEST → VERIFY
 </p>
 
 ---
