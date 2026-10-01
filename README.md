@@ -5,7 +5,7 @@
     <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
     <img
       src="./assets/qa-release-control.svg"
-      alt="Kalp Shah — Manual QA Engineer. QA release control from testing through verification."
+      alt="QA control panel for Kalp Shah, Manual QA Engineer."
       width="100%"
     >
   </picture>
@@ -13,28 +13,28 @@
 
 <table>
 <tr>
-<td width="190" align="center" valign="middle">
+<td width="155" align="center" valign="middle">
   <img
     src="https://avatars.githubusercontent.com/u/219259317?v=4"
     alt="Kalp Shah profile photo"
-    width="150"
+    width="132"
   >
 </td>
 <td valign="middle">
 
-### MANUAL QA ENGINEER
+**MANUAL QA ENGINEER**
 
-**Web Testing · WordPress QA · Bug Reporting · Regression · Release Verification**
+**WEB TESTING · WORDPRESS QA · BUG REPORTING · REGRESSION · RELEASE VERIFICATION**
 
-I test real user journeys, reproduce defects, document clear evidence, and verify fixes before release.
+I test real user journeys, uncover defects, document evidence, and verify fixes before release.
 
-**Core focus:** Functional QA · UI QA · Responsive QA · WordPress QA · Content/SEO QA
+<sub>FUNCTIONAL QA · UI QA · RESPONSIVE QA · CONTENT/SEO QA</sub>
 
 <p>
   <a href="https://kalpshahtester.github.io/"><strong>PORTFOLIO →</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><strong>LINKEDIN →</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><strong>RESUME →</strong></a>
 </p>
 
@@ -43,16 +43,16 @@ I test real user journeys, reproduce defects, document clear evidence, and verif
 </table>
 
 <p align="center">
-  <img
-    src="./assets/hero/kalp-qa-release-animation.gif"
-    alt="Animated 3D-style QA profile loop showing Kalp Shah and the stages Test, Find, Reproduce, Report, Fix, Retest and Verify."
-    width="430"
-  >
+  <strong>QA RELEASE FLOW</strong><br>
+  <code>TEST</code> → <code>FIND</code> → <code>REPORT</code> → <code>RETEST</code> → <code>VERIFY</code>
 </p>
 
 <p align="center">
-  <strong>3D QA FLOW</strong><br>
-  TEST → FIND → REPORT → RETEST → VERIFY
+  <img
+    src="./assets/hero/kalp-qa-release-animation.gif"
+    alt="Animated QA release flow showing Test, Find, Report, Retest and Verify."
+    width="430"
+  >
 </p>
 
 ---
