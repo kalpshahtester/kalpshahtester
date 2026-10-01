@@ -49,14 +49,18 @@ for active in range(len(steps)):
     for index, (label, accent) in enumerate(steps):
         x = left + index * (box_width + gap)
         is_active = index == active
-        # Keep intermediate states quiet; make VERIFIED the only strong terminal state.\n        is_verified = index == len(steps) - 1\n        fill = GREEN if is_verified else ((229, 232, 226) if is_active else (236, 238, 232))\n        outline = GREEN if is_verified else ((180, 187, 179) if is_active else (205, 209, 202))\n        text_color = (255, 255, 255) if is_verified else GRAPHITE
+        # Keep intermediate states quiet; make VERIFIED the only strong terminal state.
+        is_verified = index == len(steps) - 1
+        fill = GREEN if is_verified else ((229, 232, 226) if is_active else (236, 238, 232))
+        outline = GREEN if is_verified else ((180, 187, 179) if is_active else (205, 209, 202))
+        text_color = (255, 255, 255) if is_verified else GRAPHITE
 
         draw.rounded_rectangle(
             (x, y, x + box_width, y + 38),
             radius=6,
             fill=fill,
             outline=outline,
-            width=1,
+            width=2 if is_verified else 1,
         )
 
         bounds = draw.textbbox((0, 0), label, font=font)
