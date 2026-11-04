@@ -25,11 +25,10 @@
 
 I am a **Manual QA Engineer** focused on web application quality, WordPress website testing, and reliable release verification. I approach testing from the user's perspective: understand the requirement, explore realistic workflows, identify and reproduce defects, document clear evidence, and verify fixes.
 
-My QA work covers functional behavior, UI consistency, responsive layouts, content and SEO checks, regression testing, and structured test documentation. I also work with API testing and browser automation tools as part of my continued QA development.
+My QA work covers functional behavior, UI consistency, responsive layouts, content and SEO checks, regression testing, and structured test documentation. I focus on practical manual testing that helps teams deliver reliable web experiences.
 
 - **Core focus:** Manual testing, web QA, WordPress QA, defect lifecycle, regression
 - **Test documentation:** Test plans, scenarios, test cases, bug reports, RTM, execution summaries
-- **Additional exposure:** API testing with Postman; Selenium WebDriver; Playwright-based QA checks
 - **Professional links:** [Portfolio](https://kalpshahtester.github.io/) · [LinkedIn](https://www.linkedin.com/in/kalp-shah-software-tester/)
 
 ## Featured QA Projects
@@ -60,13 +59,13 @@ Testing assessment focused on key travel-booking workflows.
 
 [View project and documentation](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
 
-### 3. REST API Testing — Postman
+### 3. WordPress & Website Manual QA
 
-A Postman project covering common user and category API operations with token-based authentication.
+Manual website testing focused on user-facing functionality, content quality, layout consistency, responsive behavior, and release readiness.
 
-**Coverage:** User registration, user login, admin login/token retrieval, add category, view category, and delete category.
+**Coverage:** Navigation and links, forms and input validation, UI consistency, responsive layouts, content accuracy, SEO elements, browser compatibility, defect reproduction, and regression verification.
 
-[View Postman project](https://github.com/kalpshahtester/API-Testing-Postman-Project)
+**Typical deliverables:** Test scenarios, test cases, bug reports with screenshots, retest results, and QA summaries.
 
 ### 4. Personal QA Portfolio
 
@@ -95,8 +94,6 @@ I aim to make defects actionable by including reproducible steps, test data, exp
 | Manual QA | Functional, UI, exploratory, negative, validation, regression, retesting |
 | Web & CMS | Website testing, WordPress QA, responsive testing, cross-browser checks |
 | Test artifacts | HLR, test plans, test scenarios, test cases, bug reports, RTM, test summaries |
-| API testing | Postman, REST API workflows, authentication/token testing |
-| Automation exposure | Playwright, Selenium WebDriver |
 | QA & collaboration | Chrome DevTools, Lighthouse, GitHub, ClickUp, Slack, Google Sheets, Microsoft Excel |
 
 ## Education
