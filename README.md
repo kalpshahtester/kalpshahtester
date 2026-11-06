@@ -1,113 +1,115 @@
-# Kalp Shah | Manual QA Engineer
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
-    <source media="(min-width: 601px)" srcset="./assets/qa-release-control.svg">
-    <img src="./assets/hero/kalp-qa-release-animation.gif" alt="Kalp Shah — Manual QA Engineer, evidence-driven web quality and release verification" width="100%">
-  </picture>
-</p>
+<!-- HERO / PROFILE INTRO -->
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
+  <source media="(min-width: 601px)" srcset="./assets/qa-release-control.svg">
+  <img src="./assets/hero/kalp-qa-release-animation.gif" alt="Kalp Shah — Manual QA Engineer, evidence-driven web quality and release verification" width="100%">
+</picture>
 
-<p align="center">
-  <a href="https://kalpshahtester.github.io/"><strong>Portfolio</strong></a> ·
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><strong>LinkedIn</strong></a> ·
-  <a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><strong>Resume</strong></a> ·
-  <a href="mailto:manualtesterkalpshah@gmail.com"><strong>Email</strong></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Manual%20QA-2457A7?style=for-the-badge" alt="Manual QA">
-  <img src="https://img.shields.io/badge/Specialty-Web%20%26%20WordPress%20QA-26734D?style=for-the-badge" alt="Web and WordPress QA">
-  <img src="https://img.shields.io/badge/Approach-Evidence--Driven-6B4E9B?style=for-the-badge" alt="Evidence driven">
-</p>
+<a href="https://kalpshahtester.github.io/"><strong>🌐 Portfolio</strong></a> ·
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><strong>💼 LinkedIn</strong></a> ·
+<a href="https://github.com/kalpshahtester/kalpshahtester.github.io/raw/refs/heads/main/Kalp%20Shah%20Manual%20Tester%20Resume.pdf"><strong>📄 Resume</strong></a> ·
+<a href="mailto:manualtesterkalpshah@gmail.com"><strong>✉️ Email</strong></a>
 
-## About
+<br/><br/>
 
-I am a **Manual QA Engineer** focused on web application quality, WordPress website testing, and reliable release verification. I approach testing from the user's perspective: understand the requirement, explore realistic workflows, identify and reproduce defects, document clear evidence, and verify fixes.
+<img src="https://img.shields.io/badge/ROLE-Manual%20QA%20Engineer-2457A7?style=for-the-badge" alt="Manual QA Engineer"/>
+<img src="https://img.shields.io/badge/FOCUS-Web%20%26%20WordPress%20QA-26734D?style=for-the-badge" alt="Web and WordPress QA"/>
+<img src="https://img.shields.io/badge/MINDSET-Evidence--Driven-6B4E9B?style=for-the-badge" alt="Evidence driven QA"/>
 
-My QA work covers functional behavior, UI consistency, responsive layouts, content and SEO checks, regression testing, and structured test documentation. I focus on practical manual testing that helps teams deliver reliable web experiences.
+</div>
 
-- **Core focus:** Manual testing, web QA, WordPress QA, defect lifecycle, regression
-- **Test documentation:** Test plans, scenarios, test cases, bug reports, RTM, execution summaries
-- **Professional links:** [Portfolio](https://kalpshahtester.github.io/) · [LinkedIn](https://www.linkedin.com/in/kalp-shah-software-tester/)
+## 👋 About Me
 
-## Featured QA Projects
+I'm **Kalp Shah**, a Manual QA Engineer focused on web application quality, WordPress testing, and release verification. I test from the user's perspective—validate requirements, explore workflows, reproduce defects, document evidence, and verify fixes.
 
-### 1. SauceDemo — End-to-End Manual Testing
+I care about practical, actionable QA that helps teams release reliable and user-friendly websites.
 
-A structured manual testing project covering the e-commerce journey from login through checkout.
+- 🔍 **Primary focus:** Manual Testing, Web QA, WordPress QA
+- 🧪 **Testing:** Functional, UI, exploratory, negative, regression, retesting, responsive, cross-browser
+- 📝 **Deliverables:** Test plans, scenarios, test cases, bug reports, RTM, test summaries
+- 🛠️ **QA tools:** Chrome DevTools, Lighthouse, ClickUp, Slack, GitHub, Google Sheets, Excel
+- 📍 **Location:** Surat, Gujarat, India
 
-| Project evidence | Coverage |
-|---|---:|
-| Test scenarios | 47 |
-| Test cases | 62+ |
-| Execution results | 282 |
-| Demo user types | 6 |
+## 🎯 QA Missions — Featured Projects
 
-**Coverage:** Login, product listing, cart, checkout, negative paths, UI checks, exploratory testing, and regression.
+<table>
+<thead>
+<tr><th>Project</th><th>Mission / Coverage</th><th>Tools & Evidence</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website"><strong>SauceDemo Manual Testing</strong></a></td>
+<td>E-commerce testing from login to checkout, including negative cases and regression.</td>
+<td>47 scenarios · 62+ test cases · 282 execution results</td>
+</tr>
+<tr>
+<td><a href="https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment"><strong>MakeMyTrip Testing Assessment</strong></a></td>
+<td>Travel workflows: login, registration, hotel and flight booking, functional and UI validation.</td>
+<td>Manual testing documentation</td>
+</tr>
+<tr>
+<td><strong>WordPress & Website QA</strong></td>
+<td>Navigation, forms, responsive layouts, content accuracy, SEO elements, browser compatibility and regression.</td>
+<td>Bug reports, screenshots, retest evidence</td>
+</tr>
+<tr>
+<td><a href="https://kalpshahtester.github.io/"><strong>QA Portfolio</strong></a></td>
+<td>Portfolio showcasing testing projects, QA documentation, resume and professional profile.</td>
+<td>GitHub Pages</td>
+</tr>
+</tbody>
+</table>
 
-- [Project repository](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)
-- [Test cases](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/04_Test_Cases)
-- [Bug reports](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/06_Bug_Report)
-- [Requirements Traceability Matrix](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website/tree/main/07_RTM)
+## 🧰 QA Arsenal — Skills & Tools
 
-### 2. MakeMyTrip — Manual Testing Assessment
+| QA Area | Skills / Tools |
+|---|---|
+| Manual Testing | Functional, UI, exploratory, negative, validation, regression, retesting |
+| Web & CMS | WordPress QA, responsive testing, cross-browser checks, website workflows |
+| Test Documentation | HLR, test plans, test scenarios, test cases, bug reports, RTM, test summaries |
+| Defect Management | Severity / priority, reproducibility, expected vs actual results, evidence |
+| QA Utilities | Chrome DevTools, Lighthouse, Check My Links, SEO META in 1 CLICK |
+| Collaboration | ClickUp, Slack, Google Sheets, Excel, GitHub |
+| Learning & Automation | Selenium, Playwright, Java, API testing fundamentals |
 
-Testing assessment focused on key travel-booking workflows.
-
-**Coverage:** Login, registration, hotel booking, flight booking, functional validation, negative testing, UI testing, and basic security checks.
-
-[View project and documentation](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
-
-### 3. WordPress & Website Manual QA
-
-Manual website testing focused on user-facing functionality, content quality, layout consistency, responsive behavior, and release readiness.
-
-**Coverage:** Navigation and links, forms and input validation, UI consistency, responsive layouts, content accuracy, SEO elements, browser compatibility, defect reproduction, and regression verification.
-
-**Typical deliverables:** Test scenarios, test cases, bug reports with screenshots, retest results, and QA summaries.
-
-### 4. Personal QA Portfolio
-
-A GitHub Pages portfolio presenting QA work, documentation, resume, and certifications.
-
-[Visit live portfolio](https://kalpshahtester.github.io/) · [View source repository](https://github.com/kalpshahtester/kalpshahtester.github.io)
-
-## QA Workflow
+## 🔄 My QA Workflow
 
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/process/qa-process-mobile.svg">
     <source media="(min-width: 601px)" srcset="./assets/process/qa-process.svg">
-    <img src="./assets/process/bug-to-verified.gif" alt="QA process from testing and defect discovery to retest and verification" width="100%">
+    <img src="./assets/process/bug-to-verified.gif" alt="QA process from test planning and defect discovery through retesting and verification" width="100%">
   </picture>
 </p>
 
-**Understand → Plan → Design tests → Execute → Reproduce → Report → Retest → Regression → Verify**
+**Understand → Plan → Design → Execute → Report → Retest → Regression → Verify**
 
-I aim to make defects actionable by including reproducible steps, test data, expected versus actual results, severity/priority, environment details, and supporting evidence.
+A good bug report should include clear reproduction steps, test data, expected and actual results, severity/priority, environment, and supporting evidence.
 
-## Skills & Tools
-
-| Area | Skills / Tools |
-|---|---|
-| Manual QA | Functional, UI, exploratory, negative, validation, regression, retesting |
-| Web & CMS | Website testing, WordPress QA, responsive testing, cross-browser checks |
-| Test artifacts | HLR, test plans, test scenarios, test cases, bug reports, RTM, test summaries |
-| QA & collaboration | Chrome DevTools, Lighthouse, GitHub, ClickUp, Slack, Google Sheets, Microsoft Excel |
-
-## Education
+## 🎓 Education
 
 **Diploma in Information Technology**  
 Dr. S. & S. S. Ghandhy College of Engineering & Technology
 
-## Connect
+## 🤝 Connect With Me
 
-I am interested in opportunities and collaboration involving **Manual QA, Web Testing, WordPress QA, and software quality assurance**.
+I'm interested in opportunities involving **Manual QA, Software Testing, Web Testing, and WordPress QA**.
 
-<p align="center">
-  <a href="https://kalpshahtester.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/kalp-shah-software-tester/">LinkedIn</a> ·
-  <a href="mailto:manualtesterkalpshah@gmail.com">Email</a> ·
-  <a href="https://github.com/kalpshahtester">GitHub</a>
-</p>
+<div align="center">
+
+<a href="https://github.com/kalpshahtester"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://kalpshahtester.github.io/"><img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:manualtesterkalpshah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kalpshahtester&style=for-the-badge&color=2457A7&label=PROFILE+VIEWS" alt="Profile views"/>
+
+**Quality is not an afterthought — it's part of every release.** 🧪
+
+</div>
