@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
-<title id="title">Kalp Shah — Manual QA Engineer</title>
+<title id="title">Kalp Shah — Manual QA Tester</title>
 <desc id="desc">An editorial QA release-control visual showing test, defect, retest and verification stages.</desc>
 <defs>
  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f7f2"/><stop offset="1" stop-color="#e9ece6"/></linearGradient>
@@ -18,11 +18,11 @@
 <text x="80" y="222" font-family="Arial,sans-serif" font-size="17" fill="#20251f">Functional · UI · Responsive · WordPress · SEO · Regression</text>
 <g transform="translate(80 260)">
 <rect width="248" height="126" rx="12" fill="#f1f3ee" stroke="#20251f" stroke-width="2"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">01 / TEST</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">PASS</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#596159">SCOPE CHECKED</text><path d="M205 67l13 13 25-29" fill="none" stroke="#1d7a46" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">01 / TEST</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">PLAN</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#596159">SCOPE CHECKED</text><path d="M205 67l13 13 25-29" fill="none" stroke="#1d7a46" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g transform="translate(348 260)">
 <rect width="248" height="126" rx="12" fill="#fff0ef" stroke="#20251f" stroke-width="2"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">02 / DEFECT</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">FAIL</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#8a4d48">ISSUE RECORDED</text><path d="M211 62l31 31M242 62l-31 31" stroke="#c33f35" stroke-width="7" stroke-linecap="round"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">02 / DEFECT</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">REPORT</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#8a4d48">EVIDENCE ATTACHED</text><path d="M211 62l31 31M242 62l-31 31" stroke="#c33f35" stroke-width="7" stroke-linecap="round"/>
 </g>
 <g transform="translate(616 260)">
 <rect width="248" height="126" rx="12" fill="#fff8df" stroke="#20251f" stroke-width="2"/>
@@ -30,7 +30,7 @@
 </g>
 <g transform="translate(884 260)">
 <rect width="248" height="126" rx="12" fill="#edf5ff" stroke="#20251f" stroke-width="2"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">04 / RESULT</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">VERIFIED</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#46647d">EVIDENCE ATTACHED</text><path d="M205 76h34" stroke="#316f9e" stroke-width="6" stroke-linecap="round"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">04 / RESULT</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">VERIFIED</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#46647d">FIX CONFIRMED</text><path d="M205 76h34" stroke="#316f9e" stroke-width="6" stroke-linecap="round"/>
 </g>
 <text x="80" y="438" font-family="monospace" font-size="14" fill="#596159">CLEAR STEPS · EXPECTED VS ACTUAL · SCREENSHOTS · FIX VALIDATION</text>
 <text x="1120" y="438" text-anchor="end" font-family="monospace" font-size="14" font-weight="700" fill="#20251f">QUALITY / CHECKED</text>
