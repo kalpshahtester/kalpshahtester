@@ -7,7 +7,7 @@
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
     <source media="(min-width: 601px)" srcset="./assets/qa-release-control.svg">
-    <img src="./assets/qa-release-control.svg" alt="Kalp Shah — Manual QA Engineer | Web Quality, Defect Reporting and Release Verification" width="100%">
+    <img src="./assets/qa-release-control.svg" alt="Kalp Shah — Manual QA Tester | Web and WordPress Quality" width="100%">
   </picture>
 
   <p>
@@ -20,98 +20,98 @@
     <a href="mailto:manualtesterkalpshah@gmail.com"><strong>EMAIL</strong></a>
   </p>
 
-  <img src="https://img.shields.io/badge/MANUAL_QA-WEB_TESTING-1F6FEB?style=flat-square" alt="Manual QA and web testing">
-  <img src="https://img.shields.io/badge/FOCUS-WORDPRESS_QUALITY-238636?style=flat-square" alt="WordPress quality">
-  <img src="https://img.shields.io/badge/APPROACH-EVIDENCE_DRIVEN-8957E5?style=flat-square" alt="Evidence driven approach">
+  <img src="https://img.shields.io/badge/ROLE-MANUAL_QA_TESTER-1F6FEB?style=flat-square" alt="Manual QA Tester">
+  <img src="https://img.shields.io/badge/FOCUS-WEB_&_WORDPRESS_QA-238636?style=flat-square" alt="Web and WordPress QA">
+  <img src="https://img.shields.io/badge/APPROACH-EVIDENCE_DRIVEN-8957E5?style=flat-square" alt="Evidence driven testing">
 </div>
 
 ## Kalp Shah
-**Manual QA Tester | Website Testing | WordPress QA**
+**Manual QA Tester | Web & WordPress Testing**
 
-I work on making websites more reliable and easier to use through structured manual testing, clear defect reporting, and careful verification of fixes. My focus is understanding how a website should behave, checking real user journeys across screen sizes, identifying gaps between expected and actual results, and sharing reproducible evidence with developers.
+I test websites from the user's perspective, identify functional and UI issues, document clear bug reports, and verify fixes through structured manual testing.
 
-I currently work as a **Manual QA Tester at NXS Infotech**, testing client websites and supporting ongoing website quality improvements. My day-to-day work includes WordPress website testing, UI and functional checks, SEO-related quality reviews, defect documentation, retesting, and regression checks.
+My focus is understanding expected website behaviour, validating real user journeys across screen sizes, finding gaps between expected and actual results, and providing developers with clear, reproducible evidence.
 
-## QA Focus
+## Manual QA Focus
 
-| Area | What I validate |
+| Area | Testing coverage |
 |---|---|
-| **Functional testing** | Core workflows, forms, navigation, input validation, positive and negative scenarios |
-| **UI and usability testing** | Layout consistency, alignment, content presentation, interactive elements, and user experience |
-| **Responsive testing** | Website behaviour across mobile, tablet, laptop, and desktop viewports |
-| **WordPress website QA** | Pages, menus, links, media, forms, content, and common website components |
-| **SEO quality checks** | Page titles, meta descriptions, heading hierarchy, image alt text, and link health |
-| **Regression and retesting** | Fixed-defect verification, related-area checks, and impact-based regression |
-| **Test documentation** | Test scenarios, test cases, execution records, RTM, defect reports, and test summaries |
+| **Functional testing** | User journeys, forms, navigation, input validation, positive and negative scenarios |
+| **UI and usability testing** | Layout, alignment, content presentation, interactive elements and consistency |
+| **Responsive testing** | Mobile, tablet, laptop and desktop layouts and behaviour |
+| **WordPress website QA** | Pages, menus, links, media, forms, content and common website components |
+| **Basic on-page SEO checks** | Page titles, meta descriptions, heading hierarchy, image alt text and link health |
+| **Retesting and regression** | Fixed-defect verification and checks of related areas |
+| **Test documentation** | Test scenarios, test cases, execution records, RTM, defect reports and test summaries |
 
 ## Professional Experience
 
-### Manual QA Tester — NXS Infotech
-**May 2026 – Present**
+### QA Tester — NXS Infotech
+**May 2026 – November 2026 | Manual Web & WordPress QA**
 
-- Perform manual quality checks on WordPress-based client websites and web pages.
-- Identify functional, UI, responsive, content, and navigation issues through practical test execution.
-- Document defects with clear reproduction steps, expected and actual results, severity, priority, and supporting screenshots or recordings.
-- Track issues, coordinate findings with developers, and maintain testing updates.
-- Retest resolved defects and perform regression checks to confirm that fixes work as expected.
-- Review website quality details such as page structure, links, forms, and basic on-page SEO elements.
+- Performed functional and UI checks across WordPress client websites, including pages, navigation, forms, content and responsive layouts.
+- Reviewed basic on-page SEO elements such as page titles, meta descriptions, heading structure and image alt text.
+- Captured screenshots and screen recordings using ShareX to provide clear defect evidence.
+- Documented issues in Excel and Google Sheets with reproduction steps, expected and actual results, severity, priority and proof links.
+- Tracked defects in ClickUp, shared updates with developers through Slack, and retested fixes.
+- Performed focused regression checks on related website areas after changes.
 
 ### Computer Engineer / IT Support — J. B. And Brothers
 **June 2020 – January 2025**
 
 - Supported day-to-day computer systems and user-facing technical requirements.
-- Investigated technical issues, assisted with troubleshooting, and communicated practical resolutions.
-- Developed a foundation in problem analysis, documentation, and user support.
+- Investigated hardware and software issues, assisted with troubleshooting, and communicated practical resolutions.
+- Built a strong foundation in problem analysis, prioritisation, documentation and user support.
 
 ## Selected QA Projects
 
 ### [SauceDemo — Manual Testing Project](https://github.com/kalpshahtester/Manual-Testing-Project-saucedemo-website)
-A structured manual testing portfolio project covering key e-commerce journeys, including login, product selection, cart operations, and checkout.
+A structured manual testing project covering login, product selection, cart operations and checkout workflows.
 
-**Project documentation:** 47 scenarios · 62+ test cases · 282 execution records
+**Documented project work:** 47 scenarios · 62+ test cases · 282 execution records · 7 documented defects
 
 ### [MakeMyTrip — Testing Assessment](https://github.com/kalpshahtester/MakeMyTrip-Testing-Assessment)
-A practice assessment focused on travel website workflows, including account-related flows, flight and hotel booking journeys, and UI validation.
+A practice assessment covering login, flight search, hotel search, expected and negative conditions, UI checks and structured bug reporting.
 
 ### [QA Portfolio Website](https://kalpshahtester.github.io/)
-A central portfolio for my professional profile, manual testing projects, QA documentation, and resume.
+A recruiter-focused portfolio presenting professional experience, manual testing projects, QA documentation and contact information.
 
 <p align="center">
-  <img src="./assets/qa-evidence.svg" alt="SauceDemo manual testing project evidence: 47 scenarios, 62 plus test cases and 282 execution records" width="100%">
+  <img src="./assets/qa-evidence.svg" alt="SauceDemo manual testing project evidence: 47 scenarios, 62 plus test cases, 282 execution records and 7 documented defects" width="100%">
 </p>
 
-*SauceDemo and MakeMyTrip are portfolio/practice projects. They are not represented as production client engagements.*
+*SauceDemo and MakeMyTrip are portfolio/practice projects. They are not represented as production client engagements. The figures above apply only to the SauceDemo project.*
 
 ## Tools & Working Knowledge
 
 | Category | Tools |
 |---|---|
-| **Browser testing** | Google Chrome, Mozilla Firefox, Microsoft Edge |
+| **Browsers** | Google Chrome, Mozilla Firefox, Microsoft Edge |
 | **Browser inspection** | Chrome DevTools |
 | **Test and defect tracking** | ClickUp, GitHub |
-| **Test evidence** | ShareX |
+| **Evidence capture** | ShareX |
 | **Test reporting** | Microsoft Excel, Google Sheets |
-| **Communication** | Slack, Gmail |
+| **Team communication** | Slack, Gmail |
 | **Website quality checks** | Lighthouse, browser-based SEO and content checks |
 
-## How I Approach Testing
+## Testing Approach
 
 <p align="center">
-  <img src="./assets/process/qa-process.svg" alt="Manual QA process from understanding requirements through test planning, execution, defect reporting, retesting, regression and verification" width="100%">
+  <img src="./assets/process/qa-process.svg" alt="Manual QA process from test planning and execution through defect reporting, retesting and verification" width="100%">
 </p>
 
-**Understand → Plan → Design test cases → Execute → Record evidence → Report defects → Retest → Regression → Verify**
+**Understand requirements → Plan coverage → Design test cases → Execute → Capture evidence → Report defects → Retest → Regression → Verify**
 
-I aim to make every defect report actionable. A good report should help another person understand what failed, reproduce the issue, compare expected and actual behaviour, and verify the correction without guesswork.
+I aim to make every defect report actionable: clear steps to reproduce, expected and actual behaviour, supporting evidence, and enough context for a developer to investigate and verify the fix.
 
 ## Education & Training
 
 - **Diploma in Information Technology** — Dr. S. & S. S. Ghandhy College of Engineering & Technology
 - **Manual Software Testing Training** — TOPS Technologies | April 2025 – September 2025
 
-## Connect
+## Career Interests
 
-I’m interested in opportunities in **Manual Software Testing, Web QA, Website Quality Assurance, and WordPress QA**.
+Open to opportunities in **Manual Software Testing, Manual QA, Web QA, Website Quality Assurance and WordPress QA**, particularly in **Surat and Ahmedabad, Gujarat**.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
