@@ -76,11 +76,20 @@ A practice assessment covering login, flight search, hotel search, expected and 
 ### [QA Portfolio Website](https://kalpshahtester.github.io/)
 A recruiter-focused portfolio presenting professional experience, manual testing projects, QA documentation and contact information.
 
-<p align="center">
-  <img src="./assets/qa-evidence.svg" alt="SauceDemo manual testing project evidence: 47 scenarios, 62 plus test cases, 282 execution records and 7 documented defects" width="100%">
-</p>
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/qa-evidence-mobile.svg">
+    <img src="./assets/qa-evidence.svg" alt="SauceDemo practice project: 47 scenarios, 62+ test cases, 282 execution records, 7 documented defects" width="100%">
+  </picture>
+</div>
 
 *SauceDemo and MakeMyTrip are portfolio/practice projects. They are not represented as production client engagements. The figures above apply only to the SauceDemo project.*
+
+## Visual QA Coverage
+
+<p align="center">
+  <img src="./assets/qa-command-center.svg" alt="Visual overview of functional, UI, responsive, WordPress, SEO and regression testing" width="100%">
+</p>
 
 ## Testing Skills
 
