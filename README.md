@@ -111,8 +111,8 @@ I aim to make every defect report actionable: clear steps to reproduce, expected
 ## Education & Training
 
 - **Diploma in Information Technology** — Dr. S. & S. S. Ghandhy College of Engineering & Technology
-- **Manual & Automation Tester** — TOPS Technologies | 25 March 2026
-- **Test Engineer, Grade A** — NSDC / Skill India | 27 March 2026
+- **[Manual & Automation Tester — TOPS Technologies](https://kalpshahtester.github.io/TOPS_Certificate_Kalp_Shah.pdf)** | Issued 25 March 2026 · [View PDF](https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/TOPS_Certificate_Kalp_Shah.pdf)
+- **[Test Engineer — Product Development, Grade A — Skill India / NSDC](https://kalpshahtester.github.io/NSDC_Certificate_Kalp_Shah.pdf)** | Issued 27 March 2026 · [View PDF](https://github.com/kalpshahtester/kalpshahtester.github.io/blob/main/NSDC_Certificate_Kalp_Shah.pdf)
 
 ## Career Interests
 
