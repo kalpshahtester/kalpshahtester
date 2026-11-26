@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-release-control.svg" alt="Kalp Shah, Manual QA Tester — coverage planning, defect reporting, retesting and verification" width="100%">
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/9946679eec2b7832b65478ed8bd58b8e5b0456a6/assets/qa-release-control.svg" alt="Kalp Shah, Manual QA Tester — coverage planning, defect reporting, retesting and verification" width="100%">
 
   <p>
     <a href="https://kalpshahtester.github.io/"><strong>PORTFOLIO</strong></a>
