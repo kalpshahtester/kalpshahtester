@@ -7,7 +7,7 @@
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
     <source media="(min-width: 601px)" srcset="./assets/qa-release-control.svg">
-    <img src="./assets/qa-release-control.svg" alt="Kalp Shah — Manual QA Tester | Web and WordPress Quality" width="100%">
+    <img src="./assets/qa-release-control.svg" alt="Kalp Shah, Manual QA Tester — coverage planning, defect reporting, retesting and verification" width="100%">
   </picture>
 
   <p>
