@@ -11,27 +11,27 @@
 <rect x="44" y="38" width="1112" height="444" rx="16" fill="#fff" stroke="#20251f" stroke-width="3" filter="url(#shadow)"/>
 <path d="M44 100H1156" stroke="#20251f" stroke-width="3"/>
 <circle cx="78" cy="69" r="8" fill="#20251f"/><circle cx="106" cy="69" r="8" fill="#8a928a"/><circle cx="134" cy="69" r="8" fill="#c7cdc5"/>
-<text x="168" y="76" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2" fill="#20251f">QA RELEASE CONTROL / K-01</text>
-<text x="1095" y="76" text-anchor="end" font-family="monospace" font-size="15" fill="#596159">WEB QUALITY</text>
+<text x="168" y="76" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2" fill="#20251f">QUALITY ASSURANCE / KALP SHAH</text>
+<text x="1095" y="76" text-anchor="end" font-family="monospace" font-size="15" fill="#596159">WEB + WORDPRESS QA</text>
 <text x="78" y="146" font-family="Arial,sans-serif" font-size="42" font-weight="800" fill="#20251f">KALP SHAH</text>
 <text x="80" y="178" font-family="monospace" font-size="18" letter-spacing="3" fill="#596159">MANUAL QA TESTER</text>
-<text x="80" y="222" font-family="Arial,sans-serif" font-size="17" fill="#20251f">Functional · UI · Responsive · WordPress · SEO · Regression</text>
+<text x="80" y="222" font-family="Arial,sans-serif" font-size="17" fill="#20251f">Functional · UI · Responsive · WordPress · Regression</text>
 <g transform="translate(80 260)">
 <rect width="248" height="126" rx="12" fill="#f1f3ee" stroke="#20251f" stroke-width="2"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">01 / TEST</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">PLAN</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#596159">SCOPE CHECKED</text><path d="M205 67l13 13 25-29" fill="none" stroke="#1d7a46" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">01 / COVERAGE</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">PLAN</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#596159">SCENARIOS & CASES</text><path d="M205 67l13 13 25-29" fill="none" stroke="#1d7a46" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g transform="translate(348 260)">
 <rect width="248" height="126" rx="12" fill="#fff0ef" stroke="#20251f" stroke-width="2"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">02 / DEFECT</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">REPORT</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#8a4d48">EVIDENCE ATTACHED</text><path d="M211 62l31 31M242 62l-31 31" stroke="#c33f35" stroke-width="7" stroke-linecap="round"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">02 / EVIDENCE</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">REPORT</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#8a4d48">CLEAR REPRO STEPS</text><path d="M211 62l31 31M242 62l-31 31" stroke="#c33f35" stroke-width="7" stroke-linecap="round"/>
 </g>
 <g transform="translate(616 260)">
 <rect width="248" height="126" rx="12" fill="#fff8df" stroke="#20251f" stroke-width="2"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">03 / FIX</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">RETEST</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#866f21">VERIFY CHANGE</text><path d="M214 72h30M229 57l15 15-15 15" fill="none" stroke="#b38a13" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">03 / VALIDATION</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">RETEST</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#866f21">FIX RECHECKED</text><path d="M214 72h30M229 57l15 15-15 15" fill="none" stroke="#b38a13" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g transform="translate(884 260)">
 <rect width="248" height="126" rx="12" fill="#edf5ff" stroke="#20251f" stroke-width="2"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">04 / RESULT</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">VERIFIED</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#46647d">FIX CONFIRMED</text><path d="M205 76h34" stroke="#316f9e" stroke-width="6" stroke-linecap="round"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">04 / OUTCOME</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">VERIFIED</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#46647d">RESULT DOCUMENTED</text><path d="M205 76h34" stroke="#316f9e" stroke-width="6" stroke-linecap="round"/>
 </g>
-<text x="80" y="438" font-family="monospace" font-size="14" fill="#596159">CLEAR STEPS · EXPECTED VS ACTUAL · SCREENSHOTS · FIX VALIDATION</text>
-<text x="1120" y="438" text-anchor="end" font-family="monospace" font-size="14" font-weight="700" fill="#20251f">QUALITY / CHECKED</text>
+<text x="80" y="438" font-family="monospace" font-size="14" fill="#596159">TEST CASES · EXPECTED VS ACTUAL · SCREENSHOTS · RETESTING</text>
+<text x="1120" y="438" text-anchor="end" font-family="monospace" font-size="14" font-weight="700" fill="#20251f">QUALITY / VERIFIED</text>
 </svg>
