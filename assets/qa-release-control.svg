@@ -18,7 +18,7 @@
 <text x="80" y="222" font-family="Arial,sans-serif" font-size="17" fill="#20251f">Functional · UI · Responsive · WordPress · Regression</text>
 <g transform="translate(80 260)">
 <rect width="248" height="126" rx="12" fill="#f1f3ee" stroke="#20251f" stroke-width="2"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">01 / COVERAGE</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">PLAN</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#596159">SCENARIOS & CASES</text><path d="M205 67l13 13 25-29" fill="none" stroke="#1d7a46" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#596159">01 / COVERAGE</text><text x="20" y="72" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#20251f">PLAN</text><text x="20" y="101" font-family="monospace" font-size="13" fill="#596159">SCENARIOS &amp; CASES</text><path d="M205 67l13 13 25-29" fill="none" stroke="#1d7a46" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g transform="translate(348 260)">
 <rect width="248" height="126" rx="12" fill="#fff0ef" stroke="#20251f" stroke-width="2"/>
