@@ -28,7 +28,7 @@
 ## Kalp Shah
 **Manual QA Tester | Web & WordPress Testing**
 
-I test websites from the user's perspective, identify functional and UI issues, document clear bug reports, and verify fixes through structured manual testing.
+Manual QA Tester experienced in WordPress and e-commerce website functional testing, responsive/UI checks, bug reproduction and verification, supported by 4+ years of previous IT support experience.
 
 My focus is understanding expected website behaviour, validating real user journeys across screen sizes, finding gaps between expected and actual results, and providing developers with clear, reproducible evidence.
 
@@ -49,7 +49,7 @@ My focus is understanding expected website behaviour, validating real user journ
 ### QA Tester — NXS Infotech
 **May 2026 – November 2026 | Manual Web & WordPress QA**
 
-- Performed functional and UI checks across WordPress client websites, including pages, navigation, forms, content and responsive layouts.
+- Performed functional and UI checks across WordPress client websites, including navigation, forms, registration/login, product pages, cart, checkout, content and responsive layouts.
 - Reviewed basic on-page SEO elements such as page titles, meta descriptions, heading structure and image alt text.
 - Captured screenshots and screen recordings using ShareX to provide clear defect evidence.
 - Documented issues in Excel and Google Sheets with reproduction steps, expected and actual results, severity, priority and proof links.
@@ -59,7 +59,7 @@ My focus is understanding expected website behaviour, validating real user journ
 ### Computer Engineer / IT Support — J. B. And Brothers
 **June 2020 – January 2025**
 
-- Supported day-to-day computer systems and user-facing technical requirements.
+- Supported 100+ employees with software, hardware and network troubleshooting, workstation and application validation, issue documentation and support.
 - Investigated hardware and software issues, assisted with troubleshooting, and communicated practical resolutions.
 - Built a strong foundation in problem analysis, prioritisation, documentation and user support.
 
@@ -81,6 +81,10 @@ A recruiter-focused portfolio presenting professional experience, manual testing
 </p>
 
 *SauceDemo and MakeMyTrip are portfolio/practice projects. They are not represented as production client engagements. The figures above apply only to the SauceDemo project.*
+
+## Testing Skills
+
+Functional, regression, retesting, smoke, sanity, exploratory, UI, responsive, cross-browser, positive/negative testing, boundary value analysis, equivalence partitioning, SDLC, STLC, test scenarios, test cases, RTM and defect lifecycle.
 
 ## Tools & Working Knowledge
 
@@ -107,11 +111,12 @@ I aim to make every defect report actionable: clear steps to reproduce, expected
 ## Education & Training
 
 - **Diploma in Information Technology** — Dr. S. & S. S. Ghandhy College of Engineering & Technology
-- **Manual Software Testing Training** — TOPS Technologies | April 2025 – September 2025
+- **Manual & Automation Tester** — TOPS Technologies | 25 March 2026
+- **Test Engineer, Grade A** — NSDC / Skill India | 27 March 2026
 
 ## Career Interests
 
-Open to opportunities in **Manual Software Testing, Manual QA, Web QA, Website Quality Assurance and WordPress QA**, particularly in **Surat and Ahmedabad, Gujarat**.
+Open to opportunities in **Manual Software Testing, Manual QA, Web QA, Website Quality Assurance and WordPress QA**, for **Ahmedabad on-site or remote / work-from-home roles only**.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kalp-shah-software-tester/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
