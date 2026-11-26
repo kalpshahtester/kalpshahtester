@@ -4,11 +4,7 @@
 -->
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/qa-release-control-mobile.svg">
-    <source media="(min-width: 601px)" srcset="./assets/qa-release-control.svg">
-    <img src="./assets/qa-release-control.svg" alt="Kalp Shah, Manual QA Tester — coverage planning, defect reporting, retesting and verification" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-release-control.svg" alt="Kalp Shah, Manual QA Tester — coverage planning, defect reporting, retesting and verification" width="100%">
 
   <p>
     <a href="https://kalpshahtester.github.io/"><strong>PORTFOLIO</strong></a>
@@ -77,10 +73,7 @@ A practice assessment covering login, flight search, hotel search, expected and 
 A recruiter-focused portfolio presenting professional experience, manual testing projects, QA documentation and contact information.
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/qa-evidence-mobile.svg">
-    <img src="./assets/qa-evidence.svg" alt="SauceDemo practice project: 47 scenarios, 62+ test cases, 282 execution records, 7 documented defects" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-evidence.svg" alt="SauceDemo practice project: 47 scenarios, 62+ test cases, 282 execution records, 7 documented defects" width="100%">
 </div>
 
 *SauceDemo and MakeMyTrip are portfolio/practice projects. They are not represented as production client engagements. The figures above apply only to the SauceDemo project.*
@@ -88,19 +81,13 @@ A recruiter-focused portfolio presenting professional experience, manual testing
 ## Visual QA Coverage
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/qa-command-center-mobile.svg">
-    <img src="./assets/qa-command-center.svg" alt="Functional, UI, responsive, WordPress, SEO and regression QA coverage" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/qa-command-center.svg" alt="Functional, UI, responsive, WordPress, SEO and regression QA coverage" width="100%">
 </div>
 
 ## Testing Skills
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/responsive-matrix-mobile.svg">
-    <img src="./assets/responsive-matrix.svg" alt="Responsive website QA across desktop, tablet and mobile layouts" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/responsive-matrix.svg" alt="Responsive website QA across desktop, tablet and mobile layouts" width="100%">
 </div>
 
 
@@ -109,10 +96,7 @@ Functional, regression, retesting, smoke, sanity, exploratory, UI, responsive, c
 ## Tools & Working Knowledge
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/testing-stack-mobile.svg">
-    <img src="./assets/testing-stack.svg" alt="Manual testing toolkit covering browser inspection, quality checks, defect evidence and collaboration" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/testing-stack.svg" alt="Manual testing toolkit covering browser inspection, quality checks, defect evidence and collaboration" width="100%">
 </div>
 
 
@@ -129,7 +113,7 @@ Functional, regression, retesting, smoke, sanity, exploratory, UI, responsive, c
 ## Testing Approach
 
 <p align="center">
-  <img src="./assets/process/qa-process.svg" alt="Manual QA process from test planning and execution through defect reporting, retesting and verification" width="100%">
+  <img src="https://raw.githubusercontent.com/kalpshahtester/kalpshahtester/main/assets/process/qa-process.svg" alt="Manual QA process from test planning and execution through defect reporting, retesting and verification" width="100%">
 </p>
 
 **Understand requirements → Plan coverage → Design test cases → Execute → Capture evidence → Report defects → Retest → Regression → Verify**
