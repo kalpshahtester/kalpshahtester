@@ -87,15 +87,34 @@ A recruiter-focused portfolio presenting professional experience, manual testing
 
 ## Visual QA Coverage
 
-<p align="center">
-  <img src="./assets/qa-command-center.svg" alt="Visual overview of functional, UI, responsive, WordPress, SEO and regression testing" width="100%">
-</p>
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/qa-command-center-mobile.svg">
+    <img src="./assets/qa-command-center.svg" alt="Functional, UI, responsive, WordPress, SEO and regression QA coverage" width="100%">
+  </picture>
+</div>
 
 ## Testing Skills
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/responsive-matrix-mobile.svg">
+    <img src="./assets/responsive-matrix.svg" alt="Responsive website QA across desktop, tablet and mobile layouts" width="100%">
+  </picture>
+</div>
+
 
 Functional, regression, retesting, smoke, sanity, exploratory, UI, responsive, cross-browser, positive/negative testing, boundary value analysis, equivalence partitioning, SDLC, STLC, test scenarios, test cases, RTM and defect lifecycle.
 
 ## Tools & Working Knowledge
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/testing-stack-mobile.svg">
+    <img src="./assets/testing-stack.svg" alt="Manual testing toolkit covering browser inspection, quality checks, defect evidence and collaboration" width="100%">
+  </picture>
+</div>
+
 
 | Category | Tools |
 |---|---|
